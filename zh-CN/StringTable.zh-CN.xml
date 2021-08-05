@@ -789,7 +789,7 @@ Browser</Entry>
   <Entry key="GUI_PLAY_BUTTON">开始</Entry>
   <Entry key="GUI_PARTY_BUTTON">队伍</Entry>
   <Entry key="GUI_FRIENDS_BUTTON">好友</Entry>
-  <Entry key="GUI_RANKED_PROFILE_BUTTON">Ranked Profile</Entry>
+  <Entry key="GUI_RANKED_PROFILE_BUTTON">排位数据</Entry>
   <Entry key="GUI_INVITE_FB_FRIENDS_BUTTON">Invite Facebook Friends</Entry>
   <Entry key="GUI_RANKED_PROFILE_RANKED">Ranked Statistics</Entry>
   <Entry key="GUI_RANKED_PROFILE_IN_PLACEMENT">Ranked Placements Stats</Entry>
@@ -965,7 +965,7 @@ Browser</Entry>
   <Entry key="GUI_MODE_TUTORIAL">Tutorial</Entry>
   <Entry key="GUI_MODE_RANKED">排位</Entry>
   <Entry key="GUI_MODE_RANKED_PRACTICE">排位训练</Entry>
-  <Entry key="GUI_MODE_RAPID_MODE">Rapid Mode</Entry>
+  <Entry key="GUI_MODE_RAPID_MODE">快速模式</Entry>
   <Entry key="GUI_MODE_ALL_ANY">全部任意</Entry>
   <Entry key="GUI_MODE_RAINBOW">彩虹</Entry>
   <Entry key="GUI_MODE_VIGILANTICS">Vigilantics</Entry>
@@ -990,7 +990,7 @@ Browser</Entry>
   <Entry key="GUI_CLASSIC_SUMMARY">Classic mode has a smaller variety of roles and less random roles. </Entry>
   <Entry key="GUI_CUSTOM_SUMMARY">Custom mode has access to all roles. </Entry>
   <Entry key="GUI_ALL_ANY_SUMMARY">All Any mode has a role list of Any roles. </Entry>
-  <Entry key="GUI_RAPID_MODE_SUMMARY">Rapid mode has much faster discussion and night phases. </Entry>
+  <Entry key="GUI_RAPID_MODE_SUMMARY">快速模式有更快的讨论和夜晚阶段。</Entry>
   <Entry key="GUI_VIGILANTICS_SUMMARY">Vigilante vs Witch chaos. </Entry>
   <Entry key="GUI_RANKED_SUMMARY">For experienced, competitive players. You must have at least 50 games played, with 10 of those being ranked practice games, before you can play Ranked.</Entry>
   <Entry key="GUI_RANKED_PRACTICE_SUMMARY">A practice mode for ranked competitive play. You must have at least 50 games played, with 10 of those being in this ranked practice mode, before you can play Ranked.</Entry>
@@ -1087,24 +1087,24 @@ Browser</Entry>
       <align="left"><nobr> </nobr></align>
       <align="left"><indent=5%><b><color=#FFB84D>Tier 4: </color></b>Permanent ban</indent></align>
       <align="left"><nobr> </nobr></align>]]></Entry>
-  <Entry key="GUI_PARTY_TITLE">Party</Entry>
-  <Entry key="GUI_PLAY_SOLO">Play Solo</Entry>
-  <Entry key="GUI_CREATE_PARTY">Create a Party</Entry>
+  <Entry key="GUI_PARTY_TITLE">队伍</Entry>
+  <Entry key="GUI_PLAY_SOLO">独自游玩</Entry>
+  <Entry key="GUI_CREATE_PARTY">创建队伍</Entry>
   <Entry key="GUI_RANKED_GAMES_PLAYED">%xOfy% games played</Entry>
   <Entry key="GUI_RANKED_PRACTICE_GAMES_PLAYED">%xOfy% ranked practice games played</Entry>
-  <Entry key="GUI_JOIN_LOBBY">Join Lobby</Entry>
-  <Entry key="GUI_PLAY_NOW">Play Now</Entry>
-  <Entry key="GUI_JOIN_QUEUE">Join Queue</Entry>
+  <Entry key="GUI_JOIN_LOBBY">加入大厅</Entry>
+  <Entry key="GUI_PLAY_NOW">立刻开始游戏</Entry>
+  <Entry key="GUI_JOIN_QUEUE">加入队列</Entry>
   <!--Key "GUI_CREATE_APARTY" has the same text as key "GUI_CREATE_PARTY"-->
-  <Entry key="GUI_CREATE_APARTY">Create a Party</Entry>
-  <Entry key="GUI_RULES">Rules</Entry>
+  <Entry key="GUI_CREATE_APARTY">创建队伍</Entry>
+  <Entry key="GUI_RULES">规则</Entry>
   <Entry key="GUI_RULES_LOAD_ERROR">Error loading Rules.</Entry>
   <Entry key="GUI_PLAY_RANKED">Play Ranked</Entry>
   <Entry key="GUI_PLAYERS_IN_PARTY">Players In Party: </Entry>
-  <Entry key="GUI_PARTY_LEAVE">Leave</Entry>
+  <Entry key="GUI_PARTY_LEAVE">离开</Entry>
   <!--Key "GUI_PARTY_START" has the same text as key "GUI_START"-->
-  <Entry key="GUI_PARTY_START">Start</Entry>
-  <Entry key="GUI_PARTY_INVITE">Invite</Entry>
+  <Entry key="GUI_PARTY_START">开始</Entry>
+  <Entry key="GUI_PARTY_INVITE">邀请</Entry>
   <Entry key="GUI_PARTY_FAILED">Failed</Entry>
   <Entry key="GUI_PARTY_PENDING">Pending</Entry>
   <Entry key="GUI_PARTY_LOADING">Loading</Entry>
@@ -1164,8 +1164,8 @@ Browser</Entry>
   <Entry key="GUI_PLAYERS_IN_LOBBY">Players in lobby:</Entry>
   <Entry key="GUI_SELECTED_ROLES_IN_LOBBY">Selected Roles:</Entry>
   <Entry key="GUI_HOST_CONTROLS_TOGGLE">Toggle Host Controls</Entry>
-  <Entry key="GUI_HOST">HOST</Entry>
-  <Entry key="GUI_HOST_TOOLTIP">Host</Entry>
+  <Entry key="GUI_HOST">房主</Entry>
+  <Entry key="GUI_HOST_TOOLTIP">房主</Entry>
   <Entry key="GUI_HOST_CONTROLS">Host Controls</Entry>
   <Entry key="GUI_HOST_CONTROLS_ROLES_TAB">Roles</Entry>
   <Entry key="GUI_HOST_CONTROLS_OPTIONS_TAB">Options</Entry>
@@ -1545,26 +1545,26 @@ Premium Account</Entry>
   <!--Key "GUI_LOADING" has the same text as key "GUI_PARTY_LOADING"-->
   <Entry key="GUI_LOADING">Loading</Entry>
   <!--Key "GUI_SETTINGS_HEADER" has the same text as key "GUI_SETTINGS_TOOLTIP"-->
-  <Entry key="GUI_SETTINGS_HEADER">Settings</Entry>
-  <Entry key="GUI_SETTINGS_LANGUAGE_TAB">Language</Entry>
-  <Entry key="GUI_SETTINGS_SOUND_TAB">Sound</Entry>
+  <Entry key="GUI_SETTINGS_HEADER">设置</Entry>
+  <Entry key="GUI_SETTINGS_LANGUAGE_TAB">语言</Entry>
+  <Entry key="GUI_SETTINGS_SOUND_TAB">声音</Entry>
   <!--Key "GUI_SETTINGS_LOCALIZATION_TAB" has the same text as key "GUI_SETTINGS_LANGUAGE_TAB"-->
-  <Entry key="GUI_SETTINGS_LOCALIZATION_TAB">Language</Entry>
-  <Entry key="GUI_SETTINGS_CHAT_TAB">Chat</Entry>
-  <Entry key="GUI_SETTINGS_VIDEO_TAB">Video</Entry>
-  <Entry key="GUI_SETTINGS_GENERAL_TAB">General</Entry>
-  <Entry key="GUI_SETTINGS_DISPLAY_TAB">Display</Entry>
+  <Entry key="GUI_SETTINGS_LOCALIZATION_TAB">语言</Entry>
+  <Entry key="GUI_SETTINGS_CHAT_TAB">聊天</Entry>
+  <Entry key="GUI_SETTINGS_VIDEO_TAB">视频</Entry>
+  <Entry key="GUI_SETTINGS_GENERAL_TAB">通用</Entry>
+  <Entry key="GUI_SETTINGS_DISPLAY_TAB">显示</Entry>
   <Entry key="GUI_SETTINGS_ROLES_TAB">View Roles</Entry>
   <Entry key="GUI_SETTINGS_HELP_TAB">Help</Entry>
   <Entry key="GUI_SETTINGS_BUG_TAB">Report Bug</Entry>
   <Entry key="GUI_SETTINGS_TAKE_EFFECT_IMMEDIATELY">The following settings take effect immediately:</Entry>
   <Entry key="GUI_SETTINGS_TAKE_EFFECT_NEXT_GAME">The following settings will take effect on your next game:</Entry>
-  <Entry key="GUI_SETTINGS_MUSIC_CHECKBOX">Music</Entry>
+  <Entry key="GUI_SETTINGS_MUSIC_CHECKBOX">音乐</Entry>
   <Entry key="GUI_SETTINGS_EFFECTS_CHECKBOX">Effects</Entry>
   <Entry key="GUI_SETTINGS_QUEUE_LABEL">Preferred Chat Language</Entry>
   <Entry key="GUI_SETTINGS_TUTORIAL_TIP_LABEL">Tutorial Tips:</Entry>
   <Entry key="GUI_SETTINGS_GRAPHICS_LEVEL_LABEL">Graphics Level:</Entry>
-  <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_0">Select Language</Entry>
+  <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_0">选择语言</Entry>
   <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_1">English</Entry>
   <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_2">Türkçe</Entry>
   <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_3">Español</Entry>
@@ -1575,15 +1575,15 @@ Premium Account</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_SEND_CHAT_ON_LOST_FOCUS_TOOLTIP">Enable "Send Chat on Lost Focus" to always send chat messages when the chatbox loses focus, rather than just on pressing Enter or Return key.</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_EXT_PLAYER_NUMBERS_CHECKBOX">Show Extended Player Numbers</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_EXT_PLAYER_NUMBERS_TOOLTIP">Enable "Show Extended Player Numbers" to show the position number of players referenced in game messages.</Entry>
-  <Entry key="GUI_SETTINGS_CHAT_FILTER_CHECKBOX">Enable Chat Filter</Entry>
-  <Entry key="GUI_SETTINGS_CHAT_FILTER_TOOLTIP">Enable the chat filter to replace potentially abusive or bullying language.</Entry>
-  <Entry key="GUI_SETTINGS_FULLSCREEN_BUTTON">Toggle Fullscreen</Entry>
-  <Entry key="GUI_SETTINGS_FULLSCREEN_CHECKBOX">Enable Fullscreen</Entry>
-  <Entry key="GUI_SETTINGS_FULLSCREEN_TOOLTIP">On: Fullscreen mode. Off: Windowed mode</Entry>
-  <Entry key="GUI_SETTINGS_VSYNC_CHECKBOX">Enable VSync</Entry>
+  <Entry key="GUI_SETTINGS_CHAT_FILTER_CHECKBOX">启用聊天过滤</Entry>
+  <Entry key="GUI_SETTINGS_CHAT_FILTER_TOOLTIP">启用以过滤侮辱性文字。</Entry>
+  <Entry key="GUI_SETTINGS_FULLSCREEN_BUTTON">切换全屏</Entry>
+  <Entry key="GUI_SETTINGS_FULLSCREEN_CHECKBOX">启用全屏模式</Entry>
+  <Entry key="GUI_SETTINGS_FULLSCREEN_TOOLTIP">开: 全屏模式 关: 窗口模式</Entry>
+  <Entry key="GUI_SETTINGS_VSYNC_CHECKBOX">启用垂直同步</Entry>
   <Entry key="GUI_SETTINGS_VSYNC_TOOLTIP">On: sync game frame rate with monitor refresh rate (more stable). Off: potentially higher frame rate with possible tearing and other artifacts.</Entry>
   <Entry key="GUI_SETTINGS_RESOLUTION">Resolution</Entry>
-  <Entry key="GUI_SETTINGS_ANTIALIASING">Anti-Aliasing</Entry>
+  <Entry key="GUI_SETTINGS_ANTIALIASING">抗锯齿</Entry>
   <Entry key="GUI_SETTINGS_ENVIRONMENT_DROPDOWN">Choose the Environment to connect to:</Entry>
   <Entry key="GUI_SETTINGS_HIDE_CUSTOMIZATION_CHECKBOX">Hide My Customizations From Other Players</Entry>
   <Entry key="GUI_SETTINGS_HIDE_CUSTOMIZATION_TOOLTIP">Allows you, but not other players, to view your customized character, pet, and house.</Entry>
@@ -1626,11 +1626,11 @@ Would you like to clear your Player Prefs?</Entry>
   <Entry key="GUI_SETTINGS_ENABLE_PLAYER_LOG_TOOLTIP">Checkmark this box to enable the writing of a player log</Entry>
   <Entry key="GUI_SETTINGS_VIEW_PLAYER_LOG">View Log</Entry>
   <Entry key="GUI_SETTINGS_VIEW_PLAYER_LOG_CONFIRM">Opening the Player Log may take some time and the UI will be unresponsive while the log is opening. Are you sure you want to continue?</Entry>
-  <Entry key="GUI_SETTINGS_LANGUAGE_TEXT">Select UI Language</Entry>
+  <Entry key="GUI_SETTINGS_LANGUAGE_TEXT">选择UI语言</Entry>
   <!--Key "GUI_SELECT_LANGUAGE_ITEM_TEXT" has the same text as key "GUI_SETTINGS_SELECT_LANGUAGE"-->
-  <Entry key="GUI_SELECT_LANGUAGE_ITEM_TEXT">Select Language</Entry>
+  <Entry key="GUI_SELECT_LANGUAGE_ITEM_TEXT">选择语言</Entry>
   <!--Key "GUI_SETTINGS_QUIT_BUTTON" has the same text as key "GUI_QUIT"-->
-  <Entry key="GUI_SETTINGS_QUIT_BUTTON">Quit</Entry>
+  <Entry key="GUI_SETTINGS_QUIT_BUTTON">退出</Entry>
   <Entry key="GUI_SETTINGS_LANGUAGE_ONLY_AT_LOGIN">Language selection may only be changed from the Options screen available at the Login screen. Please log out of the application and make your selection before logging in.</Entry>
   <Entry key="GUI_SETTINGS_DISPLAY_SETTINGS">Display Settings</Entry>
   <Entry key="GUI_SETTINGS_DISPLAY_TO_OTHERS">Display To Others</Entry>
@@ -1652,10 +1652,10 @@ Would you like to clear your Player Prefs?</Entry>
   <Entry key="GUI_IO_NOT_SUPPORTED">This operation is not supported on this operating system.</Entry>
   <Entry key="GUI_CUSTOMIZATION_SETTINGS_TOOLTIP">Customization
 Settings</Entry>
-  <Entry key="GUI_CUSTOMIZATION_NAME">Name:</Entry>
-  <Entry key="GUI_CUSTOMIZATION_NAME_PLACEHOLDER">Enter Name</Entry>
+  <Entry key="GUI_CUSTOMIZATION_NAME">名字：</Entry>
+  <Entry key="GUI_CUSTOMIZATION_NAME_PLACEHOLDER">输入名字</Entry>
   <!--Key "GUI_CUSTOMIZATION_SAVE" has the same text as key "GUI_SETTINGS_SAVE"-->
-  <Entry key="GUI_CUSTOMIZATION_SAVE">Save</Entry>
+  <Entry key="GUI_CUSTOMIZATION_SAVE">保存</Entry>
   <Entry key="GUI_CUSTOMIZATION_SELECTION_LABEL">Selected</Entry>
   <Entry key="GUI_CUSTOMIZATION_CHARACTERS">Characters</Entry>
   <Entry key="GUI_CUSTOMIZATION_HOUSES">Houses</Entry>
@@ -3106,9 +3106,9 @@ NOTE: If you don't hit submit, you will get a random name!</Entry>
   <Entry key="GUI_LEAVE_LOBBY_MSG">Are you sure you want to leave the lobby?</Entry>
   <Entry key="GUI_LEAVE_GAME">Leave Game</Entry>
   <Entry key="GUI_LEAVE_GAME_Q">Leave Game?</Entry>
-  <Entry key="GUI_LOGOUT">Logout</Entry>
-  <Entry key="GUI_LOGOUT_Q">Logout?</Entry>
-  <Entry key="GUI_LOGOUT_MSG">Are you sure you want to logout?</Entry>
+  <Entry key="GUI_LOGOUT">登出</Entry>
+  <Entry key="GUI_LOGOUT_Q">确认登出？</Entry>
+  <Entry key="GUI_LOGOUT_MSG">是否确认想要登出账号？</Entry>
   <Entry key="GUI_EXCESSIVE_TRANSITION_TIME">This is taking longer than expected. You may continue to wait or click the Logout button.</Entry>
   <Entry key="GUI_CHOOSE_ROLE">Choose Role:</Entry>
   <Entry key="GUI_LAST_WILL">Last Will</Entry>
