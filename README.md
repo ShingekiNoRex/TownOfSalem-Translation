@@ -12,25 +12,29 @@ Please feel free to give your advice or submit pull requests.
 
 1. Download and install [BepInEX](https://github.com/BepInEx/BepInEx/releases)
 
-2. Download the latest `ToS_TranslationReplacer.dll` and `FontAsset-SIMYOU` from [here](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)
+2. Launch game for once then close
 
-3. Put `ToS_TranslationReplacer.dll` into `Town of Salem\BepInEx\plugins`
+3. Download the latest `ToS_TranslationReplacer.dll` and `FontAsset-SIMYOU` from [here](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)
 
-4. Put `FontAsset-SIMYOU` into `Town of Salem\TownOfSalem_Data\StreamingAssets`
+4. Put `ToS_TranslationReplacer.dll` into `Town of Salem\BepInEx\plugins`
 
-5. Launch game
+5. Put `FontAsset-SIMYOU` into `Town of Salem\TownOfSalem_Data\StreamingAssets`
+
+6. Launch game again
 
 ---------------------------------------------------------------------------------
 
 1. 下载并安装[BepInEX](https://github.com/BepInEx/BepInEx/releases)
 
-2. [点击此处](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)下载最新的`ToS_TranslationReplacer.dll`和`FontAsset-SIMYOU`
+2. 运行游戏一次后关闭
 
-3. 将`ToS_TranslationReplacer.dll`放进`Town of Salem\BepInEx\plugins`
+3. [点击此处](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)下载最新的`ToS_TranslationReplacer.dll`和`FontAsset-SIMYOU`
 
-4. 将`FontAsset-SIMYOU`放进`Town of Salem\TownOfSalem_Data\StreamingAssets`
+4. 将`ToS_TranslationReplacer.dll`放进`Town of Salem\BepInEx\plugins`
 
-5. 运行游戏
+5. 将`FontAsset-SIMYOU`放进`Town of Salem\TownOfSalem_Data\StreamingAssets`
+
+6. 再次运行游戏
 
 # Used libraries
 
