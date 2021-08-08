@@ -1,9 +1,9 @@
 # Town of Salem - Translation
-This is an unofficial translation repo for game [Town of Salem(steam version)](https://store.steampowered.com/app/334230/Town_of_Salem/).
+This is an unofficial translation repo for game [Town of Salem(Steam version)](https://store.steampowered.com/app/334230/Town_of_Salem/).
 
 Please feel free to give your advice or submit pull requests.
 
-这是[Steam版的Town of Salem](https://store.steampowered.com/app/334230/Town_of_Salem/)的第三方翻译托管库。
+这是[Town of Salem(Steam版)](https://store.steampowered.com/app/334230/Town_of_Salem/)的第三方翻译托管库。
 
 欢迎提供建议或者提交修改。
 
