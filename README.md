@@ -1,5 +1,5 @@
-# TownOfSalem-Translation
-This is an unofficial translation repo for game Town of Salem(steam version).
+# Town of Salem - Translation
+This is an unofficial translation repo for game [Town of Salem(steam version)](https://store.steampowered.com/app/334230/Town_of_Salem/).
 
 Please feel free to give your advice or submit pull requests.
 
