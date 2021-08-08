@@ -20,6 +20,8 @@ Please feel free to give your advice or submit pull requests.
 
 5. Launch game
 
+---------------------------------------------------------------------------------
+
 1. 下载并安装[BepInEX](https://github.com/BepInEx/BepInEx/releases)
 
 2. [点击此处](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)下载最新的`ToS_TranslationReplacer.dll`和`FontAsset-SIMYOU`
