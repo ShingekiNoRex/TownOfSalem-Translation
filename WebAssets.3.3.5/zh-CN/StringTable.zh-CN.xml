@@ -731,15 +731,15 @@ Please do not use characters such as spaces, &apos; or &quot;</Entry>
   <Entry key="GUI_REGISTER_LINK_EXPLANATION">To link your Steam account to your existing Town of Salem account, enter your Town of Salem username and password below. Do NOT enter your Steam account name unless it's identical to your Town of Salem account name.</Entry>
   <Entry key="GUI_REGISTER_CREATE_NEW_EXPLANATION">
 Let's create a new Town of Salem account and link it to your Steam account.</Entry>
-  <Entry key="GUI_REGISTER_EMAIL">Email:</Entry>
-  <Entry key="GUI_REGISTER_CONFIRM_EMAIL">Confirm Email:</Entry>
-  <Entry key="GUI_REGISTER_USERNAME">Username:</Entry>
-  <Entry key="GUI_REGISTER_PASSWORD">Password:</Entry>
-  <Entry key="GUI_REGISTER_CONFIRM_PW">Confirm Password:</Entry>
-  <Entry key="GUI_REGISTER_RA_F">Optional: If you have a friend who invited you to play Town of Salem, enter their account name below.</Entry>
+  <Entry key="GUI_REGISTER_EMAIL">邮箱：</Entry>
+  <Entry key="GUI_REGISTER_CONFIRM_EMAIL">确认邮箱：</Entry>
+  <Entry key="GUI_REGISTER_USERNAME">用户名：</Entry>
+  <Entry key="GUI_REGISTER_PASSWORD">密码：</Entry>
+  <Entry key="GUI_REGISTER_CONFIRM_PW">确认密码：</Entry>
+  <Entry key="GUI_REGISTER_RA_F">可选：如果你有一位朋友邀请你游玩 Town of Salem，请在下方输入他/她的账户名。</Entry>
   <!--Key "GUI_REGISTER_SUBMIT" has the same text as key "GUI_SUBMIT"-->
-  <Entry key="GUI_REGISTER_SUBMIT">Submit</Entry>
-  <Entry key="GUI_REGISTER_REFERER_PLACEHOLDER">Referer (Optional)</Entry>
+  <Entry key="GUI_REGISTER_SUBMIT">提交</Entry>
+  <Entry key="GUI_REGISTER_REFERER_PLACEHOLDER">推荐人 （可选）</Entry>
   
   <Entry key="GUI_STEAMLINK_WELCOME">Hey there, Steam user!</Entry>
   <Entry key="GUI_STEAMLINK_BLURB">You haven't yet linked your Steam account to your Town of Salem account, so you're missing out on your exclusive Steam rewards. Some other functions also require your accounts to be linked. Would you like to link your accounts now?</Entry>
@@ -777,11 +777,11 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_SOCIAL_MEDIA_YOUTUBE">Visit our YouTube page</Entry>
   <Entry key="GUI_SOCIAL_MEDIA_TWITTER">Visit our Twitter page</Entry>
   <Entry key="GUI_SOCIAL_MEDIA_STEAM">Visit our Steam Community page</Entry>
-  <Entry key="GUI_CUSTOMIZATION_OPTIONS_TOOLTIP">Customization
-Options</Entry>
+  <Entry key="GUI_CUSTOMIZATION_OPTIONS_TOOLTIP">自定义
+选项</Entry>
   <Entry key="GUI_SHOP_TOOLTIP">商店</Entry>
-  <Entry key="GUI_ACHIEVEMENT_BROWSER_TOOLTIP">Achievement
-Browser</Entry>
+  <Entry key="GUI_ACHIEVEMENT_BROWSER_TOOLTIP">成就
+浏览器</Entry>
   <Entry key="GUI_SETTINGS_TOOLTIP">设置</Entry>
   <Entry key="GUI_START">开始</Entry>
   <Entry key="GUI_ADD_ROLE">添加角色</Entry>
@@ -815,7 +815,7 @@ Browser</Entry>
   <Entry key="GUI_DAYS_TO_GO">天剩余</Entry>
   <Entry key="GUI_KICKSTARTER_FREE_REWARDS">Free rewards for everyone if we hit our Kickstarter goal of</Entry>
   <Entry key="GUI_ERROR_LOADING_YOUTUBE">Error loading YouTube video!</Entry>
-  <Entry key="GUI_BUY_FEATURED_ITEM">Buy</Entry>
+  <Entry key="GUI_BUY_FEATURED_ITEM">购买</Entry>
   <Entry key="GUI_MP">MP</Entry>
   <Entry key="GUI_TP">TP</Entry>
   <Entry key="GUI_CAULDRON_TITLE1">Random Award</Entry>
@@ -876,20 +876,20 @@ Browser</Entry>
   <Entry key="GUI_FRIEND_CANNOT_FRIEND_SELF">You cannot friend yourself.</Entry>
   <Entry key="GUI_FRIEND_ALREADY_FRIENDED">%name% is already your friend</Entry>
   <Entry key="GUI_FRIEND_INVITE_PENDING">An invite to %name% is already pending.</Entry>
-  <Entry key="GUI_FRIEND_ADD">Add Friend</Entry>
-  <Entry key="GUI_FRIEND_PLACEHOLDER">Enter Friend's Name...</Entry>
-  <Entry key="GUI_FRIEND_REMOVE">Remove</Entry>
-  <Entry key="GUI_FRIEND_REMOVE_DIALOG">Remove %name% as a friend?</Entry>
-  <Entry key="GUI_FRIEND_MESSAGE">Message</Entry>
-  <Entry key="GUI_FRIEND_BUTTON_REMOVE">Remove Friend</Entry>
-  <Entry key="GUI_FRIEND_BUTTON_MESSAGE">Send Message</Entry>
+  <Entry key="GUI_FRIEND_ADD">添加好友</Entry>
+  <Entry key="GUI_FRIEND_PLACEHOLDER">输入好友名称...</Entry>
+  <Entry key="GUI_FRIEND_REMOVE">移除</Entry>
+  <Entry key="GUI_FRIEND_REMOVE_DIALOG">确认移除 %name% 好友？</Entry>
+  <Entry key="GUI_FRIEND_MESSAGE">消息</Entry>
+  <Entry key="GUI_FRIEND_BUTTON_REMOVE">移除好友</Entry>
+  <Entry key="GUI_FRIEND_BUTTON_MESSAGE">发送消息</Entry>
   <Entry key="GUI_FRIEND_SUCCESS_TITLE">Successfully Sent!</Entry>
-  <Entry key="GUI_FRIEND_FRIEND_REQUEST">Friend Request</Entry>
-  <Entry key="GUI_FRIEND_FRIEND_COUNT">Friend Count: %x%</Entry>
+  <Entry key="GUI_FRIEND_FRIEND_REQUEST">好友请求</Entry>
+  <Entry key="GUI_FRIEND_FRIEND_COUNT">好友数： %x%</Entry>
   <!--Key "GUI_FRIEND_OKAY" has the same text as key "GUI_OKAY"-->
   <Entry key="GUI_FRIEND_OKAY">OK</Entry>
-  <Entry key="GUI_FRIENDS_NAME">Friend's Name</Entry>
-  <Entry key="GUI_FRIEND_FRIENDED">Friended</Entry>
+  <Entry key="GUI_FRIENDS_NAME">好友名称</Entry>
+  <Entry key="GUI_FRIEND_FRIENDED">已添加好友</Entry>
   <Entry key="GUI_FRIEND_ERROR_IMPROPER_ADD">Improperly formatted add friend message!</Entry>
   <Entry key="GUI_FRIEND_ERROR_INVALID_STATUS">Friend status update was not valid!</Entry>
   <Entry key="GUI_FRIEND_ERROR_IMPROPER_STATUS">Improperly formatted friend status update!</Entry>
@@ -906,17 +906,17 @@ Browser</Entry>
   <Entry key="GUI_FRIEND_ERROR_FRIEND_STATUS_BY_ID">Could not get friend status by ID!</Entry>
   <Entry key="GUI_FRIEND_ERROR_FRIEND_OWNS_COVEN_BY_NAME">Could not get friend ownsCoven by Name!</Entry>
   <Entry key="GUI_FRIEND_CHAT_OFFLINE">You cannot chat with an offline friend.</Entry>
-  <Entry key="GUI_FRIEND_STATUS_OFFLINE">Offline</Entry>
-  <Entry key="GUI_FRIEND_STATUS_ONLINE">Online</Entry>
-  <Entry key="GUI_FRIEND_STATUS_AWAY">Away</Entry>
-  <Entry key="GUI_FRIEND_STATUS_IN_GAME">In Game</Entry>
-  <Entry key="GUI_FRIEND_STATUS_IN_LOBBY">In Lobby</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_OFFLINE">Offline</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_ONLINE">Online</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_ACTIVE">Online</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_AFK">Away</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_INGAME">In Game</Entry>
-  <Entry key="GUI_FRIEND_STATUS_LOOKUP_INLOBBY">In Lobby</Entry>
+  <Entry key="GUI_FRIEND_STATUS_OFFLINE">离线</Entry>
+  <Entry key="GUI_FRIEND_STATUS_ONLINE">在线</Entry>
+  <Entry key="GUI_FRIEND_STATUS_AWAY">离开</Entry>
+  <Entry key="GUI_FRIEND_STATUS_IN_GAME">游戏中</Entry>
+  <Entry key="GUI_FRIEND_STATUS_IN_LOBBY">在大厅</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_OFFLINE">离线</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_ONLINE">在线</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_ACTIVE">在线</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_AFK">离开</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_INGAME">游戏中</Entry>
+  <Entry key="GUI_FRIEND_STATUS_LOOKUP_INLOBBY">在大厅</Entry>
   <Entry key="GUI_INVITE_INSTRUCTIONS">Instructions: Click the friend's name you wish to add to the invite list.</Entry>
   <Entry key="GUI_AVAILABLE_PLAYERS">Available Players (%x%)</Entry>
   <Entry key="GUI_INVITE_NAME">Name</Entry>
@@ -955,8 +955,8 @@ Browser</Entry>
   <Entry key="GUI_STARTING">Starting</Entry>
   <Entry key="GUI_FIRST_WIN_BONUS_AVAILABLE">每日首胜奖励可用</Entry>
   <Entry key="GUI_FIRST_WIN_BONUS_AVAILABLE_IN">距离下一次每日首胜奖励的时间 </Entry>
-  <Entry key="GUI_XUSERS_YGAMES">There are %x% players online and %y% games of Town of Salem.</Entry>
-  <Entry key="GUI_MODE_NONE">None</Entry>
+  <Entry key="GUI_XUSERS_YGAMES">目前有 %x% 名玩家在线，有 %y% 场 Town of Salem 游戏进行中。</Entry>
+  <Entry key="GUI_MODE_NONE">无</Entry>
   <Entry key="GUI_MODE_NORMAL">标准</Entry>
   <Entry key="GUI_MODE_CUSTOM">自定义</Entry>
   <Entry key="GUI_MODE_CHAOS">混沌</Entry>
