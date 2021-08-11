@@ -933,24 +933,24 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_SHARE">Share!</Entry>
   <Entry key="GUI_SHARE_AND_EARN">Share with your friends and earn 100 merit points!</Entry>
   <Entry key="GUI_YOU_EARNED_TOWN_POINTS">You earned %AMOUNT% Town Points!</Entry>
-  <Entry key="GUI_SHARE_WIN_1">Town Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_2">Mafia Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_3">Serial Killer Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_4">Arsonist Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_5">Witch Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_6">Amnesiac Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_7">Executioner Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_8">Survivor Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_9">Neutrals Win</Entry>
-  <Entry key="GUI_SHARE_WIN_10">Jester Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_11">Werewolf Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_12">Vampire Wins</Entry>
+  <Entry key="GUI_SHARE_WIN_1">小镇 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_2">黑手党 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_3">连环杀手 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_4">纵火者 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_5">女巫 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_6">失忆者 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_7">刽子手 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_8">生存者 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_9">中立阵营 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_10">小丑 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_11">狼人 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_12">吸血鬼 获胜</Entry>
   <Entry key="GUI_SHARE_WIN_13">The Coven Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_14">Plaguebearer Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_15">Pestilence Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_16">Juggernaut Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_17">Guardian Angel Wins</Entry>
-  <Entry key="GUI_SHARE_WIN_18">Pirate Wins</Entry>
+  <Entry key="GUI_SHARE_WIN_14">瘟疫散布者 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_15">末世瘟疫 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_16">红坦克 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_17">守护天使 获胜</Entry>
+  <Entry key="GUI_SHARE_WIN_18">海盗 获胜</Entry>
   <Entry key="GUI_SHARE_WIN_19">Lovers Win</Entry>
   <Entry key="GUI_STARTING">Starting</Entry>
   <Entry key="GUI_FIRST_WIN_BONUS_AVAILABLE">每日首胜奖励可用</Entry>
@@ -980,7 +980,7 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_MODE_COVEN_RANKED_PRACTICE">排位训练</Entry>
   <!--Key "GUI_MODE_COVEN_RANKED" has the same text as key "GUI_MODE_RANKED"-->
   <Entry key="GUI_MODE_COVEN_RANKED">排位</Entry>
-  <Entry key="GUI_MODE_COVEN_MAFIA">Mafia Returns</Entry>
+  <Entry key="GUI_MODE_COVEN_MAFIA">黑手党回归</Entry>
   <Entry key="GUI_MODE_DRACULAS_PALACE">德古拉的宫殿</Entry>
   <Entry key="GUI_MODE_COVEN_TOWN_TRAITOR">小镇叛徒</Entry>
   <Entry key="GUI_MODE_CLASSIC_TOWN_TRAITOR">小镇叛徒</Entry>
@@ -991,7 +991,7 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_CUSTOM_SUMMARY">Custom mode has access to all roles. </Entry>
   <Entry key="GUI_ALL_ANY_SUMMARY">All Any mode has a role list of Any roles. </Entry>
   <Entry key="GUI_RAPID_MODE_SUMMARY">快速模式有更快的讨论和夜晚阶段。</Entry>
-  <Entry key="GUI_VIGILANTICS_SUMMARY">Vigilante vs Witch chaos. </Entry>
+  <Entry key="GUI_VIGILANTICS_SUMMARY">民兵 vs 女巫。 </Entry>
   <Entry key="GUI_RANKED_SUMMARY">For experienced, competitive players. You must have at least 50 games played, with 10 of those being ranked practice games, before you can play Ranked.</Entry>
   <Entry key="GUI_RANKED_PRACTICE_SUMMARY">A practice mode for ranked competitive play. You must have at least 50 games played, with 10 of those being in this ranked practice mode, before you can play Ranked.</Entry>
   <Entry key="GUI_COVEN_RANKED_SUMMARY">For experienced, competitive players. You must have at least 50 games played, with 10 of those being Coven games and 10 of those being ranked practice games, before you can play Ranked.</Entry>
@@ -1158,7 +1158,7 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_LOBBY_NEW_HOST">%name% is now the host.</Entry>
   <Entry key="GUI_LOBBY_HELP">Help:</Entry>
   <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION1">Type / to start a chat command.</Entry>
-  <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION2">/repick to vote to repick the host.</Entry>
+  <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION2">输入/repick重选房主。</Entry>
   <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION3">/f a [name] to add a friend.</Entry>
   <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION4">/f r [name] to remove a friend.</Entry>
   <Entry key="GUI_PLAYERS_IN_LOBBY">Players in lobby:</Entry>
@@ -1541,7 +1541,7 @@ Premium Account</Entry>
   <Entry key="GUI_NAME_INITIAL_SPACE">Name may not have initial spaces.</Entry>
   <Entry key="GUI_NAME_TRAILING_SPACE">Name may not have trailing spaces.</Entry>
   <Entry key="GUI_NAME_DBL_SPACE">Name may not contain double spaces.</Entry>
-  <Entry key="GUI_MENU">Menu</Entry>
+  <Entry key="GUI_MENU">菜单</Entry>
   <!--Key "GUI_LOADING" has the same text as key "GUI_PARTY_LOADING"-->
   <Entry key="GUI_LOADING">Loading</Entry>
   <!--Key "GUI_SETTINGS_HEADER" has the same text as key "GUI_SETTINGS_TOOLTIP"-->
@@ -1569,8 +1569,8 @@ Premium Account</Entry>
   <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_2">Türkçe</Entry>
   <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_3">Español</Entry>
   <Entry key="GUI_SETTINGS_SOFTKEYBOARDUIRESIZING_CHECKBOX">Enable Soft Keyboard UI Resizing</Entry>
-  <Entry key="GUI_SETTINGS_CHAT_ENABLE_PLAYER_NUMBERS_CHECKBOX">Show Player Numbers</Entry>
-  <Entry key="GUI_SETTINGS_CHAT_ENABLE_PLAYER_NUMBERS_TOOLTIP">Enable "Show Player Numbers" to show the position number of the player chatting in the game chat.</Entry>
+  <Entry key="GUI_SETTINGS_CHAT_ENABLE_PLAYER_NUMBERS_CHECKBOX">显示玩家编号</Entry>
+  <Entry key="GUI_SETTINGS_CHAT_ENABLE_PLAYER_NUMBERS_TOOLTIP">启用以在游戏聊天中显示玩家的位置编号。</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_SEND_CHAT_ON_LOST_FOCUS_CHECKBOX">Send Chat on Lost Focus</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_SEND_CHAT_ON_LOST_FOCUS_TOOLTIP">Enable "Send Chat on Lost Focus" to always send chat messages when the chatbox loses focus, rather than just on pressing Enter or Return key.</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_EXT_PLAYER_NUMBERS_CHECKBOX">Show Extended Player Numbers</Entry>
@@ -2910,31 +2910,31 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_MAXIMIZE_TOOLTIP">Maximize</Entry>
   <Entry key="GUI_MINIMIZE_TOOLTIP">Minimize</Entry>
   <Entry key="GUI_ME">Me</Entry>
-  <Entry key="GUI_HEADER_TEXT_TYPE_NAME">Type the name you wish to use. 
-Example: John Smith
-NOTE: If you don't hit submit, you will get a random name!</Entry>
-  <Entry key="GUI_BLURB1">Type the name you wish to use.</Entry>
-  <Entry key="GUI_BLURB2">Example: John Smith</Entry>
-  <Entry key="GUI_BLURB3">NOTE: If you don't hit submit</Entry>
-  <Entry key="GUI_BLURB4">you will get a random name!</Entry>
+  <Entry key="GUI_HEADER_TEXT_TYPE_NAME">请输入你想要使用的名字。
+例: John Smith
+注: 如果你未点击提交，你会得到一个随机名字！</Entry>
+  <Entry key="GUI_BLURB1">请输入你想要使用的名字。</Entry>
+  <Entry key="GUI_BLURB2">例: John Smith</Entry>
+  <Entry key="GUI_BLURB3">注: 如果你未点击提交</Entry>
+  <Entry key="GUI_BLURB4">你会得到一个随机名字！</Entry>
   <Entry key="GUI_BLURB5">Please pick an appropriate, respectful name. Do not try to be edgy nor 'joke' about racism. Inappropriate names may result in punishment including permanent ban from the game.</Entry>
   <!--Key "GUI_NAME_SUBMIT" has the same text as key "GUI_SUBMIT"-->
-  <Entry key="GUI_NAME_SUBMIT">Submit</Entry>
-  <Entry key="GUI_NAME_SUBMIT_PLACEHOLDER">Enter Player Name</Entry>
+  <Entry key="GUI_NAME_SUBMIT">提交</Entry>
+  <Entry key="GUI_NAME_SUBMIT_PLACEHOLDER">输入玩家名</Entry>
   <!--Key "GUI_CHAT_SUBMIT" has the same text as key "GUI_SUBMIT"-->
-  <Entry key="GUI_CHAT_SUBMIT">Submit</Entry>
+  <Entry key="GUI_CHAT_SUBMIT">提交</Entry>
   <Entry key="GUI_CHAT_CHOOSE_NAME" style="error">You must choose a name before you can talk.</Entry>
   <Entry key="GUI_CHAT_BLOCKED" style="error">You cannot chat right now.</Entry>
   <Entry key="GUI_CHAT_LINK_BLOCKED" style="error">Please do not send links.</Entry>
   <Entry key="GUI_CHAT_YOU_ARE_BLACKMAILED">You are blackmailed.</Entry>
   <Entry key="GUI_CHAT_ENTER_YOUR_CHAT_MESSAGE_HERE">Enter your chat message here...</Entry>
   <Entry key="GUI_ALL_ALIVE_LIST">All Live Townies</Entry>
-  <Entry key="GUI_GRAVEYARD_LIST">Graveyard</Entry>
+  <Entry key="GUI_GRAVEYARD_LIST">墓地</Entry>
   <Entry key="GUI_FACTION_LIST">Your Known Faction Members</Entry>
   <Entry key="GUI_TARGET_LIST">Targets</Entry>
   <Entry key="GUI_ROLE_LIST">Role List</Entry>
   <Entry key="GUI_POSSIBLE_ROLES">Possible Roles</Entry>
-  <Entry key="GUI_CAUSE_OF_DEATH">Cause of Death</Entry>
+  <Entry key="GUI_CAUSE_OF_DEATH">死因</Entry>
   <Entry key="GUI_HANGED">Hanged</Entry>
   <Entry key="GUI_SUICIDE">Suicide</Entry>
   <!--Key "GUI_JAIL_TOOLTIP" has the same text as key "ITEM_2_5"-->
@@ -2948,19 +2948,19 @@ NOTE: If you don't hit submit, you will get a random name!</Entry>
   <Entry key="GUI_PLAYER_NUMBERS">Player Numbers</Entry>
   <Entry key="GUI_ON">ON</Entry>
   <Entry key="GUI_OFF">OFF</Entry>
-  <Entry key="GUI_YOU_WERE_JAILED" style="jailed">You were hauled off to jail!</Entry>
-  <Entry key="GUI_YOU_JAILED_SOMEONE" style="positive">You dragged your target off to jail!</Entry>
+  <Entry key="GUI_YOU_WERE_JAILED" style="jailed">你被拖入了监狱！</Entry>
+  <Entry key="GUI_YOU_JAILED_SOMEONE" style="positive">你将你的目标拖入了监狱！</Entry>
   <Entry key="GUI_JAILOR_CANT_KILL_AGAIN" style="ability_status">You have slain a town member so you can't attack again.</Entry>
-  <Entry key="GUI_MEDIUM_IS_TALKING_TO_YOU" style="vital">A medium is talking to you!</Entry>
+  <Entry key="GUI_MEDIUM_IS_TALKING_TO_YOU" style="vital">一个灵媒正在和你说话！</Entry>
   <Entry key="GUI_YOU_ARE_TALKING_TO_THE_LIVING" style="ability_feedback">You have opened a communication with the living!</Entry>
-  <Entry key="GUI_XWAS_HAULED_OFF_TO_JAIL" style="notice">%name% was hauled off to jail</Entry>
-  <Entry key="GUI_FELLOW_MAFIA_WAS_JAILED">was hauled off to jail</Entry>
-  <Entry key="GUI_VAMP_CAN_BITE_TONIGHT" style="ability_status">You may bite a new victim tonight.</Entry>
-  <Entry key="GUI_VAMP_CANT_BITE_TONIGHT" style="ability_status">You must wait a day to bite a new victim.</Entry>
-  <Entry key="GUI_ROLE_0_NIGHT" style="ability_status">You have %number% bulletproof vest left.</Entry>
-  <Entry key="GUI_ROLE_0_NIGHT_PLURAL" style="ability_status">You have %number% bulletproof vests left.</Entry>
-  <Entry key="GUI_ROLE_1_NIGHT" style="ability_status">You have %number% self heal left.</Entry>
-  <Entry key="GUI_ROLE_1_NIGHT_PLURAL" style="ability_status">You have %number% self heals left.</Entry>
+  <Entry key="GUI_XWAS_HAULED_OFF_TO_JAIL" style="notice">%name% 被拖入了监狱。</Entry>
+  <Entry key="GUI_FELLOW_MAFIA_WAS_JAILED">被拖入了监狱</Entry>
+  <Entry key="GUI_VAMP_CAN_BITE_TONIGHT" style="ability_status">今晚你可以咬一个新的受害者。</Entry>
+  <Entry key="GUI_VAMP_CANT_BITE_TONIGHT" style="ability_status">你必须等待一天才能咬一个新的受害者。</Entry>
+  <Entry key="GUI_ROLE_0_NIGHT" style="ability_status">你还剩 %number% 件防弹背心。</Entry>
+  <Entry key="GUI_ROLE_0_NIGHT_PLURAL" style="ability_status">你还剩 %number% 件防弹背心。</Entry>
+  <Entry key="GUI_ROLE_1_NIGHT" style="ability_status">你还剩 %number% 次自愈机会。</Entry>
+  <Entry key="GUI_ROLE_1_NIGHT_PLURAL" style="ability_status">你还剩 %number% 次自愈机会。</Entry>
   <Entry key="GUI_ROLE_4_MUST_WAIT" style="ability_status">You must wait a day before executing.</Entry>
   <Entry key="GUI_ROLE_4_NIGHT" style="ability_status">You have %number% execution left.</Entry>
   <Entry key="GUI_ROLE_4_NIGHT_PLURAL" style="ability_status">You have %number% executions left.</Entry>
@@ -2986,17 +2986,17 @@ NOTE: If you don't hit submit, you will get a random name!</Entry>
   <Entry key="GUI_ROLE_61_NIGHT" style="ability_status">You have %number% stone gaze left.</Entry>
   <Entry key="GUI_ROLE_61_NIGHT_PLURAL" style="ability_status">You have %number% stone gazes left.</Entry>
   <!--Key "GUI_NIGHT" has the same text as key "GUI_NIGHT_NUMBER"-->
-  <Entry key="GUI_NIGHT">Night</Entry>
+  <Entry key="GUI_NIGHT">夜晚</Entry>
   <!--Key "GUI_DAY" has the same text as key "GUI_DAY_NUMBER"-->
-  <Entry key="GUI_DAY">Day</Entry>
-  <Entry key="GUI_DISCUSSION">Discussion</Entry>
-  <Entry key="GUI_VOTING">Voting</Entry>
-  <Entry key="GUI_JUDGEMENT">Judgement</Entry>
-  <Entry key="GUI_GAMEOVER">Game Over</Entry>
+  <Entry key="GUI_DAY">白天</Entry>
+  <Entry key="GUI_DISCUSSION">讨论</Entry>
+  <Entry key="GUI_VOTING">投票</Entry>
+  <Entry key="GUI_JUDGEMENT">审判</Entry>
+  <Entry key="GUI_GAMEOVER">游戏结束</Entry>
   <Entry key="GUI_SELECT_NAME">Select Name</Entry>
   <Entry key="GUI_ROLE_SELECTION">Role Selection</Entry>
-  <Entry key="GUI_ATTACK">Attack</Entry>
-  <Entry key="GUI_DEFENSE">Defense</Entry>
+  <Entry key="GUI_ATTACK">攻击</Entry>
+  <Entry key="GUI_DEFENSE">防御</Entry>
   <Entry key="GUI_FACTION_WINS_1">Town Wins</Entry>
   <Entry key="GUI_FACTION_WINS_2">Mafia Wins</Entry>
   <Entry key="GUI_FACTION_WINS_3">Serial Killer Wins</Entry>
@@ -3019,13 +3019,13 @@ NOTE: If you don't hit submit, you will get a random name!</Entry>
   <Entry key="GUI_FACTION_WINS_20">Plaguebearer Wins</Entry>
   <Entry key="GUI_VIGILANTE_KILLED_TOWN" style="ability_status">You have put away your gun for killing a town member.</Entry>
   <Entry key="GUI_TRIAL_WILL_BEGIN">Today's public vote and trial will now begin.</Entry>
-  <Entry key="GUI_HE">He</Entry>
-  <Entry key="GUI_SHE">She</Entry>
+  <Entry key="GUI_HE">他</Entry>
+  <Entry key="GUI_SHE">她</Entry>
   <Entry key="GUI_XVOTES_ARE_NEEDED">%number% votes are needed to send someone to trial.</Entry>
   <!--Key "GUI_WHO_DIED_PREFIX_HE" has the same text as key "GUI_HE"-->
-  <Entry key="GUI_WHO_DIED_PREFIX_HE">He</Entry>
+  <Entry key="GUI_WHO_DIED_PREFIX_HE">他</Entry>
   <!--Key "GUI_WHO_DIED_PREFIX_SHE" has the same text as key "GUI_SHE"-->
-  <Entry key="GUI_WHO_DIED_PREFIX_SHE">She</Entry>
+  <Entry key="GUI_WHO_DIED_PREFIX_SHE">她</Entry>
   <Entry key="GUI_VOTES_ARE_NEEDED"> votes are needed to send someone to trial.</Entry>
   <Entry key="GUI_TOWN_PUT_THEM_ON_TRIAL" style="trial">The Town has decided to put %name% on trial.</Entry>
   <Entry key="GUI_TOWN_MAY_VOTE_ON_THEM">The Town may now vote on the fate of &lt;color=#FFAE00FF&gt;%name%&lt;/color&gt;.</Entry>
@@ -3128,10 +3128,10 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_DEATH_NOTE_SAVED">Your death note has been saved.</Entry>
   <Entry key="GUI_FORGED_WILL_SAVED">Your forged will has been saved.</Entry>
   <Entry key="GUI_FORGED_ROLE">You have decided to forge %target%'s role as %role%.</Entry>
-  <Entry key="GUI_FULLSCREEN">Fullscreen</Entry>
-  <Entry key="GUI_NOTES">Notes</Entry>
-  <Entry key="GUI_CHAT_LOG">Chat Log</Entry>
-  <Entry key="GUI_CHAT_LOG_BALLOON_TOOLTIP">Player Number</Entry>
+  <Entry key="GUI_FULLSCREEN">全屏</Entry>
+  <Entry key="GUI_NOTES">笔记</Entry>
+  <Entry key="GUI_CHAT_LOG">聊天日志</Entry>
+  <Entry key="GUI_CHAT_LOG_BALLOON_TOOLTIP">玩家编号</Entry>
   <Entry key="GUI_CHAT_LOG_BALLOON_FILTER_TOOLTIP">Click to enable or disable filtering on this player</Entry>
   <Entry key="GUI_CHAT_LOG_REMOVE_FILTER_TOOLTIP">Remove Filter</Entry>
   <Entry key="GUI_CHAT_LOG_ONLY_SHOW_FILTERED_TOOLTIP">Check to only show chats from the filtered player</Entry>
@@ -3154,13 +3154,13 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_PIRATE_CHOOSE_DEFEND_HEADER">Ye've been attacked by a pirate!
 Choose Yer Defence:</Entry>
   <Entry key="GUI_PIRATE_CHOOSE_DEFENCE_WINS_AGAINST">Weak against:</Entry>
-  <Entry key="GUI_PIRATE_ATTACK1TEXT">Scimitar</Entry>
-  <Entry key="GUI_PIRATE_ATTACK2TEXT">Rapier</Entry>
-  <Entry key="GUI_PIRATE_ATTACK3TEXT">Pistol</Entry>
-  <Entry key="GUI_PIRATE_DEFEND1TEXT">Sidestep</Entry>
-  <Entry key="GUI_PIRATE_DEFEND2TEXT">Chainmail</Entry>
-  <Entry key="GUI_PIRATE_DEFEND3TEXT">Backpedal</Entry>
-  <Entry key="GUI_PIRATE_CONFIRM_BUTTON_TEXT">Confirm</Entry>
+  <Entry key="GUI_PIRATE_ATTACK1TEXT">弯刀</Entry>
+  <Entry key="GUI_PIRATE_ATTACK2TEXT">细剑</Entry>
+  <Entry key="GUI_PIRATE_ATTACK3TEXT">手枪</Entry>
+  <Entry key="GUI_PIRATE_DEFEND1TEXT">侧闪</Entry>
+  <Entry key="GUI_PIRATE_DEFEND2TEXT">锁子甲</Entry>
+  <Entry key="GUI_PIRATE_DEFEND3TEXT">退避</Entry>
+  <Entry key="GUI_PIRATE_CONFIRM_BUTTON_TEXT">确认</Entry>
   <Entry key="GUI_PIRATE_ATTACK1NOTICE">Ye decided to stab %name% with yer Rapier.</Entry>
   <Entry key="GUI_PIRATE_ATTACK2NOTICE">Ye decided to slash %name% with yer Scimitar.</Entry>
   <Entry key="GUI_PIRATE_ATTACK3NOTICE">Ye decided to shoot %name% with yer Pistol.</Entry>
