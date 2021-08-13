@@ -1017,17 +1017,17 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_COVEN_RIVALS_DESC">This mode is a Town vs Killers mode that will randomly pair people as Rivals. Kill your rival at any cost, regardless of their faction!</Entry>
   <!--Key "GUI_COVEN_VIPDESC" has the same text as key "GUI_COVEN_VIPSUMMARY"-->
   <Entry key="GUI_COVEN_VIPDESC">This mode is a Town vs Coven mode that will have a Town member randomly selected to be the VIP. If the VIP dies the town loses. </Entry>
-  <Entry key="GUI_ROTATING_GAME_MODE">This is a rotating game mode.</Entry>
-  <Entry key="GUI_ROTATING_GAME_MODE_TIME">Rotating game modes swap out every Tuesday at 10 AM CST.</Entry>
+  <Entry key="GUI_ROTATING_GAME_MODE">这是一个轮换的游戏模式。</Entry>
+  <Entry key="GUI_ROTATING_GAME_MODE_TIME">轮换游戏模式在每周二上午10点切换。</Entry>
   <Entry key="GUI_GAME_MODE_LABEL">Game Mode Select</Entry>
   <Entry key="GUI_GAME_MODE_GAMES_PLAYED">%x%/%y% Games Played</Entry>
   <Entry key="GUI_GAME_MODE_PLACEMENT_GAMES_PLAYED">%x%/%y% Placement Games Played</Entry>
   <Entry key="GUI_GAME_FREE_TICKETS_1_X">Classic Tickets: %x%</Entry>
   <Entry key="GUI_GAME_FREE_TICKETS_2_X">Coven Tickets: %x%</Entry>
-  <Entry key="GUI_SWITCH_TO_COVEN">Switch To Coven</Entry>
-  <Entry key="GUI_SWITCH_TO_CLASSIC">Switch To Classic</Entry>
-  <Entry key="GUI_LIST_CLASSIC_HEADER">Salem Classic Games</Entry>
-  <Entry key="GUI_LIST_COVEN_HEADER">Coven Games</Entry>
+  <Entry key="GUI_SWITCH_TO_COVEN">切换到 Coven</Entry>
+  <Entry key="GUI_SWITCH_TO_CLASSIC">切换到 经典</Entry>
+  <Entry key="GUI_LIST_CLASSIC_HEADER">Salem 经典游戏</Entry>
+  <Entry key="GUI_LIST_COVEN_HEADER">Coven 游戏</Entry>
   <Entry key="GUI_GAME_RULES"><![CDATA[
       <align="center"><b><color=#FFD200><size="38"><smallcaps>The Rules</smallcaps></size></color></b></align>
       <align="left"><nobr> </nobr></align>
@@ -1147,22 +1147,22 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_CUSTOM_LOBBY_SELECT_ROLE_TO_ADD">You must select a role to add to the list.</Entry>
   <Entry key="GUI_CUSTOM_LOBBY_SELECT_ROLE_TO_REMOVE">You must select a role to remove.</Entry>
   <Entry key="GUI_LOBBY_FACEBOOK_LINK">Click me to check out our Facebook!</Entry>
-  <Entry key="GUI_LOBBY_REPICK">Type /repick to vote for a new host.</Entry>
-  <Entry key="GUI_LOBBY_REPICK_MINIMUM_PLAYERS">You must have at least 7 players to repick the host.</Entry>
-  <Entry key="GUI_LOBBY10SECONDS_REPICK">You must be in the lobby for 10 seconds before repicking.</Entry>
-  <Entry key="GUI_LOBBY_YOU_HAVE_VOTED_REPICK">You have voted to repick the host.</Entry>
-  <Entry key="GUI_REPICK_HOST_VOTES_NEEDED_1">%x% more vote is needed to repick the host.</Entry>
-  <Entry key="GUI_REPICK_HOST_VOTES_NEEDED_2">%x% more votes are needed to repick the host.</Entry>
-  <Entry key="GUI_LOBBY_HOST_REPICKED">The host has been repicked.</Entry>
-  <Entry key="GUI_LOBBY_NO_LONGER_HOST">You are no longer the host.</Entry>
-  <Entry key="GUI_LOBBY_NEW_HOST">%name% is now the host.</Entry>
+  <Entry key="GUI_LOBBY_REPICK">输入/repick投票选择新房主。</Entry>
+  <Entry key="GUI_LOBBY_REPICK_MINIMUM_PLAYERS">必须要有至少7名玩家才能重选房主。</Entry>
+  <Entry key="GUI_LOBBY10SECONDS_REPICK">你必须在大厅里等待10秒才能重选房主。</Entry>
+  <Entry key="GUI_LOBBY_YOU_HAVE_VOTED_REPICK">你已经投票重选房主了。</Entry>
+  <Entry key="GUI_REPICK_HOST_VOTES_NEEDED_1">距离重选房主还需要%x%票。</Entry>
+  <Entry key="GUI_REPICK_HOST_VOTES_NEEDED_2">距离重选房主还需要%x%票。</Entry>
+  <Entry key="GUI_LOBBY_HOST_REPICKED">房主已被重选。</Entry>
+  <Entry key="GUI_LOBBY_NO_LONGER_HOST">你不再是房主了。</Entry>
+  <Entry key="GUI_LOBBY_NEW_HOST">%name% 是新的房主。</Entry>
   <Entry key="GUI_LOBBY_HELP">Help:</Entry>
   <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION1">Type / to start a chat command.</Entry>
   <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION2">输入/repick重选房主。</Entry>
   <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION3">/f a [name] to add a friend.</Entry>
   <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION4">/f r [name] to remove a friend.</Entry>
-  <Entry key="GUI_PLAYERS_IN_LOBBY">Players in lobby:</Entry>
-  <Entry key="GUI_SELECTED_ROLES_IN_LOBBY">Selected Roles:</Entry>
+  <Entry key="GUI_PLAYERS_IN_LOBBY">大厅中玩家：</Entry>
+  <Entry key="GUI_SELECTED_ROLES_IN_LOBBY">已选择角色：</Entry>
   <Entry key="GUI_HOST_CONTROLS_TOGGLE">Toggle Host Controls</Entry>
   <Entry key="GUI_HOST">房主</Entry>
   <Entry key="GUI_HOST_TOOLTIP">房主</Entry>
@@ -1820,13 +1820,13 @@ Settings</Entry>
   
   <Entry key="GUI_SCROLLS_TITLE">Scrolls</Entry>
   <!--Key "GUI_SCROLL" has the same text as key "GUI_CAULDRON_AWARD_SCROLL"-->
-  <Entry key="GUI_SCROLL">Scroll</Entry>
+  <Entry key="GUI_SCROLL">卷轴</Entry>
   <Entry key="GUI_SCROLLS_EQUIPPED">No scrolls equipped</Entry>
   <Entry key="GUI_TOTAL_LOTS">Total Lots</Entry>
   <Entry key="GUI_YOUR_LOTS">Your Lots</Entry>
   <Entry key="GUI_CURRENT_ROLE">Current Role</Entry>
-  <Entry key="GUI_YOUR_ROLE_IS_X">Your role is %role%</Entry>
-  <Entry key="GUI_YOUR_ROLE_IS">Your role is</Entry>
+  <Entry key="GUI_YOUR_ROLE_IS_X">你的角色是 %role%</Entry>
+  <Entry key="GUI_YOUR_ROLE_IS">你的角色是</Entry>
   <Entry key="GUI_SCROLL_NOT_USED">This scroll will not be used.</Entry>
   <Entry key="GUI_MORE_INFO">The Coven
 (Buy now!)</Entry>
@@ -3041,10 +3041,10 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM3"> to </Entry>
   <Entry key="GUI_THEY_VISITED_YOUR_TARGET" style="ability_feedback">%name% visited your target last night!</Entry>
   <Entry key="GUI_MULTI_VISITED_YOUR_TARGET" style="ability_feedback">More people visited your target but you couldn't identify them.</Entry>
-  <Entry key="GUI_XUSER_JOINED_TOWN">%name% has joined the Town.</Entry>
-  <Entry key="GUI_XUSER_JOINED_GAME">%name% has joined the game.</Entry>
-  <Entry key="GUI_USER_JOINED_TOWN"> has joined the Town.</Entry>
-  <Entry key="GUI_USER_JOINED_GAME"> has joined the game.</Entry>
+  <Entry key="GUI_XUSER_JOINED_TOWN">%name% 加入了小镇。</Entry>
+  <Entry key="GUI_XUSER_JOINED_GAME">%name% 加入了游戏。</Entry>
+  <Entry key="GUI_USER_JOINED_TOWN"> 加入了小镇。</Entry>
+  <Entry key="GUI_USER_JOINED_GAME"> 加入了游戏。</Entry>
   <Entry key="GUI_XUSER_VOTED_AGAINST_Y" style="vote">%name1% has voted against %name2%.</Entry>
   <Entry key="GUI_XUSER_CANCELED_VOTE" style="vote">%name% has canceled their vote.</Entry>
   <Entry key="GUI_XUSER_CHANGED_VOTE" style="vote">%name1% has changed their vote to %name2%.</Entry>
@@ -3124,9 +3124,9 @@ You have unlocked "%item%"!</Entry>
 Yes - Save and close.
 No - Close and discard changes.
 Cancel - Do not close.</Entry>
-  <Entry key="GUI_LAST_WILL_SAVED">Your last will has been saved.</Entry>
-  <Entry key="GUI_DEATH_NOTE_SAVED">Your death note has been saved.</Entry>
-  <Entry key="GUI_FORGED_WILL_SAVED">Your forged will has been saved.</Entry>
+  <Entry key="GUI_LAST_WILL_SAVED">你的遗言已保存。</Entry>
+  <Entry key="GUI_DEATH_NOTE_SAVED">你的死亡字条已保存。</Entry>
+  <Entry key="GUI_FORGED_WILL_SAVED">你伪造的遗言已保存。</Entry>
   <Entry key="GUI_FORGED_ROLE">You have decided to forge %target%'s role as %role%.</Entry>
   <Entry key="GUI_FULLSCREEN">全屏</Entry>
   <Entry key="GUI_NOTES">笔记</Entry>
@@ -3143,17 +3143,17 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_GO_TO_TOP">Go to Top</Entry>
   <Entry key="GUI_GO_TO_BOTTOM">Scroll to Bottom</Entry>
   <Entry key="GUI_SOMEONE_THAT_LEFT">Someone</Entry>
-  <Entry key="GUI_SOMEONE_HAS_LEFT_THE_GAME" style="system">Someone has left the game.</Entry>
-  <Entry key="GUI_XHAS_LEFT_THE_GAME" style="system">%name% has left the game.</Entry>
-  <Entry key="GUI_HAS_LEFT_THE_GAME"> has left the game.</Entry>
-  <Entry key="GUI_ENTER_YOUR_LAST_WILL">Enter your last will here.</Entry>
-  <Entry key="GUI_ENTER_YOUR_DEATH_NOTE">Enter your death note here.</Entry>
-  <Entry key="GUI_ENTER_FORGED_WILL">Enter your target's forged will here.</Entry>
-  <Entry key="GUI_PIRATE_CHOOSE_ATTACK_HEADER">Choose yer attack:</Entry>
-  <Entry key="GUI_PIRATE_CHOOSE_ATTACK_WINS_AGAINST">Wins Against:</Entry>
-  <Entry key="GUI_PIRATE_CHOOSE_DEFEND_HEADER">Ye've been attacked by a pirate!
-Choose Yer Defence:</Entry>
-  <Entry key="GUI_PIRATE_CHOOSE_DEFENCE_WINS_AGAINST">Weak against:</Entry>
+  <Entry key="GUI_SOMEONE_HAS_LEFT_THE_GAME" style="system">有人离开了游戏。</Entry>
+  <Entry key="GUI_XHAS_LEFT_THE_GAME" style="system">%name% 离开了游戏。</Entry>
+  <Entry key="GUI_HAS_LEFT_THE_GAME"> 离开了游戏。</Entry>
+  <Entry key="GUI_ENTER_YOUR_LAST_WILL">请于此处输入你的遗言。</Entry>
+  <Entry key="GUI_ENTER_YOUR_DEATH_NOTE">请于此处输入你的死亡字条</Entry>
+  <Entry key="GUI_ENTER_FORGED_WILL">请于此处输入你目标的伪造遗言。</Entry>
+  <Entry key="GUI_PIRATE_CHOOSE_ATTACK_HEADER">选择你的攻击方式：</Entry>
+  <Entry key="GUI_PIRATE_CHOOSE_ATTACK_WINS_AGAINST">胜于：</Entry>
+  <Entry key="GUI_PIRATE_CHOOSE_DEFEND_HEADER">你被海盗攻击了！
+选择你的防御方式：</Entry>
+  <Entry key="GUI_PIRATE_CHOOSE_DEFENCE_WINS_AGAINST">弱于：</Entry>
   <Entry key="GUI_PIRATE_ATTACK1TEXT">弯刀</Entry>
   <Entry key="GUI_PIRATE_ATTACK2TEXT">细剑</Entry>
   <Entry key="GUI_PIRATE_ATTACK3TEXT">手枪</Entry>
@@ -3914,18 +3914,18 @@ Choose Yer Defence:</Entry>
 Are you sure you want to leave?
 
 (You will not be awarded merit points and you may have to wait before you can join another game if you leave now.)</Entry>
-  <Entry key="GUI_END_GAME_WINS">Wins</Entry>
-  <Entry key="GUI_END_GAME_LOSSES">Losses</Entry>
-  <Entry key="GUI_END_GAME_DRAWS">Draws</Entry>
-  <Entry key="GUI_VICTORY">Victory!</Entry>
-  <Entry key="GUI_DEFEAT">Defeat!</Entry>
+  <Entry key="GUI_END_GAME_WINS">胜</Entry>
+  <Entry key="GUI_END_GAME_LOSSES">负</Entry>
+  <Entry key="GUI_END_GAME_DRAWS">平</Entry>
+  <Entry key="GUI_VICTORY">胜利！</Entry>
+  <Entry key="GUI_DEFEAT">失败！</Entry>
   <!--Key "GUI_TOWN_POINTS" has the same text as key "GUI_CURRENCY1"-->
   <Entry key="GUI_TOWN_POINTS">Town Points</Entry>
   <!--Key "GUI_MERIT_POINTS" has the same text as key "GUI_CURRENCY3"-->
   <Entry key="GUI_MERIT_POINTS">Merit Points</Entry>
   <Entry key="GUI_ELO">ELO</Entry>
   <Entry key="GUI_OFFSEASON">Offseason</Entry>
-  <Entry key="GUI_DRAW">Draw</Entry>
+  <Entry key="GUI_DRAW">平局</Entry>
   <Entry key="GUI_WIN">Win</Entry>
   <Entry key="GUI_LOSS">Loss</Entry>
   <Entry key="GUI_XMERIT_POINTS">%x% Merit Points</Entry>
@@ -3962,8 +3962,8 @@ Are you sure you want to leave?
   <Entry key="GUI_GAMES_LOST">Games lost</Entry>
   <Entry key="GUI_GAMES_DRAWN">Games drawn</Entry>
   <Entry key="GUI_GAMES_DISCONNECTED">Games disconnected</Entry>
-  <Entry key="GUI_TIME_UNTIL_UNTIL_WIN_OF_THE_DAY_IS_AVAILABLE">Until win of the day is available</Entry>
-  <Entry key="GUI_WIN_OF_THE_DAY_IS_AVAILABLE">Win of the day bonus is now available!</Entry>
+  <Entry key="GUI_TIME_UNTIL_UNTIL_WIN_OF_THE_DAY_IS_AVAILABLE">距离每日首胜奖励可用</Entry>
+  <Entry key="GUI_WIN_OF_THE_DAY_IS_AVAILABLE">每日首胜奖励现在可用！</Entry>
   <Entry key="GUI_TIME_UNTIL_NEXT_WIN_BONUS">Time until next win bonus</Entry>
   <Entry key="GUI_NEXT_BONUS_WIN_TIME">Daily Win Bonus Available in:</Entry>
   <Entry key="GUI_CLOSING_END_GAME_LOBBY">Closing end game lobby now!</Entry>
@@ -4809,7 +4809,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GAME_79" style="alert">A Witch tried to control you but you are immune.</Entry>
   <Entry key="GAME_SPY_RESULT_79" style="spy">A Witch tried to control your target but they were immune.</Entry>
   <Entry key="GAME_80" style="alert">Someone tried to control you last night but you were jailed.</Entry>
-  <Entry key="GAME_81" style="notice">has joined the Town.</Entry>
+  <Entry key="GAME_81" style="notice">加入了小镇。</Entry>
   <Entry key="GAME_82" style="alert">You have attempted to remember who you were!</Entry>
   <Entry key="GAME_83" style="alert">You were haunted by the Jester. You committed suicide over the guilt!</Entry>
   <Entry key="GAME_SPY_RESULT_83" style="spy">Your target was haunted by the Jester and committed suicide!</Entry>
@@ -5573,7 +5573,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_STEAM_UNLINKED_EXPLAINER_TITLE">Unavailable to Unlinked Accounts!</Entry>
   <Entry key="GUI_STEAM_UNLINKED_EXPLAINER_BLURB">You are currently running Town of Salem on Steam with an unlinked account. The functionality you are attempting to use is only available to linked accounts.</Entry>
   
-  <Entry key="GUI_TOOLTIP_REMEMBER_ME">Remember username/password for future logins</Entry>
+  <Entry key="GUI_TOOLTIP_REMEMBER_ME">记住用户名/密码</Entry>
   <Entry key="GUI_TOOLTIP_PASSWORD">Passwords must be 10-32 characters and include both Upper and Lower Case letters, no spaces, at least one number, and a special character (!#$%=?@.-;_)</Entry>
   <Entry key="GUI_TOOLTIP_TOTAL_NOTIFICATIONS">Total Notifications</Entry>
   <Entry key="GUI_TOOLTIP_UNHANDLED_NOTIFICATIONS">Unhandled Notifications</Entry>
@@ -5593,8 +5593,8 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_TOOLTIP_DEATHNOTE">Death Note</Entry>
   <Entry key="GUI_TOOLTIP_NOTEPAD">Notepad</Entry>
   <Entry key="GUI_TOOLTIP_ROLECARD">Role Card</Entry>
-  <Entry key="GUI_TOOLTIP_SEND_WILL_TO_CHAT">Post your Last Will to the chat (sends immediately)</Entry>
-  <Entry key="GUI_TOOLTIP_SEND_NOTES_TO_CHAT">Post your Notes to the chat (sends immediately)</Entry>
+  <Entry key="GUI_TOOLTIP_SEND_WILL_TO_CHAT">在聊天中发布你的遗言（即刻发送）</Entry>
+  <Entry key="GUI_TOOLTIP_SEND_NOTES_TO_CHAT">在聊天中发布你的笔记（即刻发送）</Entry>
   <Entry key="GUI_TOOLTIP_PASTE_FROM_EXTERNAL_CLIPBOARD">Paste from External Clipboard</Entry>
   <Entry key="GUI_TOOLTIP_CLEAR_FILTER">Clear filter</Entry>
   <Entry key="GUI_TOOLTIP_HOST_CONTROLS">Host Controls</Entry>
