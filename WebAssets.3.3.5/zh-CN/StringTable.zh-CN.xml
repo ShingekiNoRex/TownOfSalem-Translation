@@ -1543,7 +1543,7 @@ Premium Account</Entry>
   <Entry key="GUI_NAME_DBL_SPACE">Name may not contain double spaces.</Entry>
   <Entry key="GUI_MENU">菜单</Entry>
   <!--Key "GUI_LOADING" has the same text as key "GUI_PARTY_LOADING"-->
-  <Entry key="GUI_LOADING">Loading</Entry>
+  <Entry key="GUI_LOADING">正在加载</Entry>
   <!--Key "GUI_SETTINGS_HEADER" has the same text as key "GUI_SETTINGS_TOOLTIP"-->
   <Entry key="GUI_SETTINGS_HEADER">设置</Entry>
   <Entry key="GUI_SETTINGS_LANGUAGE_TAB">语言</Entry>
@@ -2927,13 +2927,13 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_CHAT_BLOCKED" style="error">You cannot chat right now.</Entry>
   <Entry key="GUI_CHAT_LINK_BLOCKED" style="error">Please do not send links.</Entry>
   <Entry key="GUI_CHAT_YOU_ARE_BLACKMAILED">You are blackmailed.</Entry>
-  <Entry key="GUI_CHAT_ENTER_YOUR_CHAT_MESSAGE_HERE">Enter your chat message here...</Entry>
-  <Entry key="GUI_ALL_ALIVE_LIST">All Live Townies</Entry>
+  <Entry key="GUI_CHAT_ENTER_YOUR_CHAT_MESSAGE_HERE">在此处输入聊天消息...</Entry>
+  <Entry key="GUI_ALL_ALIVE_LIST">所有存活的镇民</Entry>
   <Entry key="GUI_GRAVEYARD_LIST">墓地</Entry>
-  <Entry key="GUI_FACTION_LIST">Your Known Faction Members</Entry>
-  <Entry key="GUI_TARGET_LIST">Targets</Entry>
-  <Entry key="GUI_ROLE_LIST">Role List</Entry>
-  <Entry key="GUI_POSSIBLE_ROLES">Possible Roles</Entry>
+  <Entry key="GUI_FACTION_LIST">你已知的阵营成员</Entry>
+  <Entry key="GUI_TARGET_LIST">目标</Entry>
+  <Entry key="GUI_ROLE_LIST">角色列表</Entry>
+  <Entry key="GUI_POSSIBLE_ROLES">可能的角色</Entry>
   <Entry key="GUI_CAUSE_OF_DEATH">死因</Entry>
   <Entry key="GUI_HANGED">Hanged</Entry>
   <Entry key="GUI_SUICIDE">Suicide</Entry>
@@ -3086,10 +3086,10 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_VOTES_NEEDED">votes are needed to send someone to trial.</Entry>
   <Entry key="GUI_DO_YOU_HAVE_LAST_WORDS">Do you have any last words?</Entry>
   <Entry key="GUI_LAST_WORDS">Last Words</Entry>
-  <Entry key="GUI_MUTE_MUSIC">Mute Music</Entry>
-  <Entry key="GUI_UNMUTE_MUSIC">Unmute Music</Entry>
-  <Entry key="GUI_MUTE_EFFECTS">Mute Sound Effects</Entry>
-  <Entry key="GUI_UNMUTE_EFFECTS">Unmute Sound Effects</Entry>
+  <Entry key="GUI_MUTE_MUSIC">禁用音乐</Entry>
+  <Entry key="GUI_UNMUTE_MUSIC">解禁音乐</Entry>
+  <Entry key="GUI_MUTE_EFFECTS">禁用音效</Entry>
+  <Entry key="GUI_UNMUTE_EFFECTS">解禁音效</Entry>
   <Entry key="GUI_SOUND_OFF">Sound Off</Entry>
   <Entry key="GUI_SOUND_ON">Sound On</Entry>
   <Entry key="GUI_REPORT">Report</Entry>
@@ -3104,8 +3104,8 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_LEAVE_LOBBY">Leave Lobby</Entry>
   <Entry key="GUI_LEAVE_LOBBY_Q">Leave Lobby?</Entry>
   <Entry key="GUI_LEAVE_LOBBY_MSG">Are you sure you want to leave the lobby?</Entry>
-  <Entry key="GUI_LEAVE_GAME">Leave Game</Entry>
-  <Entry key="GUI_LEAVE_GAME_Q">Leave Game?</Entry>
+  <Entry key="GUI_LEAVE_GAME">离开游戏</Entry>
+  <Entry key="GUI_LEAVE_GAME_Q">确认离开游戏？</Entry>
   <Entry key="GUI_LOGOUT">登出</Entry>
   <Entry key="GUI_LOGOUT_Q">确认登出？</Entry>
   <Entry key="GUI_LOGOUT_MSG">是否确认想要登出账号？</Entry>
@@ -3909,9 +3909,9 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_LEAVE_EARLY_ALLOWED">Leave the game?
 
 (You will not be awarded merit points if you leave early.)</Entry>
-  <Entry key="GUI_LEAVE_EARLY_NOT_ALLOWED">You can still help your team!
+  <Entry key="GUI_LEAVE_EARLY_NOT_ALLOWED">你仍可以帮助你的队伍！
 
-Are you sure you want to leave?
+确认要离开游戏吗？
 
 (You will not be awarded merit points and you may have to wait before you can join another game if you leave now.)</Entry>
   <Entry key="GUI_END_GAME_WINS">胜</Entry>
@@ -3940,13 +3940,13 @@ Are you sure you want to leave?
   <Entry key="GUI_DIAMOND">Diamond</Entry>
   <Entry key="GUI_MASTER">Master</Entry>
   <Entry key="GUI_POST_GAME_MERIT_POINTS">%x% Merit Points</Entry>
-  <Entry key="GUI_POST_GAME_NEXT">Next</Entry>
-  <Entry key="GUI_POST_GAME_RESULTS">Results</Entry>
-  <Entry key="GUI_POST_GAME_PLAYERLIST">Player List</Entry>
+  <Entry key="GUI_POST_GAME_NEXT">继续</Entry>
+  <Entry key="GUI_POST_GAME_RESULTS">结果</Entry>
+  <Entry key="GUI_POST_GAME_PLAYERLIST">玩家列表</Entry>
   <Entry key="GUI_MPCALC_NOTICE">* Merit Points calculated based on game length</Entry>
   <Entry key="GUI_POST_GAME_LOBBY_RANK_X">Rank: %x%</Entry>
-  <Entry key="GUI_POST_GAME_LOBBY_GAMES_TILL_RANKED">Games until ranked play</Entry>
-  <Entry key="GUI_POST_GAME_LOBBY_RANKED_PRACTICE_PLAYED">Ranked Practice games played</Entry>
+  <Entry key="GUI_POST_GAME_LOBBY_GAMES_TILL_RANKED">排位进度</Entry>
+  <Entry key="GUI_POST_GAME_LOBBY_RANKED_PRACTICE_PLAYED">已参加的排位训练</Entry>
   <!--Key "GUI_POST_GAME_LOBBY_XOF_Y" has the same text as key "GUI_POTION_MASTER_XOF_Y"-->
   <Entry key="GUI_POST_GAME_LOBBY_XOF_Y">%x%/%y%</Entry>
   <Entry key="GUI_POST_GAME_LOBBY_PLACEMENT_GAMES_PLAYED">Placement Games Played</Entry>
@@ -3967,11 +3967,11 @@ Are you sure you want to leave?
   <Entry key="GUI_TIME_UNTIL_NEXT_WIN_BONUS">Time until next win bonus</Entry>
   <Entry key="GUI_NEXT_BONUS_WIN_TIME">Daily Win Bonus Available in:</Entry>
   <Entry key="GUI_CLOSING_END_GAME_LOBBY">Closing end game lobby now!</Entry>
-  <Entry key="GUI_MINUTES_LEFT"> minutes left until lobby expires!</Entry>
-  <Entry key="GUI_MINUTE_LEFT"> minute left until lobby expires!</Entry>
-  <Entry key="GUI_SECONDS_LEFT"> seconds left until lobby expires!</Entry>
-  <Entry key="GUI_END_GAME_HAS_JOINED">%x% has joined.</Entry>
-  <Entry key="GUI_END_GAME_HAS_LEFT">%x% has left.</Entry>
+  <Entry key="GUI_MINUTES_LEFT"> 分钟后此大厅过期！</Entry>
+  <Entry key="GUI_MINUTE_LEFT"> 分钟后此大厅过期！</Entry>
+  <Entry key="GUI_SECONDS_LEFT"> 秒后此大厅过期！</Entry>
+  <Entry key="GUI_END_GAME_HAS_JOINED">%x% 加入了。</Entry>
+  <Entry key="GUI_END_GAME_HAS_LEFT">%x% 离开了。</Entry>
   <Entry key="GUI_VIEW_MORE_INFO">View More Info</Entry>
   <!--Key "GUI_ROLES" has the same text as key "GUI_SETTINGS_TOOLTIP_ROLES"-->
   <Entry key="GUI_ROLES">Roles</Entry>
@@ -3991,7 +3991,7 @@ Are you sure you want to leave?
   <Entry key="GUI_ARE_YOU_SURE_EXIT">是否确认退出？</Entry>
   <Entry key="GUI_CLOSE_AND_EXIT">Close and exit the game?</Entry>
   <Entry key="GUI_YES_EXIT">Yes, Exit.</Entry>
-  <Entry key="GUI_RETURN_TO_HOMEPAGE">Return to Homepage</Entry>
+  <Entry key="GUI_RETURN_TO_HOMEPAGE">返回主页</Entry>
   <Entry key="GUI_GAME_SUMMARY">Game Summary</Entry>
   <Entry key="GUI_YOUNGEST">Youngest</Entry>
   <Entry key="GUI_ERROR_REG_FAILED">Registration Failed</Entry>
@@ -5246,26 +5246,26 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_56_SECOND_TARGET_TITLE">Control %player% into ....</Entry><!--Coven Leader-->
   <Entry key="GUI_ROLE_59_SECOND_TARGET_TITLE">Send %player% into ....</Entry><!--Necromancer-->
   <Entry key="GUI_ROLE_ABILITY_VERB">Visit</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_0">Guard</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_1">Heal</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_2">Distract</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_3">Investigate</Entry>  
-  <Entry key="GUI_ROLE_ABILITY_VERB_4">Jail</Entry>  
-  <Entry key="GUI_ROLE_ABILITY_VERB_4_SINGLE">Execute</Entry>  
-  <Entry key="GUI_ROLE_ABILITY_VERB_4_FIXED">Execute</Entry>  
-  <Entry key="GUI_ROLE_ABILITY_VERB_5">Watch</Entry>  
-  <Entry key="GUI_ROLE_ABILITY_VERB_6">Reveal</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_0">守卫</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_1">治疗</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_2">分散注意</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_3">调查</Entry>  
+  <Entry key="GUI_ROLE_ABILITY_VERB_4">监禁</Entry>  
+  <Entry key="GUI_ROLE_ABILITY_VERB_4_SINGLE">处决</Entry>  
+  <Entry key="GUI_ROLE_ABILITY_VERB_4_FIXED">处决</Entry>  
+  <Entry key="GUI_ROLE_ABILITY_VERB_5">守望</Entry>  
+  <Entry key="GUI_ROLE_ABILITY_VERB_6">揭示</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_7">Seance</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_8">Resurrect</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_9">Interrogate</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_8">复活</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_9">审讯</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_10">Spy</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_11">Transport</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_11">运输</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_12">Hunt</Entry>  
-  <Entry key="GUI_ROLE_ABILITY_VERB_13">Alert</Entry>  
-  <Entry key="GUI_ROLE_ABILITY_VERB_14">Shoot</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_15">Blackmail</Entry>  
+  <Entry key="GUI_ROLE_ABILITY_VERB_13">警戒</Entry>  
+  <Entry key="GUI_ROLE_ABILITY_VERB_14">射击</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_15">勒索</Entry>  
   <Entry key="GUI_ROLE_ABILITY_VERB_16">Size Up</Entry>    
-  <Entry key="GUI_ROLE_ABILITY_VERB_17">Distract</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_17">分散注意</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_18">Disguise</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_18_SECONDARY">Mimic</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_19">Forge</Entry>
@@ -5275,34 +5275,34 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_23">Kill</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_24">Remember</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_25">Douse</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_25_SINGLE">Ignite</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_25_SELF">Ignite</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_25_SINGLE">引燃</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_25_SELF">引燃</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_26"></Entry>    <!-- Executioner has none -->
   <Entry key="GUI_ROLE_ABILITY_VERB_27">Haunt</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_28">Kill</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_28_SINGLE">Cautious</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_29">Protect</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_30">Bite</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_31">Attack</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_32">Control</Entry><!--Witch-->
-  <Entry key="GUI_ROLE_ABILITY_VERB_32_SECONDARY">Target</Entry><!--Witch-->
-  <Entry key="GUI_ROLE_ABILITY_VERB_46">Protect</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_47">Track</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_48">Trap</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_48_SELF">Dismantle</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_48_SINGLE">Dismantle</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_29">保护</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_30">咬</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_31">攻击</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_32">控制</Entry><!--Witch-->
+  <Entry key="GUI_ROLE_ABILITY_VERB_32_SECONDARY">目标</Entry><!--Witch-->
+  <Entry key="GUI_ROLE_ABILITY_VERB_46">保护</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_47">跟踪</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_48">放陷阱</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_48_SELF">拆卸</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_48_SINGLE">拆卸</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_49"></Entry> <!-- Psychic has none -->
   <Entry key="GUI_ROLE_ABILITY_VERB_50">Hypnotize</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_51">Ambush</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_51">埋伏</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_52">Infect</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_53">Attack</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_54">Protect</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_54_SINGLE">Protect</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_54_FIXED">Protect</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_55">Duel</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_56">Control</Entry><!--Coven Leader-->
-  <Entry key="GUI_ROLE_ABILITY_VERB_56_SECONDARY">Target</Entry><!--Coven Leader-->
-  <Entry key="GUI_ROLE_ABILITY_VERB_57">Potion</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_53">攻击</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_54">保护</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_54_SINGLE">保护</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_54_FIXED">保护</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_55">决斗</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_56">控制</Entry><!--Coven Leader-->
+  <Entry key="GUI_ROLE_ABILITY_VERB_56_SECONDARY">目标</Entry><!--Coven Leader-->
+  <Entry key="GUI_ROLE_ABILITY_VERB_57">药剂</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_58">Hex</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_59">Reanimate</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_59_SINGLE">Raise Ghoul</Entry>
