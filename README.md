@@ -10,6 +10,14 @@ Please feel free to give your advice or submit pull requests.
 # How to install the translation replacer patch （如何安装）
 **Note: Only Chinese is supported for now. （目前仅支持简体中文）**
 
+## Method #1:
+
+1. Download `TownOfSalem-zh-CN-v1.0.rar` from [here](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)
+
+2. Extract to `steamapps\common\Town of Salem\`
+
+## Method #2:
+
 1. Download and install [BepInEX](https://github.com/BepInEx/BepInEx/releases)
 
 2. Launch game for once then close
@@ -23,6 +31,13 @@ Please feel free to give your advice or submit pull requests.
 6. Launch game again
 
 ---------------------------------------------------------------------------------
+
+## 方法 #1：
+1. [点击此处](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)下载 `TownOfSalem-zh-CN-v1.0.rar`
+
+2. 解压至 `steamapps\common\Town of Salem\`
+
+## 方法 #2：
 
 1. 下载并安装[BepInEX](https://github.com/BepInEx/BepInEx/releases)
 
