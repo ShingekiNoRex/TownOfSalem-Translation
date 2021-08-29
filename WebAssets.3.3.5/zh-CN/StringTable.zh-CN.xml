@@ -2993,7 +2993,7 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_VOTING">投票</Entry>
   <Entry key="GUI_JUDGEMENT">审判</Entry>
   <Entry key="GUI_GAMEOVER">游戏结束</Entry>
-  <Entry key="GUI_SELECT_NAME">Select Name</Entry>
+  <Entry key="GUI_SELECT_NAME">选择名字</Entry>
   <Entry key="GUI_ROLE_SELECTION">Role Selection</Entry>
   <Entry key="GUI_ATTACK">攻击</Entry>
   <Entry key="GUI_DEFENSE">防御</Entry>
@@ -3098,12 +3098,12 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_UNIGNORE">Unignore</Entry>
   <Entry key="GUI_MUSIC_OFF">Music Off</Entry>
   <Entry key="GUI_MUSIC_ON">Music On</Entry>
-  <Entry key="GUI_LEAVE_PARTY">Leave Party</Entry>
-  <Entry key="GUI_LEAVE_PARTY_Q">Leave Party?</Entry>
-  <Entry key="GUI_LEAVE_PARTY_MSG">Are you sure you want to leave the party?</Entry>
-  <Entry key="GUI_LEAVE_LOBBY">Leave Lobby</Entry>
-  <Entry key="GUI_LEAVE_LOBBY_Q">Leave Lobby?</Entry>
-  <Entry key="GUI_LEAVE_LOBBY_MSG">Are you sure you want to leave the lobby?</Entry>
+  <Entry key="GUI_LEAVE_PARTY">离开队伍</Entry>
+  <Entry key="GUI_LEAVE_PARTY_Q">确认离开队伍？</Entry>
+  <Entry key="GUI_LEAVE_PARTY_MSG">你是否确认想要离开当前队伍？</Entry>
+  <Entry key="GUI_LEAVE_LOBBY">离开大厅</Entry>
+  <Entry key="GUI_LEAVE_LOBBY_Q">确认离开大厅？</Entry>
+  <Entry key="GUI_LEAVE_LOBBY_MSG">你是否确认想要离开当前大厅？</Entry>
   <Entry key="GUI_LEAVE_GAME">离开游戏</Entry>
   <Entry key="GUI_LEAVE_GAME_Q">确认离开游戏？</Entry>
   <Entry key="GUI_LOGOUT">登出</Entry>
@@ -3111,7 +3111,7 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_LOGOUT_MSG">是否确认想要登出账号？</Entry>
   <Entry key="GUI_EXCESSIVE_TRANSITION_TIME">This is taking longer than expected. You may continue to wait or click the Logout button.</Entry>
   <Entry key="GUI_CHOOSE_ROLE">Choose Role:</Entry>
-  <Entry key="GUI_LAST_WILL">Last Will</Entry>
+  <Entry key="GUI_LAST_WILL">遗言</Entry>
   <Entry key="GUI_NO_LAST_WILL">No Last Will</Entry>
   <Entry key="GUI_FORGED_WILL">Forged Will</Entry>
   <Entry key="GUI_DEATH_NOTE">Death Note</Entry>
@@ -3185,20 +3185,20 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_PIRATE_DUEL_RESULTS_D31">You sidestepped out of the pirate's pistol shot. You won the duel!</Entry>
   <Entry key="GUI_PIRATE_DUEL_RESULTS_D33">Your chainmail stopped the pirate's bullet. You won the duel!</Entry>
   <Entry key="GUI_PIRATE_DUEL_RESULTS_D32">You were unable to back away from the pirate's pistol shot. You lost!</Entry>
-  <Entry key="GUI_POTION_MASTER_HEADER">Choose your potion:</Entry>
+  <Entry key="GUI_POTION_MASTER_HEADER">选择你的药剂：</Entry>
   <Entry key="GUI_POTION_MASTER_SUBHEADER">(Targeting %name%)</Entry>
   <!--Key "GUI_POTION_MASTER_CANCEL" has the same text as key "GUI_CANCEL"-->
-  <Entry key="GUI_POTION_MASTER_CANCEL">Cancel</Entry>
-  <Entry key="GUI_POTION_MASTER_KILL">Kill</Entry>
+  <Entry key="GUI_POTION_MASTER_CANCEL">取消</Entry>
+  <Entry key="GUI_POTION_MASTER_KILL">杀害</Entry>
   <!--Key "GUI_POTION_MASTER_REVEAL" has the same text as key "GUI_REVEAL_TOOLTIP"-->
-  <Entry key="GUI_POTION_MASTER_REVEAL">Reveal</Entry>
-  <Entry key="GUI_POTION_MASTER_HEAL">Heal</Entry>
+  <Entry key="GUI_POTION_MASTER_REVEAL">揭示</Entry>
+  <Entry key="GUI_POTION_MASTER_HEAL">治疗</Entry>
   <!--Key "GUI_POTION_MASTER_KILL_DISABLED" has the same text as key "GUI_POTION_MASTER_KILL"-->
-  <Entry key="GUI_POTION_MASTER_KILL_DISABLED">Kill</Entry>
+  <Entry key="GUI_POTION_MASTER_KILL_DISABLED">杀害</Entry>
   <!--Key "GUI_POTION_MASTER_REVEAL_DISABLED" has the same text as key "GUI_REVEAL_TOOLTIP"-->
-  <Entry key="GUI_POTION_MASTER_REVEAL_DISABLED">Reveal</Entry>
+  <Entry key="GUI_POTION_MASTER_REVEAL_DISABLED">揭示</Entry>
   <!--Key "GUI_POTION_MASTER_HEAL_DISABLED" has the same text as key "GUI_POTION_MASTER_HEAL"-->
-  <Entry key="GUI_POTION_MASTER_HEAL_DISABLED">Heal</Entry>
+  <Entry key="GUI_POTION_MASTER_HEAL_DISABLED">治疗</Entry>
   <Entry key="GUI_POTION_MASTER_XOF_Y">%x%/%y%</Entry>
   <Entry key="GUI_POTION_MASTER_HEAL_REASON0">Heal %name%.</Entry>
   <Entry key="GUI_POTION_MASTER_HEAL_REASON1">You must finish brewing another heal potion.</Entry>
@@ -3458,11 +3458,11 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_XDIED_REASON27_1" style="notice">%gender% also died from a %role%.</Entry>
   <Entry key="GUI_XDIED_REASON27_2" style="notice">%gender% died from a %role%.</Entry>
 
-  <Entry key="GUI_DEAD_FLUFF00">%name% was killed last night.</Entry>
-  <Entry key="GUI_DEAD_FLUFF01">We found %name% dead in their home last night.</Entry>
+  <Entry key="GUI_DEAD_FLUFF00">%name% 昨晚被杀害了。</Entry>
+  <Entry key="GUI_DEAD_FLUFF01">我们发现 %name% 昨晚死在了他的家中。</Entry>
   <Entry key="GUI_DEAD_FLUFF02">%name% was brutally murdered last night.</Entry>
   <Entry key="GUI_DEAD_FLUFF03">%name% was slaughtered last night.</Entry>
-  <Entry key="GUI_XDIED_LAST_NIGHT" style="alert">%name% died last night.</Entry>
+  <Entry key="GUI_XDIED_LAST_NIGHT" style="alert">%name% 昨晚死了。</Entry>
   <Entry key="GUI_XROLE_WAS_Y" style="notice">%name%'s role was %role%.</Entry>
   <Entry key="GUI_WE_COULD_NOT_DETERMINE_XROLE">We could not determine %name%'s role.</Entry>
   <Entry key="GUI_WHO_DIED_REASON1_1">was also executed by the %role%.</Entry>
@@ -3625,30 +3625,30 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_VICTORY_CONDITION_NAME_11">Traitors</Entry>
   
   <!--Key "GUI_ROLE_CARD_VICTORY_CONDITIONS_BUTTON" has the same text as key "GUI_VICTORY_CONDITION_TITLE"-->
-  <Entry key="GUI_ROLE_CARD_VICTORY_CONDITIONS_BUTTON">Victory Conditions</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITIES">Abilities</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTES">Attributes</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY">Ability</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE">Attribute</Entry>
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT">Alignment</Entry>
+  <Entry key="GUI_ROLE_CARD_VICTORY_CONDITIONS_BUTTON">胜利条件</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITIES">能力</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTES">属性</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY">能力</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE">属性</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT">阵营</Entry>
   <!--Key "GUI_ROLE_CARD_TOWN" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_TOWN">Town</Entry>
+  <Entry key="GUI_ROLE_CARD_TOWN">城镇</Entry>
   <!--Key "GUI_ROLE_CARD_MAFIA" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_MAFIA">Mafia</Entry>
+  <Entry key="GUI_ROLE_CARD_MAFIA">黑手党</Entry>
   <!--Key "GUI_ROLE_CARD_COVEN" has the same text as key "GUI_MODE_COVEN"-->
   <Entry key="GUI_ROLE_CARD_COVEN">Coven</Entry>
   <!--Key "GUI_ROLE_CARD_NEUTRAL" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_NEUTRAL">Neutral</Entry>
-  <Entry key="GUI_ROLE_CARD_PROTECTIVE">Protective</Entry>
-  <Entry key="GUI_ROLE_CARD_SUPPORT">Support</Entry>
-  <Entry key="GUI_ROLE_CARD_INVESTIGATIVE">Investigative</Entry>
-  <Entry key="GUI_ROLE_CARD_KILLING">Killing</Entry>
-  <Entry key="GUI_ROLE_CARD_DECEPTION">Deception</Entry>
-  <Entry key="GUI_ROLE_CARD_BENIGN">Benign</Entry>
-  <Entry key="GUI_ROLE_CARD_EVIL">Evil</Entry>
+  <Entry key="GUI_ROLE_CARD_NEUTRAL">中立</Entry>
+  <Entry key="GUI_ROLE_CARD_PROTECTIVE">保护</Entry>
+  <Entry key="GUI_ROLE_CARD_SUPPORT">支援</Entry>
+  <Entry key="GUI_ROLE_CARD_INVESTIGATIVE">调查</Entry>
+  <Entry key="GUI_ROLE_CARD_KILLING">杀伐</Entry>
+  <Entry key="GUI_ROLE_CARD_DECEPTION">诡诈</Entry>
+  <Entry key="GUI_ROLE_CARD_BENIGN">温和</Entry>
+  <Entry key="GUI_ROLE_CARD_EVIL">邪恶</Entry>
   <!--Key "GUI_ROLE_CARD_CHAOS" has the same text as key "GUI_MODE_CHAOS"-->
-  <Entry key="GUI_ROLE_CARD_CHAOS">Chaos</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL">Goal</Entry>
+  <Entry key="GUI_ROLE_CARD_CHAOS">混乱</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL">目标</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_0">-Protect a player from direct attacks at night.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_0">-If your target is directly attacked or is the victim of a harmful visit, you and the visitor will fight.
 -If you successfully protect someone you can still be %GUI_ROLE_CARD_HEAL%ed.</Entry>
