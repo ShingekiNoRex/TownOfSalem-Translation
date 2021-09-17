@@ -1,4 +1,4 @@
-<StringTable hash='H/Y6GKVLugTxQ26uKAhgx7Nipi61CRLe4JYNMk+HtZ5lWOxvnwqbRm6IXPYAXwZz5k+uqiZoT/W3mJaVnvA1JVdm7hd2Fn+yfXIsJj45TcFm4AMq/yMUb/JgkkhGmWfiN4a0TE+xv6byJKYUTDD1nhJqqf4ppXFmLxp6Fu+cFaQWAWLqxEUsqkIKeEKvtCuTjMBEyxqlv8axtWtIqCDOsFlH3JxbVOt/6cHpYoyCB53V2wHQ5WlJA2o3IRkqgSfhgzNnXDMeXHyAGhRk5DF7kM/rVqWZ0PfiQy+rFTvUPQpaRcsFe0qJwOVUxUSs1/GtDwfysm4OV8vLLkXKs/xlmQ=='>
+<StringTable hash='mYSSjrC1I04ReQPLPI65ifyb3t05RH+E4U2/ezRS+7stusaTb65fedbijCy5COQJGwdkcoFdS95LnkcX6YjKxHl6cfyYcUhijpVX1X+ypfutSzRcqzz7lgJEyPPyM+LR3L6QeM01orgQ4SqqW6UIG4qyOReCf8c2huwptiiRSCbe2u3t5S2Qs4tVeT2TqYrO/M0sutEXrI9fDnnkKVI/ViPmfJmTz9rxe2T2929dxYzamLLAUE8T4tbfzbn6+XZEC6AbJqfkfbqrqhrft6zK3+YK7Tu0EODpSwi7LuVWa6xnzSYxSRPccMgsYD/koT/F/+OVJkimE7GO5h/SWHnZnQ=='>
   <!--ITEM NUMBER TYPES ARE DEFINED IN ProductItem.ItemType enum-->
   <Entry key="ITEM_1_-3">Random Townie</Entry>
   <Entry key="ITEM_1_0">John Hathorne</Entry>
@@ -1340,8 +1340,6 @@ Premium Account</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB4">&#8226; Better support for modern devices</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB5">&#8226; Flexibility for future development</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB6">&#8226; More to come...</Entry>
-  
-  <Entry key="GUI_LIVETILE_CROWFALL">Check out <![CDATA[<color=#FFC300><size=120%>]]>Crowfall!<![CDATA[<size=100%></color>]]></Entry>
   
   <Entry key="GUI_POPUP_AFK_TITLE">AFK</Entry>
   <Entry key="GUI_POPUP_AFK_BLURB">You are now AFK. Click anywhere to prevent automatic logout.</Entry>
@@ -3896,8 +3894,7 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_REPORT_REASON3">Inappropriate IGN</Entry>
   <Entry key="GUI_REPORT_REASON4">Gamethrowing</Entry>
   <Entry key="GUI_REPORT_REASON5">Spamming</Entry>
-  <Entry key="GUI_REPORT_REASON6">Leaving</Entry>
-  <!--reasons 7 thru 9 not used-->
+  <!--reasons 6 thru 9 not used-->
   <Entry key="GUI_REPORT_REPORTED_PLAYER">Reported Player</Entry>
   <Entry key="GUI_REPORT_REASON">Reason</Entry>
   <Entry key="GUI_REPORT_DETAILS">Details</Entry>
@@ -5684,6 +5681,18 @@ The Coven placed their hands on Jack’s staff and began to channel their magic.
   </Entry>
   <!--NOTE: also be sure to update PatchNotes.xml and BigPatchNotes.xml-->
   <Entry key="GUI_PATCH_NOTES_CONTENT"><![CDATA[
+<b>9/13/2021</b>
+Hey Townies, today we are releasing Town of Salem 3.3.6. This patch updates our Facebook integration to keep it current. We also stomped a couple of bugs. Happy hanging!
+
+<b><u>Changes</u></b>
+• <indent=3%><b>Facebook Integration:</b> Upgraded to Facebook for Unity SDK 9.2.0 as Facebook will stop supporting the previous version we used.</indent>
+
+<b><u>Bug Fixes</u></b>
+• <indent=3%><b>Game Chat:</b> Fixed incorrect color on killed by Serial Killer announcement.</indent>
+• <indent=3%><b>Coven Custom Game Mode:</b> Vigilante was restored to the Town roles available.</indent>
+
+<align=center><b><size=110%>• • •</size></b></align>
+
 <b>3/24/2021</b>
 Hey Townies, today we are releasing Town of Salem 3.3.5. This patch adds some new limitations on the symbols allowed to be entered in chat, last wills, death notes, and notepad to help minimize character substitution by those seeking to circumvent our chat filters. We also stomped some bugs. Happy hanging!
 

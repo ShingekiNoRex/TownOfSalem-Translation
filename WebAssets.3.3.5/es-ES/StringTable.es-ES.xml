@@ -1,4 +1,4 @@
-<StringTable hash='BWCwwbJ49O8UE8Neib9hY9qZcm3nK34vlU6BH7EYrslHIl0XR4OA/MtG0t9ZB3xFQFMdFTZZqlVNUrj5+4pf5mFLhnbioA9s1RkxiyB3cUmRqhvoPqp2PCAj4BG/t1GKwQbTQeOU5Za6oJbWybzAbq9NGhOPIGQM3rswS0ZdoiEU7OJzcCKPp02lNeADDBLypw49g3mvquhwUmggTZ8EiPLZrhcd+U0UtmK+G2VGG/0OsnVXCJHXMf2ZhVpIOhaO/zmyHfz8Df2ykLovn1t2hj2zj63q5brgQh7i3WfbhhuTW+lGM4bIbN2Zleu3TmnTKKHUzgeeWQouSioeorxBkw=='>
+<StringTable hash='nD50Ivf8a88ZPgxIYo5ympaUiDOaQqQBc0D2HqucyRjihaEpIPqTT1igBMp9VDouOmGMBvPAjaH/CDX6NKwkYb5wq/u25qeeaGPbMXL7ZzuA9KbB+oSKEcYxsb3pCSPTrBuMfwAkDoA0PVXuucp5gmDmJXrL0sQ/YSs6S/2Pgo9sMc7VM4dVRxSa8G5HR2rHQejoOXTO5S25bmClCiTldYyDCUVarGd6zz9zGEhq0oBjgsdicVEg83Z86xDh01l8rO7tr8aDI/AJ6rY8AOuIfDZFWeoyyJ1JJ6j6CjYKfK2RrpXOci4hnXO0CsESV0Ch2djvOc0RYApMFUaHG+6kCw=='>
   <!--ITEM NUMBER TYPES ARE DEFINED IN ProductItem.ItemType enum-->
   <Entry key="ITEM_1_-3">Townie Al Azar</Entry>
   <Entry key="ITEM_1_0">John Hathorne</Entry>
@@ -1340,8 +1340,6 @@ Cuenta privilegiada</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB4">&#8226; Mejor soporte para dispositivos modernos</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB5">&#8226; Flexibilidad para el desarrollo futuro</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB6">&#8226; Más por venir ... </Entry>
-  
-  <Entry key="GUI_LIVETILE_CROWFALL">Presentamos <![CDATA[<color=#FFC300><size=120%>]]>Crowfall!<![CDATA[<size=100%></color>]]></Entry>
   
   <Entry key="GUI_POPUP_AFK_TITLE">AFK</Entry>
   <Entry key="GUI_POPUP_AFK_BLURB">Ahora estás AFK. Haga clic en cualquier lugar para evitar el cierre de sesión automático.</Entry>
@@ -3894,8 +3892,7 @@ Elige tu Defensa:</Entry>
   <Entry key="GUI_REPORT_REASON3">IGN inapropiado</Entry>
   <Entry key="GUI_REPORT_REASON4">Cometer acciones para perder intencionalmente</Entry>
   <Entry key="GUI_REPORT_REASON5">Spam</Entry>
-  <Entry key="GUI_REPORT_REASON6">Dejando</Entry>
-  <!--reasons 7 thru 9 not used-->
+  <!--reasons 6 thru 9 not used-->
   <Entry key="GUI_REPORT_REPORTED_PLAYER">Nombre del Jugador a Reportar</Entry>
   <Entry key="GUI_REPORT_REASON">Razón</Entry>
   <Entry key="GUI_REPORT_DETAILS">Detalles</Entry>
@@ -5684,6 +5681,18 @@ El Aquelarre puso sus manos sobre el personal de Jack y comenzó a canalizar su 
   </Entry>
   <!--NOTE: also be sure to update PatchNotes.xml and BigPatchNotes.xml-->
   <Entry key="GUI_PATCH_NOTES_CONTENT"><![CDATA[
+<b>13/9/2021</b>
+Hola Townies, hoy lanzamos Town of Salem 3.3.6. Este parche actualiza nuestra integración de Facebook para mantenerla actualizada. También pisamos un par de bichos. ¡Feliz colgando!
+
+<b><u>Cambios</u></b>
+• <indent=3%><b>Integración de Facebook:</b> Actualizado a Facebook para Unity SDK 9.2.0. Facebook dejará de admitir la versión anterior que usamos.</indent>
+
+<b><u>Corrección de Errores</u></b>
+• <indent=3%><b>Juego:</b> Se corrigió el color incorrecto en el anuncio asesinado por un asesino en serie.</indent>
+• <indent=3%><b>Modo de Juego Personalizado Coven:</b> Vigilante fue restaurado a los roles de Town disponibles.</indent>
+
+<align=center><b><size=110%>• • •</size></b></align>
+
 <b>24/3/2021</b>
 Hola Townies, hoy lanzamos Town of Salem 3.3.5. Este parche agrega algunas limitaciones nuevas en los símbolos que se pueden ingresar en el chat, las últimas voluntades, las notas de muerte y el bloc de notas para ayudar a minimizar la sustitución de caracteres por parte de aquellos que buscan eludir nuestros filtros de chat. También pisamos algunos bichos.
 
