@@ -1009,8 +1009,8 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_DEV_ROOM_SUMMARY">Devs are the best!</Entry>
   <Entry key="GUI_COVEN_LOVERS_SUMMARY">This mode is a Town vs Killers mode that will randomly pair people as Lovers. Keep your lover alive, regardless of their faction!</Entry>
   <Entry key="GUI_COVEN_RIVALS_SUMMARY">This mode is a Town vs Killers mode that will randomly pair people as Rivals. Kill your rival at any cost, regardless of their faction!</Entry>
-  <Entry key="GUI_COVEN_TOWN_TRAITOR_SUMMARY">A Town member has gone over to the side of the Coven!</Entry>
-  <Entry key="GUI_CLASSIC_TOWN_TRAITOR_SUMMARY">A Town member has gone over to the side of the Mafia!</Entry>
+  <Entry key="GUI_COVEN_TOWN_TRAITOR_SUMMARY">一位小镇成员和Coven同流合污！</Entry>
+  <Entry key="GUI_CLASSIC_TOWN_TRAITOR_SUMMARY">一位小镇成员和黑手党同流合污！</Entry>
   <!--Key "GUI_COVEN_LOVERS_DESC" has the same text as key "GUI_COVEN_LOVERS_SUMMARY"-->
   <Entry key="GUI_COVEN_LOVERS_DESC">This mode is a Town vs Killers mode that will randomly pair people as Lovers. Keep your lover alive, regardless of their faction!</Entry>
   <!--Key "GUI_COVEN_RIVALS_DESC" has the same text as key "GUI_COVEN_RIVALS_SUMMARY"-->
@@ -1555,12 +1555,12 @@ Premium Account</Entry>
   <Entry key="GUI_SETTINGS_GENERAL_TAB">通用</Entry>
   <Entry key="GUI_SETTINGS_DISPLAY_TAB">显示</Entry>
   <Entry key="GUI_SETTINGS_ROLES_TAB">View Roles</Entry>
-  <Entry key="GUI_SETTINGS_HELP_TAB">Help</Entry>
-  <Entry key="GUI_SETTINGS_BUG_TAB">Report Bug</Entry>
+  <Entry key="GUI_SETTINGS_HELP_TAB">帮助</Entry>
+  <Entry key="GUI_SETTINGS_BUG_TAB">报告Bug</Entry>
   <Entry key="GUI_SETTINGS_TAKE_EFFECT_IMMEDIATELY">The following settings take effect immediately:</Entry>
   <Entry key="GUI_SETTINGS_TAKE_EFFECT_NEXT_GAME">The following settings will take effect on your next game:</Entry>
   <Entry key="GUI_SETTINGS_MUSIC_CHECKBOX">音乐</Entry>
-  <Entry key="GUI_SETTINGS_EFFECTS_CHECKBOX">Effects</Entry>
+  <Entry key="GUI_SETTINGS_EFFECTS_CHECKBOX">音效</Entry>
   <Entry key="GUI_SETTINGS_QUEUE_LABEL">Preferred Chat Language</Entry>
   <Entry key="GUI_SETTINGS_TUTORIAL_TIP_LABEL">Tutorial Tips:</Entry>
   <Entry key="GUI_SETTINGS_GRAPHICS_LEVEL_LABEL">Graphics Level:</Entry>
@@ -1573,7 +1573,7 @@ Premium Account</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_PLAYER_NUMBERS_TOOLTIP">启用以在游戏聊天中显示玩家的位置编号。</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_SEND_CHAT_ON_LOST_FOCUS_CHECKBOX">Send Chat on Lost Focus</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_SEND_CHAT_ON_LOST_FOCUS_TOOLTIP">Enable "Send Chat on Lost Focus" to always send chat messages when the chatbox loses focus, rather than just on pressing Enter or Return key.</Entry>
-  <Entry key="GUI_SETTINGS_CHAT_ENABLE_EXT_PLAYER_NUMBERS_CHECKBOX">Show Extended Player Numbers</Entry>
+  <Entry key="GUI_SETTINGS_CHAT_ENABLE_EXT_PLAYER_NUMBERS_CHECKBOX">显示拓展玩家编号</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_EXT_PLAYER_NUMBERS_TOOLTIP">Enable "Show Extended Player Numbers" to show the position number of players referenced in game messages.</Entry>
   <Entry key="GUI_SETTINGS_CHAT_FILTER_CHECKBOX">启用聊天过滤</Entry>
   <Entry key="GUI_SETTINGS_CHAT_FILTER_TOOLTIP">启用以过滤侮辱性文字。</Entry>
