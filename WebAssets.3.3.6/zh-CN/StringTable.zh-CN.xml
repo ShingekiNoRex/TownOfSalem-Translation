@@ -3052,7 +3052,7 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_USER_VOTED" style="vote"> 投票反对 </Entry>
   <Entry key="GUI_USER_CANCELED_VOTE" style="vote"> 取消了投票。</Entry>
   <Entry key="GUI_USER_CHANGED_VOTE" style="vote"> 改投 </Entry>
-  <Entry key="GUI_VOTE">Vote</Entry>
+  <Entry key="GUI_VOTE">投票</Entry>
   <Entry key="GUI_YOU_HAVE_DIED" style="alert">你死了！</Entry>
   <Entry key="GUI_AMNESIAC_REMEMBERED_ROLE_X" style="notice">一名失忆症患者回想起了他是 %role%。</Entry>
   <Entry key="GUI_AMNESIAC_REMEMBERED_ROLE">一名失忆症患者回想起了他是 </Entry>
@@ -3457,54 +3457,54 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_XDIED_REASON27_2" style="notice">%gender% died from a %role%.</Entry>
 
   <Entry key="GUI_DEAD_FLUFF00">%name% 昨晚被杀害了。</Entry>
-  <Entry key="GUI_DEAD_FLUFF01">我们发现 %name% 昨晚死在了他的家中。</Entry>
-  <Entry key="GUI_DEAD_FLUFF02">%name% was brutally murdered last night.</Entry>
-  <Entry key="GUI_DEAD_FLUFF03">%name% was slaughtered last night.</Entry>
+  <Entry key="GUI_DEAD_FLUFF01">我们发现 %name% 昨晚死在其家中。</Entry>
+  <Entry key="GUI_DEAD_FLUFF02">%name% 昨晚被残忍谋杀了。</Entry>
+  <Entry key="GUI_DEAD_FLUFF03">%name% 昨晚被屠杀了。</Entry>
   <Entry key="GUI_XDIED_LAST_NIGHT" style="alert">%name% 昨晚死了。</Entry>
-  <Entry key="GUI_XROLE_WAS_Y" style="notice">%name%'s role was %role%.</Entry>
-  <Entry key="GUI_WE_COULD_NOT_DETERMINE_XROLE">We could not determine %name%'s role.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON1_1">was also executed by the %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON1_2">was executed by the %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON2_1">was also shot by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON2_2">was shot by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON3_1">was also killed by a member of the %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON3_2">was killed by a member of the %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON4_1">was also incinerated by an %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON4_2">was incinerated by an %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON5_1">was also stabbed by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON5_2">was stabbed by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON6_1">apparently committed suicide.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON6_2">apparently committed suicide.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON7_1">also died from guilt over lynching the %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON7_2">died from guilt over lynching the %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON8_1">also died guarding someone.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON8_2">died guarding someone.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON9_1">was also killed by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON9_2">was killed by a %role%.</Entry>
+  <Entry key="GUI_XROLE_WAS_Y" style="notice">%name% 的角色是 %role%。</Entry>
+  <Entry key="GUI_WE_COULD_NOT_DETERMINE_XROLE">我们无法查明 %name% 的角色。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON1_1">同时被 %role% 处死了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON1_2">被 %role% 处死了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON2_1">同时被 %role% 射杀了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON2_2">被 %role% 射杀了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON3_1">同时被 %role% 成员杀害了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON3_2">被 %role% 成员杀害了</Entry>
+  <Entry key="GUI_WHO_DIED_REASON4_1">同时被 %role% 烧为灰烬。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON4_2">被 %role% 烧为灰烬。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON5_1">同时被 %role% 刺杀了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON5_2">被 %role% 刺杀了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON6_1">显然死于自杀。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON6_2">显然死于自杀。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON7_1">同时死于处死 %role% 的罪恶感。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON7_2">死于处死 %role% 的罪恶感。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON8_1">同时死于守卫某人。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON8_2">死于守卫某人。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON9_1">同时被 %role% 杀害了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON9_2">被 %role% 杀害了。</Entry>
   <!--Key "GUI_WHO_DIED_REASON10_1" has the same text as key "GUI_WHO_DIED_REASON9_1"-->
-  <Entry key="GUI_WHO_DIED_REASON10_1">was also killed by a %role%.</Entry>
+  <Entry key="GUI_WHO_DIED_REASON10_1">同时被 %role% 杀害了。</Entry>
   <!--Key "GUI_WHO_DIED_REASON10_2" has the same text as key "GUI_WHO_DIED_REASON9_2"-->
-  <Entry key="GUI_WHO_DIED_REASON10_2">was killed by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON11_1">also died from guilt.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON11_2">died from guilt.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON12_1">was also mauled by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON12_2">was mauled by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON13_1">was also staked by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON13_2">was staked by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON14_1">was also bitten by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON14_2">was bitten by a %role%.</Entry>
+  <Entry key="GUI_WHO_DIED_REASON10_2">被 %role% 杀害了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON11_1">同时死于内疚。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON11_2">死于内疚。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON12_1">同时被 %role% 袭击了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON12_2">被 %role% 袭击了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON13_1">同时被 %role% 钉死了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON13_2">被 %role% 钉死了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON14_1">同时被 %role% 咬死了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON14_2">被 %role% 咬死了。</Entry>
   <!--Key "GUI_WHO_DIED_REASON15_1" has the same text as key "GUI_WHO_DIED_REASON9_1"-->
-  <Entry key="GUI_WHO_DIED_REASON15_1">was also killed by a %role%.</Entry>
+  <Entry key="GUI_WHO_DIED_REASON15_1">同时被 %role% 杀害了。</Entry>
   <!--Key "GUI_WHO_DIED_REASON15_2" has the same text as key "GUI_WHO_DIED_REASON9_2"-->
-  <Entry key="GUI_WHO_DIED_REASON15_2">was killed by a %role%.</Entry>
+  <Entry key="GUI_WHO_DIED_REASON15_2">被 %role% 杀害了。</Entry>
   <!--Key "GUI_WHO_DIED_REASON16_1" has the same text as key "GUI_WHO_DIED_REASON9_1"-->
-  <Entry key="GUI_WHO_DIED_REASON16_1">was also killed by a %role%.</Entry>
+  <Entry key="GUI_WHO_DIED_REASON16_1">同时被 %role% 杀害了。</Entry>
   <!--Key "GUI_WHO_DIED_REASON16_2" has the same text as key "GUI_WHO_DIED_REASON9_2"-->
-  <Entry key="GUI_WHO_DIED_REASON16_2">was killed by a %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON17_1">was also killed by an %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON17_2">was killed by an %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON18_1">was also obliterated by %role%.</Entry>
-  <Entry key="GUI_WHO_DIED_REASON18_2">was obliterated by %role%.</Entry>
+  <Entry key="GUI_WHO_DIED_REASON16_2">被 %role% 杀害了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON17_1">同时被 %role% 杀害了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON17_2">被 %role% 杀害了</Entry>
+  <Entry key="GUI_WHO_DIED_REASON18_1">同时被 %role% 消灭了。</Entry>
+  <Entry key="GUI_WHO_DIED_REASON18_2">被 %role% 消灭了。</Entry>
   <Entry key="GUI_WHO_DIED_REASON19_1">was also assaulted by a %role%.</Entry>
   <Entry key="GUI_WHO_DIED_REASON19_2">was assaulted by a %role%.</Entry>
   <Entry key="GUI_WHO_DIED_REASON20_1">was also plundered by a %role%.</Entry>
@@ -3526,53 +3526,53 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_WHO_DIED_REASON27_1">also died from a broken heart.</Entry>
   <Entry key="GUI_WHO_DIED_REASON27_2">died from a broken heart.</Entry>
   <Entry key="GUI_BROKEN_HEART">broken heart</Entry>
-  <Entry key="GUI_DEAD_FLUFF0">was killed last night.</Entry>
-  <Entry key="GUI_DEAD_FLUFF1PRE">We found</Entry>
-  <Entry key="GUI_DEAD_FLUFF1">dead in their home last night.</Entry>
-  <Entry key="GUI_DEAD_FLUFF2">was brutally murdered last night.</Entry>
-  <Entry key="GUI_DEAD_FLUFF3">was slaughtered last night.</Entry>
-  <Entry key="GUI_DIED_LAST_NIGHT">died last night.</Entry>
-  <Entry key="GUI_JANITOR_KNOWS_ROLE_X" style="ability_feedback">You secretly know that your target's role was %role%.</Entry>
-  <Entry key="GUI_JANITOR_KNOWS_WILL1" style="ability_feedback">You secretly know your targets last will.</Entry>
-  <Entry key="GUI_JANITOR_KNOWS_WILL2" style="ability_feedback">Click your targets name in the Graveyard to view their will.</Entry>
-  <Entry key="GUI_SOMEONE_HAS_WON_DRAW" style="notice">The game has ended in a draw.</Entry>
-  <Entry key="GUI_YOU_WIN" style="notice">You Win!</Entry>
-  <Entry key="GUI_XHAS_WON_SINGULAR" style="notice">%name% has won.</Entry>
-  <Entry key="GUI_XHAS_WON_PLURAL" style="notice">%names% have won.</Entry>
-  <Entry key="GUI_SOMEONE_HAS_WON_SINGULAR">has won.</Entry>
-  <Entry key="GUI_SOMEONE_HAS_WON_PLURAL">have won.</Entry>
-  <Entry key="GUI_PROMOTED_TO_21" style="vital">You were promoted to the Godfather!</Entry>
-  <Entry key="GUI_PROMOTED_TO_23" style="vital">You were promoted to a Mafioso!</Entry>
-  <Entry key="GUI_EXECUTIONER_CONVERTED_TO_27" style="vital">Your target died. You have become a Jester!</Entry>
-  <Entry key="GUI_GUARDIAN_ANGEL_CONVERTED_TO_29" style="vital">Your target died. You have become a Survivor!</Entry>
+  <Entry key="GUI_DEAD_FLUFF0">昨晚被杀害了。</Entry>
+  <Entry key="GUI_DEAD_FLUFF1PRE">我们发现</Entry>
+  <Entry key="GUI_DEAD_FLUFF1">昨晚死在其家中。</Entry>
+  <Entry key="GUI_DEAD_FLUFF2">昨晚被残忍谋杀了。</Entry>
+  <Entry key="GUI_DEAD_FLUFF3">昨晚被屠杀了。</Entry>
+  <Entry key="GUI_DIED_LAST_NIGHT">昨晚死了。</Entry>
+  <Entry key="GUI_JANITOR_KNOWS_ROLE_X" style="ability_feedback">你秘密知道了你目标的身份是 %role%。</Entry>
+  <Entry key="GUI_JANITOR_KNOWS_WILL1" style="ability_feedback">你秘密知道了你目标的遗愿。</Entry>
+  <Entry key="GUI_JANITOR_KNOWS_WILL2" style="ability_feedback">于墓地中点击你目标的名字以查看其遗愿。</Entry>
+  <Entry key="GUI_SOMEONE_HAS_WON_DRAW" style="notice">这场游戏以平局结束。</Entry>
+  <Entry key="GUI_YOU_WIN" style="notice">你获胜了！</Entry>
+  <Entry key="GUI_XHAS_WON_SINGULAR" style="notice">%name% 获胜了。</Entry>
+  <Entry key="GUI_XHAS_WON_PLURAL" style="notice">%names% 获胜了。</Entry>
+  <Entry key="GUI_SOMEONE_HAS_WON_SINGULAR">获胜了。</Entry>
+  <Entry key="GUI_SOMEONE_HAS_WON_PLURAL">获胜了。</Entry>
+  <Entry key="GUI_PROMOTED_TO_21" style="vital">你晋升为了教父！</Entry>
+  <Entry key="GUI_PROMOTED_TO_23" style="vital">你晋升为了黑手党喽啰！</Entry>
+  <Entry key="GUI_EXECUTIONER_CONVERTED_TO_27" style="vital">你的目标死亡。你成为了小丑！</Entry>
+  <Entry key="GUI_GUARDIAN_ANGEL_CONVERTED_TO_29" style="vital">你的目标死亡。你成为了生存者！</Entry>
   <Entry key="GUI_INVALID_NAME_MESSAGE1" style="system">That name is too similar to another player's name.</Entry>
   <Entry key="GUI_INVALID_NAME_MESSAGE2" style="system">Names may not contain profanity.</Entry>
-  <Entry key="GUI_START_NIGHT_TRANSITION1">The first night will now begin.</Entry>
+  <Entry key="GUI_START_NIGHT_TRANSITION1">第一晚即将开始。</Entry>
   <Entry key="GUI_START_NIGHT_TRANSITION2">It is too late to continue voting.</Entry>
-  <Entry key="GUI_START_NIGHT_TRANSITION3">Night falls on the Town of Salem.</Entry>
-  <Entry key="GUI_LYNCH_USER_MAY_GOD_HAVE_MERCY_X">May God have mercy on your soul, %name%.</Entry>
+  <Entry key="GUI_START_NIGHT_TRANSITION3">夜幕降临塞勒姆镇。</Entry>
+  <Entry key="GUI_LYNCH_USER_MAY_GOD_HAVE_MERCY_X">愿上帝宽恕你的灵魂，%name%。</Entry>
   <Entry key="GUI_XSTART_DEFENSE_P1">%name%, you are on trial for conspiracy against the town.</Entry>
-  <Entry key="GUI_LYNCH_USER_MAY_GOD_HAVE_MERCY">May God have mercy on your soul</Entry>
+  <Entry key="GUI_LYNCH_USER_MAY_GOD_HAVE_MERCY">愿上帝宽恕你的灵魂</Entry>
   <Entry key="GUI_START_DEFENSE_P1">, you are on trial for conspiracy against the town.</Entry>
-  <Entry key="GUI_START_DEFENSE_P2">What is your defense?</Entry>
-  <Entry key="GUI_XIS_WHISPERING_TO_Y" style="whisper_notice">%name1% is whispering to %name2%.</Entry>
-  <Entry key="GUI_PRIVATE_MESSAGE_FROM_X" style="whisper">From %name%:</Entry>
-  <Entry key="GUI_PRIVATE_MESSAGE_TO_X" style="whisper">To %name%:</Entry>
-  <Entry key="GUI_PRIVATE_MESSAGE_FROM_XTO_Y" style="whisper">From %name1% to %name2%:</Entry>
-  <Entry key="GUI_NOTIFY_USERS_OF_PRIVATE_MESSAGE">is whispering to</Entry>
-  <Entry key="GUI_PRIVATE_MESSAGE_FROM">From</Entry>
-  <Entry key="GUI_PRIVATE_MESSAGE_TO">To</Entry>
+  <Entry key="GUI_START_DEFENSE_P2">请发表你的辩解？</Entry>
+  <Entry key="GUI_XIS_WHISPERING_TO_Y" style="whisper_notice">%name1% 正和 %name2% 窃窃私语。</Entry>
+  <Entry key="GUI_PRIVATE_MESSAGE_FROM_X" style="whisper">来自 %name%：</Entry>
+  <Entry key="GUI_PRIVATE_MESSAGE_TO_X" style="whisper">致 %name%：</Entry>
+  <Entry key="GUI_PRIVATE_MESSAGE_FROM_XTO_Y" style="whisper">来自 %name1% 致 %name2%：</Entry>
+  <Entry key="GUI_NOTIFY_USERS_OF_PRIVATE_MESSAGE">正在私聊</Entry>
+  <Entry key="GUI_PRIVATE_MESSAGE_FROM">来自</Entry>
+  <Entry key="GUI_PRIVATE_MESSAGE_TO">致</Entry>
   <Entry key="GUI_CANNOT_WHISPER_SELF" style="alert">You cannot whisper yourself, that would be weird.</Entry>
   <Entry key="GUI_BLACKMAILED_MESSAGING_DISALLOWED" style="alert">You cannot chat or whisper while blackmailed.</Entry>
-  <Entry key="GUI_SPY_NIGHT_ABILITY_MESSAGE_1" style="spy2">A member of the mafia visited %name% last night.</Entry>
+  <Entry key="GUI_SPY_NIGHT_ABILITY_MESSAGE_1" style="spy2">一名黑手党成员昨晚访问了 %name% 。</Entry>
   <Entry key="GUI_SPY_NIGHT_ABILITY_MESSAGE_2" style="spy2">A member of the coven visited %name% last night.</Entry>
-  <Entry key="GUI_ONE_DAY_BEFORE_STALEMATE" style="notice">If no one dies by tomorrow the game will end in a draw.</Entry>
-  <Entry key="GUI_VAMPIRE_PROMOTION" style="vital">You were bitten by a Vampire!</Entry>
-  <Entry key="GUI_VAMPIRE_HUNTER_PROMOTED1" style="vital">All of the Vampires are gone. You are now a Vigilante!</Entry>
-  <Entry key="GUI_VAMPIRE_HUNTER_PROMOTED2" style="ability_status">You only have 1 bullet left.</Entry>
-  <Entry key="GUI_VAMPIRE_VISITED_MESSAGE" style="notice">The Vampires visited </Entry>
-  <Entry key="GUI_VAMPIRE_VISITED_MESSAGE2" style="ability_feedback">The Vampires visited %name% last night.</Entry>
-  <Entry key="GUI_TRANSPORTER_NOTIFICATION">%name1% was transported with %name2% last night.</Entry>
+  <Entry key="GUI_ONE_DAY_BEFORE_STALEMATE" style="notice">如果明天还没有人死亡，本场游戏将以平局结束。</Entry>
+  <Entry key="GUI_VAMPIRE_PROMOTION" style="vital">你被吸血鬼咬了！</Entry>
+  <Entry key="GUI_VAMPIRE_HUNTER_PROMOTED1" style="vital">所有的吸血鬼都消失了，你现在是一位民兵！</Entry>
+  <Entry key="GUI_VAMPIRE_HUNTER_PROMOTED2" style="ability_status">你只有 1 颗子弹。</Entry>
+  <Entry key="GUI_VAMPIRE_VISITED_MESSAGE" style="notice">吸血鬼访问了 </Entry>
+  <Entry key="GUI_VAMPIRE_VISITED_MESSAGE2" style="ability_feedback">吸血鬼昨晚访问了 %name% 。</Entry>
+  <Entry key="GUI_TRANSPORTER_NOTIFICATION">%name1% 和 %name2% 昨晚被转移了。</Entry>
   <Entry key="GUI_DO_NOT_SPAM_1" style="system">Please do not spam the chat.</Entry>
   <Entry key="GUI_DO_NOT_SPAM_2" style="system">Please do not type the same message again.</Entry>
   <Entry key="GUI_DO_NOT_SPAM_3" style="system">Do not type in all capitals.</Entry>
@@ -3590,12 +3590,12 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_SUPPLIED_USER_NOT_FOUND">Supplied player not found.</Entry>
   <Entry key="GUI_SYSTEM_MESSAGE">System</Entry>
   <Entry key="GUI_YOU_HAVE_BEEN_DISCONNECTED">You have been disconnected from the server.</Entry>
-  <Entry key="GUI_FOUND_WILL">We found a will next to their body.</Entry>
-  <Entry key="GUI_FOUND_NO_WILL">We could not find a last will.</Entry>
-  <Entry key="GUI_FOUND_BLOOD_COVERED_WILL">Their last will was covered in blood and unreadable.</Entry>
-  <Entry key="GUI_FOUND_BLOOD_COVERED_WILL_JANITOR">Their last will was covered in blood but you cleaned it and can read it.</Entry>
-  <Entry key="GUI_FOUND_DEATH_NOTE">We found a death note next to their body.</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_TITLE">Victory Conditions</Entry>
+  <Entry key="GUI_FOUND_WILL">我们在其尸体边找到一份遗愿。</Entry>
+  <Entry key="GUI_FOUND_NO_WILL">我们找不到一份遗愿。</Entry>
+  <Entry key="GUI_FOUND_BLOOD_COVERED_WILL">其遗愿被血迹覆盖，无法判读。</Entry>
+  <Entry key="GUI_FOUND_BLOOD_COVERED_WILL_JANITOR">其遗愿被血迹覆盖，但你经过清理能阅读遗愿。</Entry>
+  <Entry key="GUI_FOUND_DEATH_NOTE">我们在其尸体边找到一份死亡字条。</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_TITLE">胜利条件</Entry>
   <Entry key="GUI_VICTORY_CONDITION_WIN_WITH_X">You win with %x%</Entry>
   <Entry key="GUI_VICTORY_CONDITION_WIN_WITH_THE_X">You win with the %x%</Entry>
   <Entry key="GUI_VICTORY_CONDITION_MUST_KILL_X">You must kill %x%</Entry>
@@ -3652,7 +3652,7 @@ Cancel - 不关闭。</Entry>
 -如果你成功保护了某人，你仍能被%GUI_ROLE_CARD_HEAL%。</Entry>
   <Entry key="GUI_ROLE_CARD_GOAL_0">处死所有罪犯和恶人。</Entry>
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_0">小镇</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_1">-每晚%GUI_ROLE_CARD_HEAL%一个人，赋予他%GUI_ROLE_CARD_POWERFUL_DEFENSE%防御。</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_1">-每晚%GUI_ROLE_CARD_HEAL%一个人，赋予其%GUI_ROLE_CARD_POWERFUL_DEFENSE%防御。</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_1">-你只能%GUI_ROLE_CARD_HEAL%你自己一次。
 -你会知道你的目标是否被攻击了。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_1" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
@@ -4613,7 +4613,7 @@ Attack</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB46">保护</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB47">追踪</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB48">trap</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB50">hypnotize</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB50">催眠</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB51">stalk</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB52">infect</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB53">attack</Entry>
@@ -5190,8 +5190,8 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_47">Tracker</Entry>
   <Entry key="GUI_ROLE_48">Trapper</Entry>
   <Entry key="GUI_ROLE_49">Psychic</Entry>
-  <Entry key="GUI_ROLE_50">Hypnotist</Entry>
-  <Entry key="GUI_ROLE_51">Ambusher</Entry>
+  <Entry key="GUI_ROLE_50">催眠师</Entry>
+  <Entry key="GUI_ROLE_51">埋伏手</Entry>
   <Entry key="GUI_ROLE_52">Plaguebearer</Entry>
   <Entry key="GUI_ROLE_53">Juggernaut</Entry>
   <Entry key="GUI_ROLE_54">Guardian Angel</Entry>
@@ -5289,9 +5289,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_48_SELF">拆卸</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_48_SINGLE">拆卸</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_49"></Entry> <!-- Psychic has none -->
-  <Entry key="GUI_ROLE_ABILITY_VERB_50">Hypnotize</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_50">催眠</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_51">埋伏</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_52">Infect</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_52">感染</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_53">攻击</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_54">保护</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_54_SINGLE">保护</Entry> 
@@ -5582,23 +5582,23 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_TOOLTIP_DOUBLE_CLICK_TO_ADD_ROLE">Double-click to add role</Entry>
   <Entry key="GUI_TOOLTIP_CLICK_TO_REMOVE_ROLE">Click to remove role</Entry>
   <Entry key="GUI_TOOLTIP_COUNTDOWN_TO_NEXT_PHASE">Countdown to next phase</Entry>
-  <Entry key="GUI_TOOLTIP_CHAT_LOG">Chat Log</Entry>
-  <Entry key="GUI_TOOLTIP_CLOSE_CHAT_LOG">Close the Chat Log</Entry>
+  <Entry key="GUI_TOOLTIP_CHAT_LOG">聊天日志</Entry>
+  <Entry key="GUI_TOOLTIP_CLOSE_CHAT_LOG">关闭聊天日志</Entry>
   <Entry key="GUI_TOOLTIP_SCROLLBOTTOM_CHAT_LOG">Scroll to bottom of Chat Log</Entry>
   <Entry key="GUI_TOOLTIP_SCROLLBOTTOM_CHAT_LOG_HOTKEY">Scroll to bottom of Chat Log (Shift+Ctrl+B)</Entry>
-  <Entry key="GUI_TOOLTIP_LASTWILL">Last Will</Entry>
-  <Entry key="GUI_TOOLTIP_DEATHNOTE">Death Note</Entry>
-  <Entry key="GUI_TOOLTIP_NOTEPAD">Notepad</Entry>
+  <Entry key="GUI_TOOLTIP_LASTWILL">遗愿</Entry>
+  <Entry key="GUI_TOOLTIP_DEATHNOTE">死亡字条</Entry>
+  <Entry key="GUI_TOOLTIP_NOTEPAD">笔记</Entry>
   <Entry key="GUI_TOOLTIP_ROLECARD">Role Card</Entry>
   <Entry key="GUI_TOOLTIP_SEND_WILL_TO_CHAT">在聊天中发布你的遗愿（即刻发送）</Entry>
   <Entry key="GUI_TOOLTIP_SEND_NOTES_TO_CHAT">在聊天中发布你的笔记（即刻发送）</Entry>
   <Entry key="GUI_TOOLTIP_PASTE_FROM_EXTERNAL_CLIPBOARD">Paste from External Clipboard</Entry>
   <Entry key="GUI_TOOLTIP_CLEAR_FILTER">Clear filter</Entry>
   <Entry key="GUI_TOOLTIP_HOST_CONTROLS">Host Controls</Entry>
-  <Entry key="GUI_TOOLTIP_CHAT_LOG_SHORTCUT">Chat Log (Shift+Ctrl+C)</Entry>
-  <Entry key="GUI_TOOLTIP_LASTWILL_SHORTCUT">Last Will (Shift+Ctrl+L)</Entry>
-  <Entry key="GUI_TOOLTIP_DEATHNOTE_SHORTCUT">Death Note (Shift+Ctrl+D)</Entry>
-  <Entry key="GUI_TOOLTIP_NOTEPAD_SHORTCUT">Notepad (Shift+Ctrl+N)</Entry>
+  <Entry key="GUI_TOOLTIP_CHAT_LOG_SHORTCUT">聊天日志 (Shift+Ctrl+C)</Entry>
+  <Entry key="GUI_TOOLTIP_LASTWILL_SHORTCUT">遗愿 (Shift+Ctrl+L)</Entry>
+  <Entry key="GUI_TOOLTIP_DEATHNOTE_SHORTCUT">死亡字条 (Shift+Ctrl+D)</Entry>
+  <Entry key="GUI_TOOLTIP_NOTEPAD_SHORTCUT">笔记 (Shift+Ctrl+N)</Entry>
   <Entry key="GUI_TOOLTIP_DISCONNECTED">Disconnected</Entry>
   <Entry key="GUI_TOOLTIP_VIP">VIP</Entry>
   <Entry key="GUI_TOOLTIP_LOVER">Your Lover</Entry>
