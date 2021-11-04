@@ -4280,14 +4280,14 @@ This mode is a Town vs Killers mode that will randomly pair people as Rivals. Ki
   <!--Key "GUI_ROLE_CARD_INVINCIBLE_DEFENSE" has the same text as key "GUI_ACHIEVEMENT_TITLE339"-->
   <Entry key="GUI_ROLE_CARD_INVINCIBLE_DEFENSE">无敌</Entry>
   <Entry key="GUI_ROLE_CARD_INTERROGATE_TOOLTIP">
-You question your target to find out if they seem suspicious.
-All Mafia members, except the Godfather, will be suspicious.
-All Coven members, except the holder of the Necronomicon, will seem suspicious.
-The Serial Killer will seem suspicious.
-The Werewolf will seem suspicious on full moon nights, and seem innocent on non-full moon nights.
-Framed and hexed targets will seem suspicious.</Entry>
+你通过询问你的目标来调查其是否可疑。
+所有的黑手党成员，除了教父，都会显示为可疑。
+所有的Coven成员，除了死灵之书的持有者，都会显示为可疑。
+连环杀手会显示为可疑。
+狼人会在满月之夜显示为可疑，在非满月之夜显示为清白。
+被诬陷和施术的目标会显示为可疑。</Entry>
   <!--Key "GUI_ROLE_CARD_INTERROGATE" has the same text as key "GUI_ACHIEVEMENT_TITLE68"-->
-  <Entry key="GUI_ROLE_CARD_INTERROGATE">Interrogate</Entry>
+  <Entry key="GUI_ROLE_CARD_INTERROGATE">审问</Entry>
   <Entry key="GUI_ROLE_CARD_PLAGUE_TOOLTIP">
 Infected players spread the plague on visiting or being visited.
 Infection cannot be protected against or removed.</Entry>
@@ -4302,31 +4302,31 @@ Shroud prevents all non-attack visits from affecting you.</Entry>
 Purge removes all harmful effects from a player.</Entry>
   <Entry key="GUI_ROLE_CARD_PURGE">Purge</Entry>
   <Entry key="GUI_ROLE_CARD_HEAL_TOOLTIP">
-Heal gives a player Powerful defense for that night, and cures poison.</Entry>
+治愈能在当晚赋予一名玩家强大防御，并治愈中毒。</Entry>
   <!--Key "GUI_ROLE_CARD_HEAL" has the same text as key "GUI_POTION_MASTER_HEAL"-->
   <Entry key="GUI_ROLE_CARD_HEAL">治愈</Entry>
   <Entry key="GUI_ROLE_CARD_JAIL_TOOLTIP">
-Being in jail causes all direct visits to fail against the player.</Entry>
+处在监狱中会导致所有针对该玩家的直接访问失效。</Entry>
   <!--Key "GUI_ROLE_CARD_JAIL" has the same text as key "ITEM_2_5"-->
-  <Entry key="GUI_ROLE_CARD_JAIL">Jail</Entry>
+  <Entry key="GUI_ROLE_CARD_JAIL">监禁</Entry>
   <Entry key="GUI_ROLE_CARD_RAMPAGE_TOOLTIP">
-Causes your attacks to attack your target and all players visiting your target.</Entry>
+使你攻击你的目标，以及所有访问你目标的玩家。</Entry>
   <!--Key "GUI_ROLE_CARD_RAMPAGE" has the same text as key "GUI_ACHIEVEMENT_TITLE219"-->
-  <Entry key="GUI_ROLE_CARD_RAMPAGE">Rampage</Entry>
+  <Entry key="GUI_ROLE_CARD_RAMPAGE">横冲直撞</Entry>
   <Entry key="GUI_ROLE_CARD_CONTROL_TOOLTIP">
-Controlling a player allows you to chose a target for their abilities if they have targetable abilities.
-You can control a player to target themselves.
-Players controlled will know they were controlled.
-You will know the role of the player you control.</Entry>
-  <Entry key="GUI_ROLE_CARD_CONTROL">Control</Entry>
+控制一名玩家能让你选择其能力的施展目标，如果其能力有可选目标的话。
+你可以控制一名玩家选择其自己作为目标。
+被控制的玩家会知道其被控制。
+你会知道你所控制玩家的身份。</Entry>
+  <Entry key="GUI_ROLE_CARD_CONTROL">控制</Entry>
   <Entry key="GUI_ROLE_CARD_TRAP_TOOLTIP">
 Traps will trigger on players directly visiting the trapped player, but will only harm attackers.
 You are told the roles of the players who visit your trapped target when it triggers.</Entry>
   <Entry key="GUI_ROLE_CARD_TRAP">Trap</Entry>
   <Entry key="GUI_ROLE_CARD_DOUSE_TOOLTIP">
-Doused players will have their investigative results changed to be Godfather, Bodyguard, or Arsonist.
-Players will not know they have been doused in gas.</Entry>
-  <Entry key="GUI_ROLE_CARD_DOUSE">Douse</Entry>
+被泼汽油的玩家的调查结果会显示为教父，保镖，或纵火犯。
+玩家不会知道其被泼了汽油。</Entry>
+  <Entry key="GUI_ROLE_CARD_DOUSE">泼汽油</Entry>
   <Entry key="GUI_ROLE_CARD_HEX_TOOLTIP">
 Hexed players will not know they have been hexed.
 When all living players are hexed, your victims will be dealt a unstoppable attack.
@@ -4336,10 +4336,10 @@ Hexed players will have their investigative results changed.</Entry>
 Your visits will not trigger any mechanic that relies on you visiting a player. This includes Lookouts, Trackers, Veterans, Bodyguards, Trappers, Crusaders, Ambushers, Plaguebearer, Pestilence, Werewolf, and Medusa.</Entry>
   <Entry key="GUI_ROLE_CARD_ASTRAL_ATTACK">Astral</Entry>
   <Entry key="GUI_ROLE_CARD_CONVERT_TOOLTIP">
-Converted players will become Vampires and join your team.
-You must wait one night between conversions.
-If the target cannot be converted, they will be attacked by a basic attack instead.</Entry>
-  <Entry key="GUI_ROLE_CARD_CONVERT">Convert</Entry>
+被转化的玩家会变成吸血鬼并加入你的队伍。
+每次转化必须相隔一晚。
+如果目标无法被转化，其会被施行一次基础攻击。</Entry>
+  <Entry key="GUI_ROLE_CARD_CONVERT">转化</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_46">-Protect one person during the night.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_46">-Grant your target %GUI_ROLE_CARD_POWERFUL_DEFENSE% defense
 -You will know if your target is attacked.
@@ -4697,18 +4697,18 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GAME_2" style="alert">你的目标可疑！</Entry>
   <Entry key="GAME_3" style="alert">你的目标可疑！</Entry>
   <Entry key="GAME_4" style="alert">你被狱长处死了！</Entry>
-  <Entry key="GAME_5" style="alert">Someone tried to transport you but you were in jail.</Entry>
-  <Entry key="GAME_6" style="alert">You were transported to another location.</Entry>
-  <Entry key="GAME_SPY_RESULT_6" style="spy">Your target was transported to another location.</Entry>
-  <Entry key="GAME_7" style="alert">Someone tried to role block you but you were in jail.</Entry>
-  <Entry key="GAME_8" style="alert">Someone occupied your night. You were role blocked!</Entry>
-  <Entry key="GAME_SPY_RESULT_8" style="spy">Someone occupied your target's night. They were role blocked!</Entry>
-  <Entry key="GAME_9" style="alert">Someone tried to blackmail you but you were in jail last night.</Entry>
-  <Entry key="GAME_10" style="alert">Someone threatened to reveal your secrets. You are blackmailed!</Entry>
-  <Entry key="GAME_SPY_RESULT_10" style="spy">Someone threatened to reveal your target's secrets. They were blackmailed!</Entry>
-  <Entry key="GAME_11" style="alert">Someone tried to douse you in gas but you were in jail last night!</Entry>
-  <Entry key="GAME_12" style="alert">You were doused in gas!</Entry>
-  <Entry key="GAME_SPY_RESULT_12" style="spy">Your target was doused in gas!</Entry>
+  <Entry key="GAME_5" style="alert">有人试着转移你，但你在监狱中。</Entry>
+  <Entry key="GAME_6" style="alert">你被转移到了另一场所。</Entry>
+  <Entry key="GAME_SPY_RESULT_6" style="spy">你的目标被转移到了另一场所。</Entry>
+  <Entry key="GAME_7" style="alert">有人试着阻止你的能力，但你在监狱中。</Entry>
+  <Entry key="GAME_8" style="alert">有人占用了你的夜晚。你的能力被阻止了！</Entry>
+  <Entry key="GAME_SPY_RESULT_8" style="spy">有人占用了你目标的夜晚。其能力被阻止了！</Entry>
+  <Entry key="GAME_9" style="alert">有人试着敲诈你，但你昨晚在监狱中。</Entry>
+  <Entry key="GAME_10" style="alert">有人威胁会揭露你的秘密。你被敲诈了！</Entry>
+  <Entry key="GAME_SPY_RESULT_10" style="spy">有人威胁会揭露你目标的秘密。他被敲诈了！</Entry>
+  <Entry key="GAME_11" style="alert">有人试着朝你泼汽油，但你昨晚在监狱中！</Entry>
+  <Entry key="GAME_12" style="alert">你被泼了汽油！</Entry>
+  <Entry key="GAME_SPY_RESULT_12" style="spy">你的目标被泼了汽油！</Entry>
   <Entry key="GAME_13" style="alert">Someone tried to attack you but you were in jail last night!</Entry>
   <Entry key="GAME_14" style="alert">You were attacked but someone fought off your attacker!</Entry>
   <Entry key="GAME_SPY_RESULT_14" style="spy">Your target was attacked but someone fought off their attacker!</Entry>
