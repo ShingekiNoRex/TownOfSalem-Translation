@@ -3190,13 +3190,13 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_POTION_MASTER_KILL">杀害</Entry>
   <!--Key "GUI_POTION_MASTER_REVEAL" has the same text as key "GUI_REVEAL_TOOLTIP"-->
   <Entry key="GUI_POTION_MASTER_REVEAL">揭示</Entry>
-  <Entry key="GUI_POTION_MASTER_HEAL">治疗</Entry>
+  <Entry key="GUI_POTION_MASTER_HEAL">治愈</Entry>
   <!--Key "GUI_POTION_MASTER_KILL_DISABLED" has the same text as key "GUI_POTION_MASTER_KILL"-->
   <Entry key="GUI_POTION_MASTER_KILL_DISABLED">杀害</Entry>
   <!--Key "GUI_POTION_MASTER_REVEAL_DISABLED" has the same text as key "GUI_REVEAL_TOOLTIP"-->
   <Entry key="GUI_POTION_MASTER_REVEAL_DISABLED">揭示</Entry>
   <!--Key "GUI_POTION_MASTER_HEAL_DISABLED" has the same text as key "GUI_POTION_MASTER_HEAL"-->
-  <Entry key="GUI_POTION_MASTER_HEAL_DISABLED">治疗</Entry>
+  <Entry key="GUI_POTION_MASTER_HEAL_DISABLED">治愈</Entry>
   <Entry key="GUI_POTION_MASTER_XOF_Y">%x%/%y%</Entry>
   <Entry key="GUI_POTION_MASTER_HEAL_REASON0">Heal %name%.</Entry>
   <Entry key="GUI_POTION_MASTER_HEAL_REASON1">You must finish brewing another heal potion.</Entry>
@@ -5128,64 +5128,64 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
       <align="left"><nobr> </nobr></align>
       <align="left"><indent=5%>If you already own all items in a category (ex: death animations) then the Cauldron will not let you purchase the specialization potion for that item. If you buy a specialization potion, then subsequently purchase all the items in that category from the shop while the Cauldron is still brewing, then the Cauldron will award you an alternate prize.</indent></align>
       <align="left"><nobr> </nobr></align>]]></Entry>
-  <Entry key="GUI_ROLE_0">Bodyguard</Entry>
-  <Entry key="GUI_ROLE_1">Doctor</Entry>
-  <Entry key="GUI_ROLE_2">Escort</Entry>
-  <Entry key="GUI_ROLE_3">Investigator</Entry>
-  <Entry key="GUI_ROLE_4">Jailor</Entry>
-  <Entry key="GUI_ROLE_5">Lookout</Entry>
-  <Entry key="GUI_ROLE_6">Mayor</Entry>
-  <Entry key="GUI_ROLE_7">Medium</Entry>
-  <Entry key="GUI_ROLE_8">Retributionist</Entry>
-  <Entry key="GUI_ROLE_9">Sheriff</Entry>
-  <Entry key="GUI_ROLE_10">Spy</Entry>
-  <Entry key="GUI_ROLE_11">Transporter</Entry>
-  <Entry key="GUI_ROLE_12">Vampire Hunter</Entry>
-  <Entry key="GUI_ROLE_13">Veteran</Entry>
-  <Entry key="GUI_ROLE_14">Vigilante</Entry>
-  <Entry key="GUI_ROLE_15">Blackmailer</Entry>
-  <Entry key="GUI_ROLE_16">Consigliere</Entry>
-  <Entry key="GUI_ROLE_17">Consort</Entry>
-  <Entry key="GUI_ROLE_18">Disguiser</Entry>
-  <Entry key="GUI_ROLE_19">Forger</Entry>
-  <Entry key="GUI_ROLE_20">Framer</Entry>
-  <Entry key="GUI_ROLE_21">Godfather</Entry>
-  <Entry key="GUI_ROLE_22">Janitor</Entry>
-  <Entry key="GUI_ROLE_23">Mafioso</Entry>
-  <Entry key="GUI_ROLE_24">Amnesiac</Entry>
-  <Entry key="GUI_ROLE_25">Arsonist</Entry>
-  <Entry key="GUI_ROLE_26">Executioner</Entry>
-  <Entry key="GUI_ROLE_27">Jester</Entry>
-  <Entry key="GUI_ROLE_28">Serial Killer</Entry>
-  <Entry key="GUI_ROLE_29">Survivor</Entry>
-  <Entry key="GUI_ROLE_30">Vampire</Entry>
-  <Entry key="GUI_ROLE_31">Werewolf</Entry>
-  <Entry key="GUI_ROLE_32">Witch</Entry>
-  <Entry key="GUI_ROLE_33">Random Town</Entry>
-  <Entry key="GUI_ROLE_33_COLORED"><![CDATA[<color=#1D7CF2>Random</color> <color=#7FFF00>Town</color>]]></Entry>
-  <Entry key="GUI_ROLE_34">Town Investigative</Entry>
-  <Entry key="GUI_ROLE_34_COLORED"><![CDATA[<color=#7FFF00>Town</color> <color=#1D7CF2>Investigative</color>]]></Entry>
-  <Entry key="GUI_ROLE_35">Town Protective</Entry>
-  <Entry key="GUI_ROLE_35_COLORED"><![CDATA[<color=#7FFF00>Town</color> <color=#1D7CF2>Protective</color>]]></Entry>
-  <Entry key="GUI_ROLE_36">Town Killing</Entry>
-  <Entry key="GUI_ROLE_36_COLORED"><![CDATA[<color=#7FFF00>Town</color> <color=#1D7CF2>Killing</color>]]></Entry>
-  <Entry key="GUI_ROLE_37">Town Support</Entry>
-  <Entry key="GUI_ROLE_37_COLORED"><![CDATA[<color=#7FFF00>Town</color> <color=#1D7CF2>Support</color>]]></Entry>
-  <Entry key="GUI_ROLE_38">Random Mafia</Entry>
-  <Entry key="GUI_ROLE_38_COLORED"><![CDATA[<color=#1D7CF2>Random</color> <color=#DD0000>Mafia</color>]]></Entry>
-  <Entry key="GUI_ROLE_39">Mafia Support</Entry>
-  <Entry key="GUI_ROLE_39_COLORED"><![CDATA[<color=#DD0000>Mafia</color> <color=#1D7CF2>Support</color>]]></Entry>
-  <Entry key="GUI_ROLE_40">Mafia Deception</Entry>
-  <Entry key="GUI_ROLE_40_COLORED"><![CDATA[<color=#DD0000>Mafia</color> <color=#1D7CF2>Deception</color>]]></Entry>
-  <Entry key="GUI_ROLE_41">Random Neutral</Entry>
-  <Entry key="GUI_ROLE_41_COLORED"><![CDATA[<color=#1D7CF2>Random</color> <color=#CCCCCC>Neutral</color>]]></Entry>
-  <Entry key="GUI_ROLE_42">Neutral Benign</Entry>
-  <Entry key="GUI_ROLE_42_COLORED"><![CDATA[<color=#CCCCCC>Neutral</color> <color=#1D7CF2>Benign</color>]]></Entry>
-  <Entry key="GUI_ROLE_43">Neutral Evil</Entry>
-  <Entry key="GUI_ROLE_43_COLORED"><![CDATA[<color=#CCCCCC>Neutral</color> <color=#1D7CF2>Evil</color>]]></Entry>
-  <Entry key="GUI_ROLE_44">Neutral Killing</Entry>
-  <Entry key="GUI_ROLE_44_COLORED"><![CDATA[<color=#CCCCCC>Neutral</color> <color=#1D7CF2>Killing</color>]]></Entry>
-  <Entry key="GUI_ROLE_45">Any</Entry>
+  <Entry key="GUI_ROLE_0">保镖</Entry>
+  <Entry key="GUI_ROLE_1">医生</Entry>
+  <Entry key="GUI_ROLE_2">陪酒女郎</Entry>
+  <Entry key="GUI_ROLE_3">调查员</Entry>
+  <Entry key="GUI_ROLE_4">狱长</Entry>
+  <Entry key="GUI_ROLE_5">守望者</Entry>
+  <Entry key="GUI_ROLE_6">镇长</Entry>
+  <Entry key="GUI_ROLE_7">灵媒</Entry>
+  <Entry key="GUI_ROLE_8">招魂师</Entry>
+  <Entry key="GUI_ROLE_9">警长</Entry>
+  <Entry key="GUI_ROLE_10">间谍</Entry>
+  <Entry key="GUI_ROLE_11">车夫</Entry>
+  <Entry key="GUI_ROLE_12">吸血鬼猎人</Entry>
+  <Entry key="GUI_ROLE_13">退伍老兵</Entry>
+  <Entry key="GUI_ROLE_14">民兵</Entry>
+  <Entry key="GUI_ROLE_15">敲诈者</Entry>
+  <Entry key="GUI_ROLE_16">参谋</Entry>
+  <Entry key="GUI_ROLE_17">不良青年</Entry>
+  <Entry key="GUI_ROLE_18">易容师</Entry>
+  <Entry key="GUI_ROLE_19">伪造者</Entry>
+  <Entry key="GUI_ROLE_20">诬陷者</Entry>
+  <Entry key="GUI_ROLE_21">教父</Entry>
+  <Entry key="GUI_ROLE_22">清道夫</Entry>
+  <Entry key="GUI_ROLE_23">黑手党喽啰</Entry>
+  <Entry key="GUI_ROLE_24">失忆症患者</Entry>
+  <Entry key="GUI_ROLE_25">纵火犯</Entry>
+  <Entry key="GUI_ROLE_26">处刑人</Entry>
+  <Entry key="GUI_ROLE_27">小丑</Entry>
+  <Entry key="GUI_ROLE_28">连环杀手</Entry>
+  <Entry key="GUI_ROLE_29">生存者</Entry>
+  <Entry key="GUI_ROLE_30">吸血鬼</Entry>
+  <Entry key="GUI_ROLE_31">狼人</Entry>
+  <Entry key="GUI_ROLE_32">女巫</Entry>
+  <Entry key="GUI_ROLE_33">随机 小镇</Entry>
+  <Entry key="GUI_ROLE_33_COLORED"><![CDATA[<color=#1D7CF2>随机</color> <color=#7FFF00>小镇</color>]]></Entry>
+  <Entry key="GUI_ROLE_34">小镇 调查系</Entry>
+  <Entry key="GUI_ROLE_34_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>调查系</color>]]></Entry>
+  <Entry key="GUI_ROLE_35">小镇 保护系</Entry>
+  <Entry key="GUI_ROLE_35_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>保护系</color>]]></Entry>
+  <Entry key="GUI_ROLE_36">小镇 杀伐系</Entry>
+  <Entry key="GUI_ROLE_36_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>杀伐系</color>]]></Entry>
+  <Entry key="GUI_ROLE_37">小镇 支援系</Entry>
+  <Entry key="GUI_ROLE_37_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>支援系</color>]]></Entry>
+  <Entry key="GUI_ROLE_38">随机 黑手党</Entry>
+  <Entry key="GUI_ROLE_38_COLORED"><![CDATA[<color=#1D7CF2>随机</color> <color=#DD0000>黑手党</color>]]></Entry>
+  <Entry key="GUI_ROLE_39">黑手党 支援系</Entry>
+  <Entry key="GUI_ROLE_39_COLORED"><![CDATA[<color=#DD0000>黑手党</color> <color=#1D7CF2>支援系</color>]]></Entry>
+  <Entry key="GUI_ROLE_40">黑手党 诡诈系</Entry>
+  <Entry key="GUI_ROLE_40_COLORED"><![CDATA[<color=#DD0000>黑手党</color> <color=#1D7CF2>诡诈系</color>]]></Entry>
+  <Entry key="GUI_ROLE_41">随机 中立</Entry>
+  <Entry key="GUI_ROLE_41_COLORED"><![CDATA[<color=#1D7CF2>随机</color> <color=#CCCCCC>中立</color>]]></Entry>
+  <Entry key="GUI_ROLE_42">中立 温和系</Entry>
+  <Entry key="GUI_ROLE_42_COLORED"><![CDATA[<color=#CCCCCC>中立</color> <color=#1D7CF2>温和系</color>]]></Entry>
+  <Entry key="GUI_ROLE_43">中立 邪恶系</Entry>
+  <Entry key="GUI_ROLE_43_COLORED"><![CDATA[<color=#CCCCCC>中立</color> <color=#1D7CF2>邪恶系</color>]]></Entry>
+  <Entry key="GUI_ROLE_44">中立 杀伐系</Entry>
+  <Entry key="GUI_ROLE_44_COLORED"><![CDATA[<color=#CCCCCC>中立</color> <color=#1D7CF2>杀伐系</color>]]></Entry>
+  <Entry key="GUI_ROLE_45">任意</Entry>
   <Entry key="GUI_ROLE_46">Crusader</Entry>
   <Entry key="GUI_ROLE_47">Tracker</Entry>
   <Entry key="GUI_ROLE_48">Trapper</Entry>
@@ -5204,16 +5204,16 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_61">Medusa</Entry>
   <Entry key="GUI_ROLE_62">Random Coven</Entry>
   <Entry key="GUI_ROLE_62_COLORED"><![CDATA[<color=#1D7CF2>Random</color> <color=#BF5FFF>Coven</color>]]></Entry>
-  <Entry key="GUI_ROLE_63">Random Town</Entry>
-  <Entry key="GUI_ROLE_63_COLORED"><![CDATA[<color=#1D7CF2>Random</color> <color=#7FFF00>Town</color>]]></Entry>
-  <Entry key="GUI_ROLE_64">Town Investigative</Entry>
-  <Entry key="GUI_ROLE_64_COLORED"><![CDATA[<color=#7FFF00>Town</color> <color=#1D7CF2>Investigative</color>]]></Entry>
-  <Entry key="GUI_ROLE_65">Town Protective</Entry>
-  <Entry key="GUI_ROLE_65_COLORED"><![CDATA[<color=#7FFF00>Town</color> <color=#1D7CF2>Protective</color>]]></Entry>
-  <Entry key="GUI_ROLE_66">Town Killing</Entry>
-  <Entry key="GUI_ROLE_66_COLORED"><![CDATA[<color=#7FFF00>Town</color> <color=#1D7CF2>Killing</color>]]></Entry>
-  <Entry key="GUI_ROLE_67">Town Support</Entry>
-  <Entry key="GUI_ROLE_67_COLORED"><![CDATA[<color=#7FFF00>Town</color> <color=#1D7CF2>Support</color>]]></Entry>
+  <Entry key="GUI_ROLE_63">随机 小镇</Entry>
+  <Entry key="GUI_ROLE_63_COLORED"><![CDATA[<color=#1D7CF2>随机</color> <color=#7FFF00>小镇</color>]]></Entry>
+  <Entry key="GUI_ROLE_64">小镇 调查系</Entry>
+  <Entry key="GUI_ROLE_64_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>调查系</color>]]></Entry>
+  <Entry key="GUI_ROLE_65">小镇 保护系</Entry>
+  <Entry key="GUI_ROLE_65_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>保护系</color>]]></Entry>
+  <Entry key="GUI_ROLE_66">小镇 杀伐系</Entry>
+  <Entry key="GUI_ROLE_66_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>杀伐系</color>]]></Entry>
+  <Entry key="GUI_ROLE_67">小镇 支援系</Entry>
+  <Entry key="GUI_ROLE_67_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>支援系</color>]]></Entry>
   <Entry key="GUI_ROLE_68">Random Mafia</Entry>
   <Entry key="GUI_ROLE_68_COLORED"><![CDATA[<color=#1D7CF2>Random</color> <color=#DD0000>Mafia</color>]]></Entry>
   <Entry key="GUI_ROLE_69">Mafia Support</Entry>
@@ -5233,18 +5233,18 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_76_COLORED"><![CDATA[<color=#CCCCCC>Neutral</color> <color=#1D7CF2>Chaos</color>]]></Entry>
   <Entry key="GUI_ROLE_100">Pestilence</Entry>
   <Entry key="GUI_TAUNT">Taunt</Entry>
-  <Entry key="CHAT_SOURCE_30">Jailor</Entry>
-  <Entry key="CHAT_SOURCE_45">Medium</Entry>
-  <Entry key="CHAT_SOURCE_75">Vampire</Entry>
+  <Entry key="CHAT_SOURCE_30">狱长</Entry>
+  <Entry key="CHAT_SOURCE_45">灵媒</Entry>
+  <Entry key="CHAT_SOURCE_75">吸血鬼</Entry>
   <Entry key="GUI_DAY_ABILITY">Day Ability</Entry>
   <Entry key="GUI_NIGHT_ABILITY">Night Ability</Entry>
   <Entry key="GUI_ROLE_11_SECOND_TARGET_TITLE">Transport %player% with ....</Entry><!--Transporter-->
   <Entry key="GUI_ROLE_32_SECOND_TARGET_TITLE">Control %player% into ....</Entry><!--Witch-->
   <Entry key="GUI_ROLE_56_SECOND_TARGET_TITLE">Control %player% into ....</Entry><!--Coven Leader-->
   <Entry key="GUI_ROLE_59_SECOND_TARGET_TITLE">Send %player% into ....</Entry><!--Necromancer-->
-  <Entry key="GUI_ROLE_ABILITY_VERB">Visit</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB">访问</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_0">守卫</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_1">治疗</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_1">治愈</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_2">分散注意</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_3">调查</Entry>  
   <Entry key="GUI_ROLE_ABILITY_VERB_4">监禁</Entry>  
@@ -5263,21 +5263,21 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_15">勒索</Entry>  
   <Entry key="GUI_ROLE_ABILITY_VERB_16">Size Up</Entry>    
   <Entry key="GUI_ROLE_ABILITY_VERB_17">分散注意</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_18">Disguise</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_18">易容</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_18_SECONDARY">Mimic</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_19">Forge</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_20">Frame</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_21">Order Hit</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_22">Clean</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_23">Kill</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_24">Remember</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_25">Douse</Entry> 
+  <Entry key="GUI_ROLE_ABILITY_VERB_19">伪造</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_20">诬陷</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_21">下令攻击</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_22">清理</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_23">杀害</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_24">回忆</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_25">泼汽油</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_25_SINGLE">引燃</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_25_SELF">引燃</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_26"></Entry>    <!-- Executioner has none -->
   <Entry key="GUI_ROLE_ABILITY_VERB_27">Haunt</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_28">Kill</Entry>
-  <Entry key="GUI_ROLE_ABILITY_VERB_28_SINGLE">Cautious</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_28">杀害</Entry>
+  <Entry key="GUI_ROLE_ABILITY_VERB_28_SINGLE">谨慎</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_29">保护</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_30">咬</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_31">攻击</Entry>
@@ -5307,7 +5307,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_59_GHOUL">Attack</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_60">Poison</Entry> 
   <Entry key="GUI_ROLE_ABILITY_VERB_61">Stone Gaze</Entry> 
-  <Entry key="GUI_ROLE_ABILITY_VERB_100">Rampage</Entry>   
+  <Entry key="GUI_ROLE_ABILITY_VERB_100">横冲直撞</Entry>   
   <Entry key="GUI_SHOP">Shop</Entry>
   <Entry key="GUI_WHISPER">Whisper</Entry> <!-- New -->
 
