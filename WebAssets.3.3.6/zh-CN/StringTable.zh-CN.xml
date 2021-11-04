@@ -771,7 +771,7 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_HOME_PROFILE">个人资料</Entry>
   <Entry key="GUI_HOME_ACHIEVEMENTS">成就</Entry>
   <Entry key="GUI_HOME_STATS">数据</Entry>
-  <Entry key="GUI_HOME_ROLE_LIBRARY">角色库</Entry>
+  <Entry key="GUI_HOME_ROLE_LIBRARY">身份库</Entry>
   
   <Entry key="GUI_SOCIAL_MEDIA_FACEBOOK">Visit our Facebook page</Entry>
   <Entry key="GUI_SOCIAL_MEDIA_YOUTUBE">Visit our YouTube page</Entry>
@@ -784,8 +784,8 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
 浏览器</Entry>
   <Entry key="GUI_SETTINGS_TOOLTIP">设置</Entry>
   <Entry key="GUI_START">开始</Entry>
-  <Entry key="GUI_ADD_ROLE">添加角色</Entry>
-  <Entry key="GUI_REMOVE_ROLE">移除角色</Entry>
+  <Entry key="GUI_ADD_ROLE">添加身份</Entry>
+  <Entry key="GUI_REMOVE_ROLE">移除身份</Entry>
   <Entry key="GUI_PLAY_BUTTON">开始</Entry>
   <Entry key="GUI_PARTY_BUTTON">队伍</Entry>
   <Entry key="GUI_FRIENDS_BUTTON">好友</Entry>
@@ -1162,7 +1162,7 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION3">/f a [name] to add a friend.</Entry>
   <Entry key="GUI_LOBBY_COMMAND_INSTRUCTION4">/f r [name] to remove a friend.</Entry>
   <Entry key="GUI_PLAYERS_IN_LOBBY">大厅中玩家：</Entry>
-  <Entry key="GUI_SELECTED_ROLES_IN_LOBBY">已选择角色：</Entry>
+  <Entry key="GUI_SELECTED_ROLES_IN_LOBBY">已选择身份：</Entry>
   <Entry key="GUI_HOST_CONTROLS_TOGGLE">Toggle Host Controls</Entry>
   <Entry key="GUI_HOST">房主</Entry>
   <Entry key="GUI_HOST_TOOLTIP">房主</Entry>
@@ -1823,8 +1823,8 @@ Settings</Entry>
   <Entry key="GUI_TOTAL_LOTS">Total Lots</Entry>
   <Entry key="GUI_YOUR_LOTS">Your Lots</Entry>
   <Entry key="GUI_CURRENT_ROLE">Current Role</Entry>
-  <Entry key="GUI_YOUR_ROLE_IS_X">你的角色是 %role%</Entry>
-  <Entry key="GUI_YOUR_ROLE_IS">你的角色是</Entry>
+  <Entry key="GUI_YOUR_ROLE_IS_X">你的身份是 %role%</Entry>
+  <Entry key="GUI_YOUR_ROLE_IS">你的身份是</Entry>
   <Entry key="GUI_SCROLL_NOT_USED">This scroll will not be used.</Entry>
   <Entry key="GUI_MORE_INFO">The Coven
 (Buy now!)</Entry>
@@ -2930,8 +2930,8 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_GRAVEYARD_LIST">墓地</Entry>
   <Entry key="GUI_FACTION_LIST">你已知的阵营成员</Entry>
   <Entry key="GUI_TARGET_LIST">目标</Entry>
-  <Entry key="GUI_ROLE_LIST">角色列表</Entry>
-  <Entry key="GUI_POSSIBLE_ROLES">可能的角色</Entry>
+  <Entry key="GUI_ROLE_LIST">身份列表</Entry>
+  <Entry key="GUI_POSSIBLE_ROLES">可能的身份</Entry>
   <Entry key="GUI_CAUSE_OF_DEATH">死因</Entry>
   <Entry key="GUI_HANGED">Hanged</Entry>
   <Entry key="GUI_SUICIDE">Suicide</Entry>
@@ -2959,16 +2959,16 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_ROLE_0_NIGHT_PLURAL" style="ability_status">你还剩 %number% 件防弹背心。</Entry>
   <Entry key="GUI_ROLE_1_NIGHT" style="ability_status">你还剩 %number% 次自愈机会。</Entry>
   <Entry key="GUI_ROLE_1_NIGHT_PLURAL" style="ability_status">你还剩 %number% 次自愈机会。</Entry>
-  <Entry key="GUI_ROLE_4_MUST_WAIT" style="ability_status">You must wait a day before executing.</Entry>
-  <Entry key="GUI_ROLE_4_NIGHT" style="ability_status">You have %number% execution left.</Entry>
-  <Entry key="GUI_ROLE_4_NIGHT_PLURAL" style="ability_status">You have %number% executions left.</Entry>
+  <Entry key="GUI_ROLE_4_MUST_WAIT" style="ability_status">你必须再等一天才能开始处决。</Entry>
+  <Entry key="GUI_ROLE_4_NIGHT" style="ability_status">你还剩 %number% 次处决。</Entry>
+  <Entry key="GUI_ROLE_4_NIGHT_PLURAL" style="ability_status">你还剩 %number% 次处决。</Entry>
   <Entry key="GUI_ROLE_8_NIGHT" style="ability_status">You have %number% resurrection left.</Entry>
   <Entry key="GUI_ROLE_8_NIGHT_PLURAL" style="ability_status">You have %number% resurrections left.</Entry>
-  <Entry key="GUI_ROLE_13_NIGHT" style="ability_status">You have %number% alert left.</Entry>
-  <Entry key="GUI_ROLE_13_NIGHT_PLURAL">You have %number% alerts left.</Entry>
+  <Entry key="GUI_ROLE_13_NIGHT" style="ability_status">你还剩 %number% 次警戒机会。</Entry>
+  <Entry key="GUI_ROLE_13_NIGHT_PLURAL">你还剩 %number% 次警戒机会。</Entry>
   <Entry key="GUI_ROLE_14_MUST_WAIT" style="ability_status">You decide to wait a day before using your gun.</Entry>
-  <Entry key="GUI_ROLE_14_NIGHT" style="ability_status">You have %number% bullet left</Entry>
-  <Entry key="GUI_ROLE_14_NIGHT_PLURAL" style="ability_status">You have %number% bullets left</Entry>
+  <Entry key="GUI_ROLE_14_NIGHT" style="ability_status">你还剩 %number% 颗子弹。</Entry>
+  <Entry key="GUI_ROLE_14_NIGHT_PLURAL" style="ability_status">你还剩 %number% 颗子弹。</Entry>
   <Entry key="GUI_ROLE_18_NIGHT" style="ability_status">You have %number% disguise left.</Entry>
   <Entry key="GUI_ROLE_18_NIGHT_PLURAL" style="ability_status">You have %number% disguises left.</Entry>
   <Entry key="GUI_ROLE_19_NIGHT" style="ability_status">You have %number% forgery left.</Entry>
@@ -3025,65 +3025,65 @@ You have unlocked "%item%"!</Entry>
   <!--Key "GUI_WHO_DIED_PREFIX_SHE" has the same text as key "GUI_SHE"-->
   <Entry key="GUI_WHO_DIED_PREFIX_SHE">她</Entry>
   <Entry key="GUI_VOTES_ARE_NEEDED"> votes are needed to send someone to trial.</Entry>
-  <Entry key="GUI_TOWN_PUT_THEM_ON_TRIAL" style="trial">The Town has decided to put %name% on trial.</Entry>
-  <Entry key="GUI_TOWN_MAY_VOTE_ON_THEM">The Town may now vote on the fate of &lt;color=#FFAE00FF&gt;%name%&lt;/color&gt;.</Entry>
-  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM" style="trial">The Town has decided to lynch %name% by a vote of &lt;color=#FF0000&gt;%x%&lt;/color&gt; to &lt;color=#66FF66&gt;%y%&lt;/color&gt;.</Entry>
-  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM" style="trial">The Town has decided to pardon %name% by a vote of &lt;color=#66FF66&gt;%x%&lt;/color&gt; to &lt;color=#FF0000&gt;%y%&lt;/color&gt;.</Entry>
-  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM1">The Town has decided to lynch </Entry>
-  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM2"> by a vote of </Entry>
-  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM3"> to </Entry>
-  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM1">The Town has decided to pardon </Entry>
+  <Entry key="GUI_TOWN_PUT_THEM_ON_TRIAL" style="trial">小镇决定对 %name% 进行审判。</Entry>
+  <Entry key="GUI_TOWN_MAY_VOTE_ON_THEM">小镇现在可以决定 &lt;color=#FFAE00FF&gt;%name%&lt;/color&gt; 的命运。</Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM" style="trial">小镇决定处死 %name% 根据投票结果 &lt;color=#FF0000&gt;%x%&lt;/color&gt; 比 &lt;color=#66FF66&gt;%y%&lt;/color&gt;.</Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM" style="trial">小镇决定赦免 %name% 根据投票结果 &lt;color=#66FF66&gt;%x%&lt;/color&gt; 比 &lt;color=#FF0000&gt;%y%&lt;/color&gt;.</Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM1">小镇决定处死 </Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM2"> 根据投票结果 </Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_LYNCH_THEM3"> 比 </Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM1">小镇决定赦免 </Entry>
   <!--Key "GUI_TOWN_DECIDED_TO_PARDON_THEM2" has the same text as key "GUI_TOWN_DECIDED_TO_LYNCH_THEM2"-->
-  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM2"> by a vote of </Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM2"> 根据投票结果 </Entry>
   <!--Key "GUI_TOWN_DECIDED_TO_PARDON_THEM3" has the same text as key "GUI_TOWN_DECIDED_TO_LYNCH_THEM3"-->
-  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM3"> to </Entry>
-  <Entry key="GUI_THEY_VISITED_YOUR_TARGET" style="ability_feedback">%name% visited your target last night!</Entry>
-  <Entry key="GUI_MULTI_VISITED_YOUR_TARGET" style="ability_feedback">More people visited your target but you couldn't identify them.</Entry>
+  <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM3"> 比 </Entry>
+  <Entry key="GUI_THEY_VISITED_YOUR_TARGET" style="ability_feedback">%name% 昨晚来访了你的目标！</Entry>
+  <Entry key="GUI_MULTI_VISITED_YOUR_TARGET" style="ability_feedback">还有更多的人来访了你的目标，但你无法辨认。</Entry>
   <Entry key="GUI_XUSER_JOINED_TOWN">%name% 加入了小镇。</Entry>
   <Entry key="GUI_XUSER_JOINED_GAME">%name% 加入了游戏。</Entry>
   <Entry key="GUI_USER_JOINED_TOWN"> 加入了小镇。</Entry>
   <Entry key="GUI_USER_JOINED_GAME"> 加入了游戏。</Entry>
-  <Entry key="GUI_XUSER_VOTED_AGAINST_Y" style="vote">%name1% has voted against %name2%.</Entry>
-  <Entry key="GUI_XUSER_CANCELED_VOTE" style="vote">%name% has canceled their vote.</Entry>
-  <Entry key="GUI_XUSER_CHANGED_VOTE" style="vote">%name1% has changed their vote to %name2%.</Entry>
+  <Entry key="GUI_XUSER_VOTED_AGAINST_Y" style="vote">%name1% 投票反对 %name2%。</Entry>
+  <Entry key="GUI_XUSER_CANCELED_VOTE" style="vote">%name% 取消了投票。</Entry>
+  <Entry key="GUI_XUSER_CHANGED_VOTE" style="vote">%name1% 改投 %name2%。</Entry>
   <Entry key="GUI_ANON_VOTED_AGAINST_Y" style="vote">Someone has voted against %name2%.</Entry>
   <Entry key="GUI_ANON_CANCELED_VOTE" style="vote">Someone has canceled their vote.</Entry>
   <Entry key="GUI_ANON_CHANGED_VOTE" style="vote">Someone has changed their vote to %name2%.</Entry>
-  <Entry key="GUI_USER_VOTED" style="vote"> has voted against </Entry>
-  <Entry key="GUI_USER_CANCELED_VOTE" style="vote"> has canceled their vote.</Entry>
-  <Entry key="GUI_USER_CHANGED_VOTE" style="vote"> has changed their vote to </Entry>
+  <Entry key="GUI_USER_VOTED" style="vote"> 投票反对 </Entry>
+  <Entry key="GUI_USER_CANCELED_VOTE" style="vote"> 取消了投票。</Entry>
+  <Entry key="GUI_USER_CHANGED_VOTE" style="vote"> 改投 </Entry>
   <Entry key="GUI_VOTE">Vote</Entry>
-  <Entry key="GUI_YOU_HAVE_DIED" style="alert">You have died!</Entry>
-  <Entry key="GUI_AMNESIAC_REMEMBERED_ROLE_X" style="notice">An Amnesiac has remembered that they were like the %role%.</Entry>
-  <Entry key="GUI_AMNESIAC_REMEMBERED_ROLE">An Amnesiac has remembered that they were like the </Entry>
-  <Entry key="GUI_XJUDGEMENT_HAS_VOTED" style="vote">%name% has voted.</Entry>
-  <Entry key="GUI_XJUDGEMENT_CHANGED_VOTE" style="vote">%name% has changed their vote.</Entry>
+  <Entry key="GUI_YOU_HAVE_DIED" style="alert">你死了！</Entry>
+  <Entry key="GUI_AMNESIAC_REMEMBERED_ROLE_X" style="notice">一名失忆症患者回想起了他是 %role%。</Entry>
+  <Entry key="GUI_AMNESIAC_REMEMBERED_ROLE">一名失忆症患者回想起了他是 </Entry>
+  <Entry key="GUI_XJUDGEMENT_HAS_VOTED" style="vote">%name% 已投票。</Entry>
+  <Entry key="GUI_XJUDGEMENT_CHANGED_VOTE" style="vote">%name% 改变了投票。</Entry>
   <!--Key "GUI_XJUDGEMENT_CANCELLED" has the same text as key "GUI_XUSER_CANCELED_VOTE"-->
-  <Entry key="GUI_XJUDGEMENT_CANCELLED" style="vote">%name% has canceled their vote.</Entry>
-  <Entry key="GUI_XJUDGEMENT_VOTED_Y" style="vote">%name% voted %verdict%.</Entry>
+  <Entry key="GUI_XJUDGEMENT_CANCELLED" style="vote">%name% 取消了投票。</Entry>
+  <Entry key="GUI_XJUDGEMENT_VOTED_Y" style="vote">%name% 投了 %verdict%.</Entry>
   <Entry key="GUI_XABSTAINED">%name% %verdict%.</Entry>
-  <Entry key="GUI_GUILTY">&lt;color=#FF0000&gt;guilty&lt;/color&gt;</Entry>
-  <Entry key="GUI_INNOCENT">&lt;color=#66FF66&gt;innocent&lt;/color&gt;</Entry>
-  <Entry key="GUI_ABSTAINED">&lt;color=#66CCFF&gt;abstained&lt;/color&gt;</Entry>
-  <Entry key="GUI_JUDGEMENT_HAS_VOTED"> has voted.</Entry>
-  <Entry key="GUI_JUDGEMENT_CHANGED_VOTE">has changed their vote.</Entry>
-  <Entry key="GUI_JUDGEMENT_CANCELLED">has canceled their vote.</Entry>
-  <Entry key="GUI_JUDGEMENT_VOTED"> voted </Entry>
-  <Entry key="GUI_JUDGEMENT_VOTED_GUILTY">guilty.</Entry>
-  <Entry key="GUI_JUDGEMENT_VOTED_INNOCENT">innocent.</Entry>
-  <Entry key="GUI_JUDGEMENT_ABSTAINED">abstained.</Entry>
-  <Entry key="GUI_TRIALS_REMAINING_PLURAL" style="trial">There are %number% possible trials remaining today.</Entry>
-  <Entry key="GUI_TRIALS_REMAINING_SINGLE" style="trial">There is 1 possible trial remaining today.</Entry>
-  <Entry key="GUI_NO_TRIALS_REMAINING" style="trial">There are no trials remaining today.</Entry>
-  <Entry key="GUI_EXECUTIONER_COMPLETED_GOAL" style="notice">You have successfully gotten your target lynched!</Entry>
-  <Entry key="GUI_JESTER_COMPLETED_GOAL" style="notice">You have successfully gotten yourself lynched!</Entry>
-  <Entry key="GUI_XMAYOR_REVEALED" style="mayor_reveal">%name% has revealed themself as the Mayor!</Entry>
-  <Entry key="GUI_MAYOR_REVEALED">has revealed themself as the Mayor!</Entry>
+  <Entry key="GUI_GUILTY">&lt;color=#FF0000&gt;有罪&lt;/color&gt;</Entry>
+  <Entry key="GUI_INNOCENT">&lt;color=#66FF66&gt;清白&lt;/color&gt;</Entry>
+  <Entry key="GUI_ABSTAINED">&lt;color=#66CCFF&gt;弃权&lt;/color&gt;</Entry>
+  <Entry key="GUI_JUDGEMENT_HAS_VOTED"> 已投票。</Entry>
+  <Entry key="GUI_JUDGEMENT_CHANGED_VOTE">改变了投票。</Entry>
+  <Entry key="GUI_JUDGEMENT_CANCELLED">取消了投票</Entry>
+  <Entry key="GUI_JUDGEMENT_VOTED"> 投了 </Entry>
+  <Entry key="GUI_JUDGEMENT_VOTED_GUILTY">有罪。</Entry>
+  <Entry key="GUI_JUDGEMENT_VOTED_INNOCENT">清白。</Entry>
+  <Entry key="GUI_JUDGEMENT_ABSTAINED">弃权。</Entry>
+  <Entry key="GUI_TRIALS_REMAINING_PLURAL" style="trial">今天还剩下 %number% 次审判机会。</Entry>
+  <Entry key="GUI_TRIALS_REMAINING_SINGLE" style="trial">今天还剩下 1 次审判机会。</Entry>
+  <Entry key="GUI_NO_TRIALS_REMAINING" style="trial">今天已无审判机会。</Entry>
+  <Entry key="GUI_EXECUTIONER_COMPLETED_GOAL" style="notice">你成功让你的目标被处死了！</Entry>
+  <Entry key="GUI_JESTER_COMPLETED_GOAL" style="notice">你成功让自己被处死了！</Entry>
+  <Entry key="GUI_XMAYOR_REVEALED" style="mayor_reveal">%name% 展示了自己的镇长身份！</Entry>
+  <Entry key="GUI_MAYOR_REVEALED">展示了自己的镇长身份！</Entry>
   <!--Key "GUI_XVOTES_NEEDED" has the same text as key "GUI_XVOTES_ARE_NEEDED"-->
   <Entry key="GUI_XVOTES_NEEDED">%number% votes are needed to send someone to trial.</Entry>
   <Entry key="GUI_VOTES_NEEDED">votes are needed to send someone to trial.</Entry>
-  <Entry key="GUI_DO_YOU_HAVE_LAST_WORDS">Do you have any last words?</Entry>
-  <Entry key="GUI_LAST_WORDS">Last Words</Entry>
+  <Entry key="GUI_DO_YOU_HAVE_LAST_WORDS">你是否有任何遗言？</Entry>
+  <Entry key="GUI_LAST_WORDS">遗言</Entry>
   <Entry key="GUI_MUTE_MUSIC">禁用音乐</Entry>
   <Entry key="GUI_UNMUTE_MUSIC">解禁音乐</Entry>
   <Entry key="GUI_MUTE_EFFECTS">禁用音效</Entry>
@@ -3109,22 +3109,22 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_LOGOUT_MSG">是否确认想要登出账号？</Entry>
   <Entry key="GUI_EXCESSIVE_TRANSITION_TIME">This is taking longer than expected. You may continue to wait or click the Logout button.</Entry>
   <Entry key="GUI_CHOOSE_ROLE">Choose Role:</Entry>
-  <Entry key="GUI_LAST_WILL">遗言</Entry>
-  <Entry key="GUI_NO_LAST_WILL">No Last Will</Entry>
-  <Entry key="GUI_FORGED_WILL">Forged Will</Entry>
-  <Entry key="GUI_DEATH_NOTE">Death Note</Entry>
-  <Entry key="GUI_NO_DEATH_NOTE">No Death Note</Entry>
+  <Entry key="GUI_LAST_WILL">遗愿</Entry>
+  <Entry key="GUI_NO_LAST_WILL">无遗愿</Entry>
+  <Entry key="GUI_FORGED_WILL">伪造的遗愿</Entry>
+  <Entry key="GUI_DEATH_NOTE">死亡字条</Entry>
+  <Entry key="GUI_NO_DEATH_NOTE">无死亡字条</Entry>
   <Entry key="GUI_ADD_NOTE">Add note...</Entry>
-  <Entry key="GUI_SAVE_AND_CLOSE">Save&amp;amp;Close</Entry>
-  <Entry key="GUI_SAVE_CHANGES">Save Changes?</Entry>
-  <Entry key="GUI_SAVE_CHANGES_MSG">Do you want to save changes and close?
+  <Entry key="GUI_SAVE_AND_CLOSE">保存&amp;amp;关闭</Entry>
+  <Entry key="GUI_SAVE_CHANGES">保存更改？</Entry>
+  <Entry key="GUI_SAVE_CHANGES_MSG">是否保存更改并关闭？
 
-Yes - Save and close.
-No - Close and discard changes.
-Cancel - Do not close.</Entry>
-  <Entry key="GUI_LAST_WILL_SAVED">你的遗言已保存。</Entry>
+Yes - 保存并关闭。
+No - 关闭且不保存。
+Cancel - 不关闭。</Entry>
+  <Entry key="GUI_LAST_WILL_SAVED">你的遗愿已保存。</Entry>
   <Entry key="GUI_DEATH_NOTE_SAVED">你的死亡字条已保存。</Entry>
-  <Entry key="GUI_FORGED_WILL_SAVED">你伪造的遗言已保存。</Entry>
+  <Entry key="GUI_FORGED_WILL_SAVED">你伪造的遗愿已保存。</Entry>
   <Entry key="GUI_FORGED_ROLE">You have decided to forge %target%'s role as %role%.</Entry>
   <Entry key="GUI_FULLSCREEN">全屏</Entry>
   <Entry key="GUI_NOTES">笔记</Entry>
@@ -3144,9 +3144,9 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_SOMEONE_HAS_LEFT_THE_GAME" style="system">有人离开了游戏。</Entry>
   <Entry key="GUI_XHAS_LEFT_THE_GAME" style="system">%name% 离开了游戏。</Entry>
   <Entry key="GUI_HAS_LEFT_THE_GAME"> 离开了游戏。</Entry>
-  <Entry key="GUI_ENTER_YOUR_LAST_WILL">请于此处输入你的遗言。</Entry>
+  <Entry key="GUI_ENTER_YOUR_LAST_WILL">请于此处输入你的遗愿。</Entry>
   <Entry key="GUI_ENTER_YOUR_DEATH_NOTE">请于此处输入你的死亡字条</Entry>
-  <Entry key="GUI_ENTER_FORGED_WILL">请于此处输入你目标的伪造遗言。</Entry>
+  <Entry key="GUI_ENTER_FORGED_WILL">请于此处输入你目标的伪造遗愿。</Entry>
   <Entry key="GUI_PIRATE_CHOOSE_ATTACK_HEADER">选择你的攻击方式：</Entry>
   <Entry key="GUI_PIRATE_CHOOSE_ATTACK_WINS_AGAINST">胜于：</Entry>
   <Entry key="GUI_PIRATE_CHOOSE_DEFEND_HEADER">你被海盗攻击了！
@@ -3609,18 +3609,18 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_VICTORY_CONDITION_TARGET_MUST_LIVE">You will win if your target lives.</Entry>
   <Entry key="GUI_VICTORY_CONDITION_GET_TWO_PLUNDERS">You win if you successfully plunder two players.</Entry>
   
-  <Entry key="GUI_VICTORY_CONDITION_NAME_0">Town</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_1">Survivors</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_2">Mafia</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_3">Serial Killers</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_4">Werewolves</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_5">Vampires</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_6">Witches</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_7">Arsonists</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_0">小镇</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_1">生存者</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_2">黑手党</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_3">连环杀手</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_4">狼人</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_5">吸血鬼</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_6">女巫</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_7">纵火犯</Entry>
   <Entry key="GUI_VICTORY_CONDITION_NAME_8">Coven</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_9">Plaguebearer</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_10">Pestilence</Entry>
-  <Entry key="GUI_VICTORY_CONDITION_NAME_11">Traitors</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_9">瘟疫散布者</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_10">末世瘟疫</Entry>
+  <Entry key="GUI_VICTORY_CONDITION_NAME_11">叛徒</Entry>
   
   <!--Key "GUI_ROLE_CARD_VICTORY_CONDITIONS_BUTTON" has the same text as key "GUI_VICTORY_CONDITION_TITLE"-->
   <Entry key="GUI_ROLE_CARD_VICTORY_CONDITIONS_BUTTON">胜利条件</Entry>
@@ -3630,106 +3630,106 @@ Cancel - Do not close.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE">属性</Entry>
   <Entry key="GUI_ROLE_CARD_ALIGNMENT">阵营</Entry>
   <!--Key "GUI_ROLE_CARD_TOWN" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_TOWN">城镇</Entry>
+  <Entry key="GUI_ROLE_CARD_TOWN">小镇</Entry>
   <!--Key "GUI_ROLE_CARD_MAFIA" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
   <Entry key="GUI_ROLE_CARD_MAFIA">黑手党</Entry>
   <!--Key "GUI_ROLE_CARD_COVEN" has the same text as key "GUI_MODE_COVEN"-->
   <Entry key="GUI_ROLE_CARD_COVEN">Coven</Entry>
   <!--Key "GUI_ROLE_CARD_NEUTRAL" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
   <Entry key="GUI_ROLE_CARD_NEUTRAL">中立</Entry>
-  <Entry key="GUI_ROLE_CARD_PROTECTIVE">保护</Entry>
-  <Entry key="GUI_ROLE_CARD_SUPPORT">支援</Entry>
-  <Entry key="GUI_ROLE_CARD_INVESTIGATIVE">调查</Entry>
-  <Entry key="GUI_ROLE_CARD_KILLING">杀伐</Entry>
-  <Entry key="GUI_ROLE_CARD_DECEPTION">诡诈</Entry>
-  <Entry key="GUI_ROLE_CARD_BENIGN">温和</Entry>
-  <Entry key="GUI_ROLE_CARD_EVIL">邪恶</Entry>
+  <Entry key="GUI_ROLE_CARD_PROTECTIVE">保护系</Entry>
+  <Entry key="GUI_ROLE_CARD_SUPPORT">支援系</Entry>
+  <Entry key="GUI_ROLE_CARD_INVESTIGATIVE">调查系</Entry>
+  <Entry key="GUI_ROLE_CARD_KILLING">杀伐系</Entry>
+  <Entry key="GUI_ROLE_CARD_DECEPTION">诡诈系</Entry>
+  <Entry key="GUI_ROLE_CARD_BENIGN">温和系</Entry>
+  <Entry key="GUI_ROLE_CARD_EVIL">邪恶系</Entry>
   <!--Key "GUI_ROLE_CARD_CHAOS" has the same text as key "GUI_MODE_CHAOS"-->
-  <Entry key="GUI_ROLE_CARD_CHAOS">混乱</Entry>
+  <Entry key="GUI_ROLE_CARD_CHAOS">混沌系</Entry>
   <Entry key="GUI_ROLE_CARD_GOAL">目标</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_0">-Protect a player from direct attacks at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_0">-If your target is directly attacked or is the victim of a harmful visit, you and the visitor will fight.
--If you successfully protect someone you can still be %GUI_ROLE_CARD_HEAL%ed.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_0">Lynch every criminal and evildoer.</Entry>
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_0">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_1">-%GUI_ROLE_CARD_HEAL% one person each night, granting them %GUI_ROLE_CARD_POWERFUL_DEFENSE% defense.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_1">-You may only %GUI_ROLE_CARD_HEAL% yourself once.
--You will know if your target is attacked.</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_0">-在夜晚保护一名玩家免于直接攻击。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_0">-如果你的目标被直接攻击或被恶意来访，你会和来访者搏斗。
+-如果你成功保护了某人，你仍能被%GUI_ROLE_CARD_HEAL%。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_0">处死所有罪犯和恶人。</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_0">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_1">-每晚%GUI_ROLE_CARD_HEAL%一个人，赋予他%GUI_ROLE_CARD_POWERFUL_DEFENSE%防御。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_1">-你只能%GUI_ROLE_CARD_HEAL%你自己一次。
+-你会知道你的目标是否被攻击了。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_1" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_1">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_1">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_1" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_1">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_2">-Distract someone each night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_2">-Distraction blocks your target from using their role's night ability.
--You cannot be role blocked.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_1">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_2">-每晚分散一个人注意。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_2">-分散注意能阻止你的目标使用其夜晚能力。
+-你的能力无法被阻止。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_2" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_2">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_2">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_2" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_2">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_3">-Investigate one person each night for a clue to their role.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_3">-None.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_2">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_3">-每晚调查一个人，获取关于其身份的线索。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_3">-无。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_3" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_3">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_3">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_3" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_3">Town</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_3">小镇</Entry>
   <Entry key="GUI_JAILOR_MENU_EXECUTE_ACCUSED">Execute the accused?</Entry>
-  <Entry key="GUI_JAILOR_MENU_TITLE">Inspection Results of Jailed Person</Entry>
-  <Entry key="GUI_JAILOR_MENU_OPTION1">No reason specified.</Entry>
-  <Entry key="GUI_JAILOR_MENU_OPTION2">They are known to be an evildoer.</Entry>
-  <Entry key="GUI_JAILOR_MENU_OPTION3">Their confession was contradictory.</Entry>
-  <Entry key="GUI_JAILOR_MENU_OPTION4">They are possessed and talking nonsense.</Entry>
-  <Entry key="GUI_JAILOR_MENU_OPTION5">They are too quiet or won't respond to questioning.</Entry>
-  <Entry key="GUI_JAILOR_MENU_OPTION6">They are an outsider that might turn against us.</Entry>
-  <Entry key="GUI_JAILOR_MENU_OPTION7">I'm using my own discretion.</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_4">-You may choose one person during the day to %GUI_ROLE_CARD_JAIL% for the night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_4">-You may anonymously talk with your prisoner.
--You can choose to attack your prisoner.
--The jailed target can't perform their night ability.
--If you execute a Town member, you forfeit further executions.</Entry>
+  <Entry key="GUI_JAILOR_MENU_TITLE">被囚禁者的审查结果</Entry>
+  <Entry key="GUI_JAILOR_MENU_OPTION1">无特定理由。</Entry>
+  <Entry key="GUI_JAILOR_MENU_OPTION2">众所周知的恶人。</Entry>
+  <Entry key="GUI_JAILOR_MENU_OPTION3">供词自相矛盾。</Entry>
+  <Entry key="GUI_JAILOR_MENU_OPTION4">胡言乱语。</Entry>
+  <Entry key="GUI_JAILOR_MENU_OPTION5">沉默不语。</Entry>
+  <Entry key="GUI_JAILOR_MENU_OPTION6">可能会对我们不利的局外人。</Entry>
+  <Entry key="GUI_JAILOR_MENU_OPTION7">我在遵从我自己的判断。</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_4">-你可以在白天时段选择当晚%GUI_ROLE_CARD_JAIL%一个人。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_4">-你可以和你的囚犯匿名对话。
+-你可以选择攻击你的囚犯。
+-被囚禁的目标无法使用其夜晚能力。
+-如果你处决了一名小镇成员，你会丧失处决权。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_4" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_4">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_4">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_4" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_4">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_5">-Watch one person at night to see who visits them.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_4">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_5">-于夜晚监视一个人，观察有谁来访。</Entry>
   <!--Key "GUI_ROLE_CARD_ATTRIBUTE_5" has the same text as key "GUI_ROLE_CARD_ATTRIBUTE_3"-->
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_5">-None.</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_5">-无。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_5" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_5">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_5">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_5" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_5">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_6">-You may reveal yourself as the Mayor of the Town.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_6">-Once you have revealed yourself as Mayor your vote counts as 3 votes.
--You may not be %GUI_ROLE_CARD_HEAL%ed once you have revealed yourself.
-- Once revealed you can't whisper, or be whispered to.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_5">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_6">-你可以展示自己镇长的身份。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_6">-一旦你展示了镇长身份，你的投票被计作 3 票。
+-一旦展示身份，你将不能被%GUI_ROLE_CARD_HEAL%。
+-一旦展示身份，你将不能私聊或被私聊。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_6" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_6">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_6">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_6" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_6">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_7">-When dead speak to a living person at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_7">-You will speak to the dead anonymously each night you are alive.
--You may only speak to a living person once.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_6">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_7">-死后可于夜晚与一个活人对话。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_7">-如果你活着，你可以每晚匿名和死人对话。
+-你和活人对话的机会只有一次。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_7" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_7">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_7">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_7" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_7">Town</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_7">小镇</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_8">-You may raise a dead Town member and use their ability on a player.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_8">-Create zombies from dead true-hearted Town players.
 -Use their abilities on your second target.
 -Each zombie can be used once before it rots.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_8" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_8">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_8">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_8" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_8">Town</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_9">-%GUI_ROLE_CARD_INTERROGATE% one person each night for suspicious activity.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_9">-You will know if your target is suspicious.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_9" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_9">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_9">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_9" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_9">Town</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_10">-You may bug a player's house to see what happens to them that night.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_10">-You will know who the Mafia and Coven visit each night.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_10" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_10">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_10">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_10" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_10">Town</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_11">-Choose two people to transport at night.</Entry>
@@ -3737,7 +3737,7 @@ Cancel - Do not close.</Entry>
 -You may transport yourself.
 -Your targets will know they were transported.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_11" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_11">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_11">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_11" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_11">Town</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_12">-Check for Vampires each night.</Entry>
@@ -3746,7 +3746,7 @@ Cancel - Do not close.</Entry>
 -You can hear Vampires at night.
 -If all the Vampires die you will become a Vigilante with one bullet.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_12" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_12">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_12">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_12" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_12">Town</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_13">-Decide if you will go on alert.</Entry>
@@ -3755,14 +3755,14 @@ Cancel - Do not close.</Entry>
 -You can only go on alert 3 times.
 -You cannot be role blocked.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_13" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_13">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_13">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_13" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_13">Town</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_14">-Choose to take justice into your own hands and shoot someone.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_14">-If you shoot another Town member you will commit suicide over the guilt.
 -You can only shoot your gun 3 times.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_14" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_14">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_14">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_14" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_14">Town</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_15">-Choose one person each night to blackmail.</Entry>
@@ -4304,7 +4304,7 @@ Purge removes all harmful effects from a player.</Entry>
   <Entry key="GUI_ROLE_CARD_HEAL_TOOLTIP">
 Heal gives a player Powerful defense for that night, and cures poison.</Entry>
   <!--Key "GUI_ROLE_CARD_HEAL" has the same text as key "GUI_POTION_MASTER_HEAL"-->
-  <Entry key="GUI_ROLE_CARD_HEAL">Heal</Entry>
+  <Entry key="GUI_ROLE_CARD_HEAL">治愈</Entry>
   <Entry key="GUI_ROLE_CARD_JAIL_TOOLTIP">
 Being in jail causes all direct visits to fail against the player.</Entry>
   <!--Key "GUI_ROLE_CARD_JAIL" has the same text as key "ITEM_2_5"-->
@@ -4347,7 +4347,7 @@ If the target cannot be converted, they will be attacked by a basic attack inste
 -You do not attack vampires, but you do block their attacks.
 </Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_46" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_46">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_46">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_46" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_46">Town</Entry>
   <Entry key="GUI_ROLE_46_TARGETING_X1">You have decided to protect %target% tonight.</Entry>
@@ -4356,7 +4356,7 @@ If the target cannot be converted, they will be attacked by a basic attack inste
   <!--Key "GUI_ROLE_CARD_ATTRIBUTE_47" has the same text as key "GUI_ROLE_CARD_ATTRIBUTE_3"-->
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_47">-None.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_47" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_47">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_47">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_47" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_47">Town</Entry>
   <Entry key="GUI_ROLE_47_TARGETING_X1">You have decided to track %target% tonight.</Entry>
@@ -4367,7 +4367,7 @@ If the target cannot be converted, they will be attacked by a basic attack inste
 -Traps can be torn down by selecting yourself at night.
 -You may only have one Trap out at a time.</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_48" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_48">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_48">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_48" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_48">Town</Entry>
   <Entry key="GUI_ROLE_48_FEEDBACK1" style="ability_feedback">Your trap has been triggered by the %role%.</Entry>
@@ -4382,7 +4382,7 @@ If the target cannot be converted, they will be attacked by a basic attack inste
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_49">-On odd nights you will have a vision of three players, at least one will be Evil.
 -On even nights you will have a vision of two players, at least one will be Good</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_49" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_49">Lynch every criminal and evildoer.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_49">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_49" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_49">Town</Entry>
   <Entry key="GUI_ROLE_49_FEEDBACK1" style="ability_feedback">A vision revealed that %name1%, %name2% or %name3% is evil!</Entry>
@@ -5590,7 +5590,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_TOOLTIP_DEATHNOTE">Death Note</Entry>
   <Entry key="GUI_TOOLTIP_NOTEPAD">Notepad</Entry>
   <Entry key="GUI_TOOLTIP_ROLECARD">Role Card</Entry>
-  <Entry key="GUI_TOOLTIP_SEND_WILL_TO_CHAT">在聊天中发布你的遗言（即刻发送）</Entry>
+  <Entry key="GUI_TOOLTIP_SEND_WILL_TO_CHAT">在聊天中发布你的遗愿（即刻发送）</Entry>
   <Entry key="GUI_TOOLTIP_SEND_NOTES_TO_CHAT">在聊天中发布你的笔记（即刻发送）</Entry>
   <Entry key="GUI_TOOLTIP_PASTE_FROM_EXTERNAL_CLIPBOARD">Paste from External Clipboard</Entry>
   <Entry key="GUI_TOOLTIP_CLEAR_FILTER">Clear filter</Entry>
