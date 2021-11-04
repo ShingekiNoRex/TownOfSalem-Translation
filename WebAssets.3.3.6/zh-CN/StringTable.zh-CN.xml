@@ -3037,8 +3037,8 @@ You have unlocked "%item%"!</Entry>
   <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM2"> 根据投票结果 </Entry>
   <!--Key "GUI_TOWN_DECIDED_TO_PARDON_THEM3" has the same text as key "GUI_TOWN_DECIDED_TO_LYNCH_THEM3"-->
   <Entry key="GUI_TOWN_DECIDED_TO_PARDON_THEM3"> 比 </Entry>
-  <Entry key="GUI_THEY_VISITED_YOUR_TARGET" style="ability_feedback">%name% 昨晚来访了你的目标！</Entry>
-  <Entry key="GUI_MULTI_VISITED_YOUR_TARGET" style="ability_feedback">还有更多的人来访了你的目标，但你无法辨认。</Entry>
+  <Entry key="GUI_THEY_VISITED_YOUR_TARGET" style="ability_feedback">%name% 昨晚访问了你的目标！</Entry>
+  <Entry key="GUI_MULTI_VISITED_YOUR_TARGET" style="ability_feedback">还有更多的人访问了你的目标，但你无法辨认。</Entry>
   <Entry key="GUI_XUSER_JOINED_TOWN">%name% 加入了小镇。</Entry>
   <Entry key="GUI_XUSER_JOINED_GAME">%name% 加入了游戏。</Entry>
   <Entry key="GUI_USER_JOINED_TOWN"> 加入了小镇。</Entry>
@@ -3648,7 +3648,7 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_ROLE_CARD_CHAOS">混沌系</Entry>
   <Entry key="GUI_ROLE_CARD_GOAL">目标</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_0">-在夜晚保护一名玩家免于直接攻击。</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_0">-如果你的目标被直接攻击或被恶意来访，你会和来访者搏斗。
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_0">-如果你的目标被直接攻击或被恶意访问，你会和访问者搏斗。
 -如果你成功保护了某人，你仍能被%GUI_ROLE_CARD_HEAL%。</Entry>
   <Entry key="GUI_ROLE_CARD_GOAL_0">处死所有罪犯和恶人。</Entry>
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_0">小镇</Entry>
@@ -3690,7 +3690,7 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_ROLE_CARD_GOAL_4">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_4" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_4">小镇</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_5">-于夜晚监视一个人，观察有谁来访。</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_5">-于夜晚守望一个人，观察有谁来访。</Entry>
   <!--Key "GUI_ROLE_CARD_ATTRIBUTE_5" has the same text as key "GUI_ROLE_CARD_ATTRIBUTE_3"-->
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_5">-无。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_5" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
@@ -3712,182 +3712,182 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_ROLE_CARD_GOAL_7">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_7" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_7">小镇</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_8">-You may raise a dead Town member and use their ability on a player.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_8">-Create zombies from dead true-hearted Town players.
--Use their abilities on your second target.
--Each zombie can be used once before it rots.</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_8">-你可以召唤一名死亡的小镇成员，并对一名玩家使用其能力。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_8">-通过死去的忠实小镇成员来制造僵尸。
+-可以对你的第二目标使用僵尸的能力。
+-每个僵尸只能在其腐烂前使用一次。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_8" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
   <Entry key="GUI_ROLE_CARD_GOAL_8">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_8" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_8">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_9">-%GUI_ROLE_CARD_INTERROGATE% one person each night for suspicious activity.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_9">-You will know if your target is suspicious.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_8">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_9">-每晚%GUI_ROLE_CARD_INTERROGATE%一个人是否有可疑活动。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_9">-你会知道你的目标是否可疑。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_9" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
   <Entry key="GUI_ROLE_CARD_GOAL_9">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_9" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_9">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_10">-You may bug a player's house to see what happens to them that night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_10">-You will know who the Mafia and Coven visit each night.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_9">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_10">-你可以在一名玩家的家中窃听，得知那晚他身上发生了什么事。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_10">-你会知道黑手党和Coven每晚访问了谁。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_10" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
   <Entry key="GUI_ROLE_CARD_GOAL_10">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_10" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_10">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_11">-Choose two people to transport at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_11">-Transporting two people swaps all targets against them.
--You may transport yourself.
--Your targets will know they were transported.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_10">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_11">-可于夜晚选择两个人进行转移。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_11">-转移两个人可使针对他们的访问交换。
+-你可以转移你自己。
+-你的目标会知道其被转移。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_11" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
   <Entry key="GUI_ROLE_CARD_GOAL_11">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_11" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_11">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_12">-Check for Vampires each night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_12">-If you visit a Vampire you will attack them.
--If a Vampire visits you, you will attack them.
--You can hear Vampires at night.
--If all the Vampires die you will become a Vigilante with one bullet.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_11">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_12">-每晚搜寻吸血鬼。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_12">-如果你访问了一名吸血鬼，你会攻击他。
+-如果一名吸血鬼访问了你，你会攻击他。
+-你可于夜晚听到吸血鬼间对话。
+-如果所有的吸血鬼都死了，你会成为一名带有一颗子弹的民兵。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_12" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
   <Entry key="GUI_ROLE_CARD_GOAL_12">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_12" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_12">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_13">-Decide if you will go on alert.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_13">-While on alert you gain %GUI_ROLE_CARD_BASIC_DEFENSE% Defense.
--While on alert, you will deliver a %GUI_ROLE_CARD_POWERFUL_ATTACK% attack to anyone who visits you.
--You can only go on alert 3 times.
--You cannot be role blocked.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_12">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_13">-决定是否警戒。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_13">-警戒时，你会获得%GUI_ROLE_CARD_BASIC_DEFENSE%防御。
+-警戒时，你会对任何访问你的人造成%GUI_ROLE_CARD_POWERFUL_ATTACK%攻击。
+-你只能警戒 3 次。
+-你的能力无法被阻止。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_13" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
   <Entry key="GUI_ROLE_CARD_GOAL_13">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_13" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_13">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_14">-Choose to take justice into your own hands and shoot someone.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_14">-If you shoot another Town member you will commit suicide over the guilt.
--You can only shoot your gun 3 times.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_13">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_14">-选择用自己的双手来执行正义并射杀某人。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_14">-如果你射杀了另一名小镇成员，你会负罪自杀。
+-你只能开 3 次枪。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_14" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
   <Entry key="GUI_ROLE_CARD_GOAL_14">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_14" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_14">Town</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_15">-Choose one person each night to blackmail.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_15">-Blackmailed targets cannot talk during the day.
--You can hear private messages.
--If there are no kill capable Mafia roles left you will become a Mafioso.
--You can talk with the other Mafia at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_15">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_14">小镇</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_15">-每晚选择一人进行敲诈。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_15">-被敲诈的目标在白天无法说话。
+-你可以看见私聊消息。
+-如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。
+-你可以在夜晚和其他黑手党成员说话。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_15">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_15" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_15">Mafia</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_16">-Check one person for their exact role each night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_16">-If there are no kill capable Mafia roles left you will become a Mafioso.
--You can talk with the other Mafia at night.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_15">黑手党</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_16">-每晚检查一个人获取其具体身份。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_16">-如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。
+-你可以在夜晚和其他黑手党成员说话。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_16" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_16">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_16">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_16" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_16">Mafia</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_16">黑手党</Entry>
   <!--Key "GUI_ROLE_CARD_ABILITY_17" has the same text as key "GUI_ROLE_CARD_ABILITY_2"-->
-  <Entry key="GUI_ROLE_CARD_ABILITY_17">-Distract someone each night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_17">-Distraction blocks your target from using their role's night ability.
--If there are no kill capable Mafia roles left you will become a Mafioso.
--You can talk with the other Mafia at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_17">Kill anyone that will not submit to the Mafia.</Entry>
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_17">Mafia</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_18">-Disguise a mafia member as a non-mafia member to alter their identity.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_18">-The disguised Mafia member will appear to have the same role as the non-Mafia member to the Investigator and Sheriff.
--Your disguised Mafia member will appear to be the other person to a Lookout.
--When disguised as a Town member, Mafia visits are disregarded by Spy.</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_17">-每晚分散一个人注意。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_17">-分散注意能阻止你的目标使用其夜晚能力。
+-如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。
+-你可以在夜晚和其他黑手党成员说话。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_17">杀死所有不服从黑手党的人。</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_17">黑手党</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_18">-将一名黑手党成员易容成非黑手党成员，以改变他们的身份。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_18">-被易容的黑手党成员在调查员和警长面前，会显示为非黑手党成员。
+-被易容的黑手党成员在守望者面前，会显示为另一人。
+-当易容成小镇成员时，该黑手党的访问不会被间谍发现。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_18" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_18">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_18">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_18" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_18">Mafia</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_19">-Choose a person and rewrite their last will at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_19">-If your target dies their last will is replaced with your forgery and their role will be shown as the role you select to forge.
--You may only perform 2 forgeries.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_18">黑手党</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_19">-在夜晚选择一个人并重写其遗愿。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_19">-如果你的目标死亡，其遗愿会被你伪造的所覆盖，且其身份会显示为你所选择伪造的身份。
+-你只能实施 2 次伪造。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_19" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_19">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_19">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_19" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_19">Mafia</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_20">-Choose someone to frame at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_20">-If your target is investigated they will appear suspicious.
--If there are no kill capable Mafia roles left you will become a Mafioso.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_19">黑手党</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_20">-每晚选择一人对其诬陷。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_20">-如果你的目标被调查，其会显示为可疑。
+-如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_20" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_20">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_20">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_20" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_20">Mafia</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_21">-You may choose to attack a player each night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_21">-If there is a Mafioso he will attack the target instead of you.
--You will appear to be innocent to the Sheriff.
--You can talk with the other Mafia at night.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_20">黑手党</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_21">-你可以每晚选择一人攻击。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_21">-如果有一名黑手党喽罗，其会代替你攻击目标。
+-面对警长时，你会显示为清白。
+-你可以在夜晚和其他黑手党成员说话。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_21" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_21">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_21">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_21" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_21">Mafia</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_22">-Choose a person to clean at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_22">-If your target dies their role and last will won't be revealed to the Town.
--Only you will see the cleaned targets role and last will.
--You may only perform 3 cleanings.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_21">黑手党</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_22">-夜晚选择一人进行清理。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_22">-如果你的目标死亡，其身份和遗愿不会展示给小镇。
+-只有你能看见被清理目标的身份和遗愿。
+-你只能实施 3 次清理。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_22" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_22">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_22">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_22" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_22">Mafia</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_23">-Carry out the Godfather's orders.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_23">-You can attack if the Godfather doesn't give you orders.
--If the Godfather dies you will become the next Godfather.
--You can talk with the other Mafia at night.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_22">黑手党</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_23">-执行教父的命令。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_23">-如果教父没有给你命令，你也能攻击。
+-如果教父死亡，你会成为下一个教父。
+-你可以在夜晚和其他黑手党成员说话。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_23" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_23">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_23">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_23" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_23">Mafia</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_24">-Remember who you were like by selecting a graveyard role.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_24">-When you choose a role it will be revealed to all the players in the game.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_24">Remember who you were and complete that roles goal.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_23">黑手党</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_24">-通过选择一个墓地中的身份来回想起你是谁。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_24">-当你选择一个身份时，会展示给游戏中的所有玩家。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_24">回想起你是谁，并完成该身份的目标。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_24" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_24">Neutral</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_25">-You may %GUI_ROLE_CARD_DOUSE% someone in gasoline or ignite %GUI_ROLE_CARD_DOUSE%d targets.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_25">-Select yourself to ignite doused people dealing an %GUI_ROLE_CARD_UNSTOPPABLE_ATTACK% attack.
--You will douse anybody that visits you.
--If you take no action, you will attempt to clean gasoline off yourself.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_25">Live to see everyone burn.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_24">中立</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_25">-你可以对某人%GUI_ROLE_CARD_DOUSE%，或点燃被%GUI_ROLE_CARD_DOUSE%d的目标。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_25">-选择你自己来点燃被泼汽油的人，对他们造成%GUI_ROLE_CARD_UNSTOPPABLE_ATTACK%攻击。
+-任何访问你的人都会被泼汽油。
+-如果你什么也不做，你会试着清洗掉自己身上的汽油。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_25">活着见证所有人被烧死。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_25" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_25">Neutral</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_26">-Trick the Town into lynching your target.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_26">-Your target is %name%.
--If your target is killed at night you will become a Jester.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_26">Get your target lynched at any cost.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_25">中立</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_26">-欺骗小镇来处死你的目标。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_26">-你的目标是 %name%。
+-如果你的目标在夜晚被杀，你会成为一名小丑。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_26">不计一切代价让你的目标被处死。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_26" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_26">Neutral</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_27">-Trick the Town into voting against you.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_27">-If you are lynched you will attack one of your guilty or abstaining voters the following night with an %GUI_ROLE_CARD_UNSTOPPABLE_ATTACK% attack.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_27">Get yourself lynched by any means necessary.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_26">中立</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_27">-欺骗小镇来投票反对你。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_27">-如果你被处死，你会在下一晚攻击一名投有罪或弃权票的玩家，对其造成%GUI_ROLE_CARD_UNSTOPPABLE_ATTACK%攻击。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_27">用任何手段让自己被处死。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_27" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_27">Neutral</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_28">-You may choose to attack a player each night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_28">-If you are role blocked you will attack the role blocker in addition to your target.
--Role blockers that target you will have their last will covered in blood making it unreadable.
--You can choose to be cautious and not kill role blockers.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_28">Kill everyone who would oppose you.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_27">中立</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_28">-你可以每晚选择攻击一名玩家。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_28">-如果你被阻止能力，你会攻击阻止你能力的人，而不是你的目标。
+-阻止你能力的人的遗愿上会覆盖血迹，使其不可读。
+-你可以选择小心谨慎，不杀死阻止你能力的人。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_28">杀死所有会反对你的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_28" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_28">Neutral</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_29">-Put on a bulletproof vest at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_29">-Putting on a bulletproof vest gives you %GUI_ROLE_CARD_BASIC_DEFENSE% defense.
--You can only use the bulletproof vest 4 times.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_29">Live until the end of the game.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_28">中立</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_29">-于夜晚穿上防弹衣。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_29">-穿上防弹衣会赋予你%GUI_ROLE_CARD_BASIC_DEFENSE%防御。
+-你只能使用 4 次防弹衣。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_29">活到游戏结束。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_29" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_29">Neutral</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_30">-%GUI_ROLE_CARD_CONVERT% others to Vampires at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_30">-Vampires vote at night to bite a target.
--The youngest Vampire will visit the target at night.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_30">Convert everyone who would oppose you.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_29">中立</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_30">-于夜晚把其他人%GUI_ROLE_CARD_CONVERT%为吸血鬼。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_30">-吸血鬼于夜晚投票选择要咬的目标。
+-最年轻的吸血鬼会于夜晚访问该目标。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_30">转化所有会反对你的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_30" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_30">Neutral</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_31">-Transform into a Werewolf during the full moon.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_31">-You will %GUI_ROLE_CARD_RAMPAGE% at a player's house when you attack.
--If you do not select a target you will stay home and %GUI_ROLE_CARD_RAMPAGE% at your home.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_30">中立</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_31">-于满月之夜转化为狼人。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_31">-当你攻击时，你会于一名玩家家中%GUI_ROLE_CARD_RAMPAGE%。
+-如果你不选择目标，你会待在自己家并于自己家中%GUI_ROLE_CARD_RAMPAGE%。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_31" has the same text as key "GUI_ROLE_CARD_GOAL_28"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_31">Kill everyone who would oppose you.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_31">杀死所有会反对你的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_31" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_31">Neutral</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_32">-%GUI_ROLE_CARD_CONTROL% someone each night.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_32">-You have a mystical barrier that grants you %GUI_ROLE_CARD_BASIC_DEFENSE% defense until you are attacked.
--You will know the role of the player you %GUI_ROLE_CARD_CONTROL%.</Entry>
-  <Entry key="GUI_ROLE_CARD_GOAL_32">Survive to see the Town lose the game.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_31">中立</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_32">-每晚%GUI_ROLE_CARD_CONTROL%一名玩家。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_32">-你拥有一道魔法屏障，赋予你%GUI_ROLE_CARD_BASIC_DEFENSE%防御直到你被攻击。
+-你会知道你所%GUI_ROLE_CARD_CONTROL%玩家的身份。</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_32">活着见证小镇输掉游戏。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_32" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_32">Neutral</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_32">中立</Entry>
   <Entry key="GUI_REPORT_REASON0">Hate speech/Harassment</Entry>
   <Entry key="GUI_REPORT_REASON1">Impersonating BMG Employee</Entry>
   <Entry key="GUI_REPORT_REASON2">Cheating</Entry>
@@ -4043,11 +4043,11 @@ Please do not use characters such as spaces, &apos; or &quot;</Entry>
   <Entry key="GUI_ERROR_FACEBOOKSERVICE_BAD_AUTH_TICKET">Unable to obtain a valid Facebook authentication ticket.</Entry>
   <Entry key="GUI_ERROR_GAME_NOT_INITIALIZED">There was a problem initializing the game.</Entry>
   
-  <Entry key="GUI_SUCCESS">Success</Entry>
-  <Entry key="GUI_FAILURE">Failure</Entry>
-  <Entry key="GUI_STONED">Stoned</Entry>
-  <Entry key="GUI_CLEANED">Cleaned</Entry>
-  <Entry key="GUI_HIDDEN">Hidden</Entry>
+  <Entry key="GUI_SUCCESS">成功</Entry>
+  <Entry key="GUI_FAILURE">失败</Entry>
+  <Entry key="GUI_STONED">被石化</Entry>
+  <Entry key="GUI_CLEANED">被清理</Entry>
+  <Entry key="GUI_HIDDEN">被隐藏</Entry>
   <Entry key="GUI_COPIED_TO_CLIPBOARD">Copied to clipboard.</Entry>
   <Entry key="GUI_TAUNT_MENU_TITLE">Taunting %name%</Entry>
   <Entry key="GUI_TAUNT_MENU_MAY_TARGET">You may target %name% with the following taunts:</Entry>
@@ -4204,10 +4204,10 @@ Please do not use characters such as spaces, &apos; or &quot;</Entry>
   <Entry key="GUI_DEFENSE_STAT_32">%GUI_ROLE_CARD_NONE_DEFENSE%</Entry>
   
   <Entry key="GUI_GENERAL">General</Entry>
-  <Entry key="GUI_TOWN">Town</Entry>
-  <Entry key="GUI_MAFIA">Mafia</Entry>
+  <Entry key="GUI_TOWN">小镇</Entry>
+  <Entry key="GUI_MAFIA">黑手党</Entry>
   <Entry key="GUI_COVEN">Coven</Entry>
-  <Entry key="GUI_NEUTRAL">Neutral</Entry>
+  <Entry key="GUI_NEUTRAL">中立</Entry>
   <Entry key="GUI_VAMPIRES">Vampires</Entry>
   <Entry key="GUI_30">Vampire</Entry>
   <Entry key="GUI_VIPKEYWORD_TOOLTIP">
@@ -4220,65 +4220,65 @@ This mode is a Town vs Killers mode that will randomly pair people as Lovers. Ke
 This mode is a Town vs Killers mode that will randomly pair people as Rivals. Kill your rival at any cost, regardless of their faction!</Entry>
   <Entry key="GUI_RIVAL_KEYWORD">Rival</Entry>
   <Entry key="GUI_ROLE_CARD_NONE_ATTACK_TOOLTIP"><![CDATA[
-• <indent=3%><b>None</b> - Your role cannot attack players directly.</indent>
-• <indent=3%><b>Basic</b> - Your attacks will kill any role with a Defense value of None.</indent>
-• <indent=3%><b>Powerful</b> - Your attacks will kill any role with a Defense value of Basic.</indent>
-• <indent=3%><b>Unstoppable</b> - Your attacks will kill any role with a Defense value of Powerful.</indent>]]></Entry>
+• <indent=3%><b>None</b> - 你的身份不能直接攻击玩家。</indent>
+• <indent=3%><b>Basic</b> - 你的攻击能杀死不拥有防御的玩家。</indent>
+• <indent=3%><b>Powerful</b> - 你的攻击能杀死拥有基础防御的玩家。</indent>
+• <indent=3%><b>Unstoppable</b> - 你的攻击能杀死拥有强大防御的身份。</indent>]]></Entry>
   <!--Key "GUI_ROLE_CARD_NONE_ATTACK" has the same text as key "GUI_MODE_NONE"-->
-  <Entry key="GUI_ROLE_CARD_NONE_ATTACK">None</Entry>
+  <Entry key="GUI_ROLE_CARD_NONE_ATTACK">无</Entry>
   <!--Key "GUI_ROLE_CARD_BASIC_ATTACK_TOOLTIP" has the same text as key "GUI_ROLE_CARD_NONE_ATTACK_TOOLTIP"-->
   <Entry key="GUI_ROLE_CARD_BASIC_ATTACK_TOOLTIP"><![CDATA[
-• <indent=3%><b>None</b> - Your role cannot attack players directly.</indent>
-• <indent=3%><b>Basic</b> - Your attacks will kill any role with a Defense value of None.</indent>
-• <indent=3%><b>Powerful</b> - Your attacks will kill any role with a Defense value of Basic.</indent>
-• <indent=3%><b>Unstoppable</b> - Your attacks will kill any role with a Defense value of Powerful.</indent>]]></Entry>
-  <Entry key="GUI_ROLE_CARD_BASIC_ATTACK">Basic</Entry>
+• <indent=3%><b>无</b> - 你的身份不能直接攻击玩家。</indent>
+• <indent=3%><b>基础</b> - 你的攻击能杀死不拥有防御的身份。</indent>
+• <indent=3%><b>强烈</b> - 你的攻击能杀死拥有基础防御的身份。</indent>
+• <indent=3%><b>不可挡</b> - 你的攻击能杀死拥有强大防御的身份。</indent>]]></Entry>
+  <Entry key="GUI_ROLE_CARD_BASIC_ATTACK">基础</Entry>
   <!--Key "GUI_ROLE_CARD_POWERFUL_ATTACK_TOOLTIP" has the same text as key "GUI_ROLE_CARD_NONE_ATTACK_TOOLTIP"-->
   <Entry key="GUI_ROLE_CARD_POWERFUL_ATTACK_TOOLTIP"><![CDATA[
-• <indent=3%><b>None</b> - Your role cannot attack players directly.</indent>
-• <indent=3%><b>Basic</b> - Your attacks will kill any role with a Defense value of None.</indent>
-• <indent=3%><b>Powerful</b> - Your attacks will kill any role with a Defense value of Basic.</indent>
-• <indent=3%><b>Unstoppable</b> - Your attacks will kill any role with a Defense value of Powerful.</indent>]]></Entry>
-  <Entry key="GUI_ROLE_CARD_POWERFUL_ATTACK">Powerful</Entry>
+• <indent=3%><b>无</b> - 你的身份不能直接攻击玩家。</indent>
+• <indent=3%><b>基础</b> - 你的攻击能杀死不拥有防御的身份。</indent>
+• <indent=3%><b>强烈</b> - 你的攻击能杀死拥有基础防御的身份。</indent>
+• <indent=3%><b>不可挡</b> - 你的攻击能杀死拥有强大防御的身份。</indent>]]></Entry>
+  <Entry key="GUI_ROLE_CARD_POWERFUL_ATTACK">强烈</Entry>
   <!--Key "GUI_ROLE_CARD_UNSTOPPABLE_ATTACK_TOOLTIP" has the same text as key "GUI_ROLE_CARD_NONE_ATTACK_TOOLTIP"-->
   <Entry key="GUI_ROLE_CARD_UNSTOPPABLE_ATTACK_TOOLTIP"><![CDATA[
-• <indent=3%><b>None</b> - Your role cannot attack players directly.</indent>
-• <indent=3%><b>Basic</b> - Your attacks will kill any role with a Defense value of None.</indent>
-• <indent=3%><b>Powerful</b> - Your attacks will kill any role with a Defense value of Basic.</indent>
-• <indent=3%><b>Unstoppable</b> - Your attacks will kill any role with a Defense value of Powerful.</indent>]]></Entry>
+• <indent=3%><b>无</b> - 你的身份不能直接攻击玩家。</indent>
+• <indent=3%><b>基础</b> - 你的攻击能杀死不拥有防御的身份。</indent>
+• <indent=3%><b>强烈</b> - 你的攻击能杀死拥有基础防御的身份。</indent>
+• <indent=3%><b>不可挡</b> - 你的攻击能杀死拥有强大防御的身份。</indent>]]></Entry>
   <!--Key "GUI_ROLE_CARD_UNSTOPPABLE_ATTACK" has the same text as key "GUI_ACHIEVEMENT_TITLE342"-->
-  <Entry key="GUI_ROLE_CARD_UNSTOPPABLE_ATTACK">Unstoppable</Entry>
+  <Entry key="GUI_ROLE_CARD_UNSTOPPABLE_ATTACK">不可挡</Entry>
   <Entry key="GUI_ROLE_CARD_NONE_DEFENSE_TOOLTIP"><![CDATA[
-• <indent=3%><b>None</b> - Your role will die to any Attack.</indent>
-• <indent=3%><b>Basic</b> - Your role is protected from Basic Attacks.</indent>
-• <indent=3%><b>Powerful</b> - Your role is protected from Powerful Attacks.</indent>
-• <indent=3%><b>Invincible</b> - Your role is protected from Unstoppable Attacks.</indent>]]></Entry>
+• <indent=3%><b>无</b> - 你的身份会死于任何攻击。</indent>
+• <indent=3%><b>基础</b> - 你的身份能防御基础攻击。</indent>
+• <indent=3%><b>强大</b> - 你的身份能防御强烈攻击。</indent>
+• <indent=3%><b>无敌</b> - 你的身份能防御不可挡攻击。</indent>]]></Entry>
   <!--Key "GUI_ROLE_CARD_NONE_DEFENSE" has the same text as key "GUI_MODE_NONE"-->
-  <Entry key="GUI_ROLE_CARD_NONE_DEFENSE">None</Entry>
+  <Entry key="GUI_ROLE_CARD_NONE_DEFENSE">无</Entry>
   <!--Key "GUI_ROLE_CARD_BASIC_DEFENSE_TOOLTIP" has the same text as key "GUI_ROLE_CARD_NONE_DEFENSE_TOOLTIP"-->
   <Entry key="GUI_ROLE_CARD_BASIC_DEFENSE_TOOLTIP"><![CDATA[
-• <indent=3%><b>None</b> - Your role will die to any Attack.</indent>
-• <indent=3%><b>Basic</b> - Your role is protected from Basic Attacks.</indent>
-• <indent=3%><b>Powerful</b> - Your role is protected from Powerful Attacks.</indent>
-• <indent=3%><b>Invincible</b> - Your role is protected from Unstoppable Attacks.</indent>]]></Entry>
+• <indent=3%><b>无</b> - 你的身份会死于任何攻击。</indent>
+• <indent=3%><b>基础</b> - 你的身份能防御基础攻击。</indent>
+• <indent=3%><b>强大</b> - 你的身份能防御强烈攻击。</indent>
+• <indent=3%><b>无敌</b> - 你的身份能防御不可挡攻击。</indent>]]></Entry>
   <!--Key "GUI_ROLE_CARD_BASIC_DEFENSE" has the same text as key "GUI_ROLE_CARD_BASIC_ATTACK"-->
-  <Entry key="GUI_ROLE_CARD_BASIC_DEFENSE">Basic</Entry>
+  <Entry key="GUI_ROLE_CARD_BASIC_DEFENSE">基础</Entry>
   <!--Key "GUI_ROLE_CARD_POWERFUL_DEFENSE_TOOLTIP" has the same text as key "GUI_ROLE_CARD_NONE_DEFENSE_TOOLTIP"-->
   <Entry key="GUI_ROLE_CARD_POWERFUL_DEFENSE_TOOLTIP"><![CDATA[
-• <indent=3%><b>None</b> - Your role will die to any Attack.</indent>
-• <indent=3%><b>Basic</b> - Your role is protected from Basic Attacks.</indent>
-• <indent=3%><b>Powerful</b> - Your role is protected from Powerful Attacks.</indent>
-• <indent=3%><b>Invincible</b> - Your role is protected from Unstoppable Attacks.</indent>]]></Entry>
+• <indent=3%><b>无</b> - 你的身份会死于任何攻击。</indent>
+• <indent=3%><b>基础</b> - 你的身份能防御基础攻击。</indent>
+• <indent=3%><b>强大</b> - 你的身份能防御强烈攻击。</indent>
+• <indent=3%><b>无敌</b> - 你的身份能防御不可挡攻击。</indent>]]></Entry>
   <!--Key "GUI_ROLE_CARD_POWERFUL_DEFENSE" has the same text as key "GUI_ROLE_CARD_POWERFUL_ATTACK"-->
-  <Entry key="GUI_ROLE_CARD_POWERFUL_DEFENSE">Powerful</Entry>
+  <Entry key="GUI_ROLE_CARD_POWERFUL_DEFENSE">强大</Entry>
   <!--Key "GUI_ROLE_CARD_INVINCIBLE_DEFENSE_TOOLTIP" has the same text as key "GUI_ROLE_CARD_NONE_DEFENSE_TOOLTIP"-->
   <Entry key="GUI_ROLE_CARD_INVINCIBLE_DEFENSE_TOOLTIP"><![CDATA[
-• <indent=3%><b>None</b> - Your role will die to any Attack.</indent>
-• <indent=3%><b>Basic</b> - Your role is protected from Basic Attacks.</indent>
-• <indent=3%><b>Powerful</b> - Your role is protected from Powerful Attacks.</indent>
-• <indent=3%><b>Invincible</b> - Your role is protected from Unstoppable Attacks.</indent>]]></Entry>
+• <indent=3%><b>无</b> - 你的身份会死于任何攻击。</indent>
+• <indent=3%><b>基础</b> - 你的身份能防御基础攻击。</indent>
+• <indent=3%><b>强大</b> - 你的身份能防御强烈攻击。</indent>
+• <indent=3%><b>无敌</b> - 你的身份能防御不可挡攻击。</indent>]]></Entry>
   <!--Key "GUI_ROLE_CARD_INVINCIBLE_DEFENSE" has the same text as key "GUI_ACHIEVEMENT_TITLE339"-->
-  <Entry key="GUI_ROLE_CARD_INVINCIBLE_DEFENSE">Invincible</Entry>
+  <Entry key="GUI_ROLE_CARD_INVINCIBLE_DEFENSE">无敌</Entry>
   <Entry key="GUI_ROLE_CARD_INTERROGATE_TOOLTIP">
 You question your target to find out if they seem suspicious.
 All Mafia members, except the Godfather, will be suspicious.
@@ -4349,7 +4349,7 @@ If the target cannot be converted, they will be attacked by a basic attack inste
   <!--Key "GUI_ROLE_CARD_GOAL_46" has the same text as key "GUI_ROLE_CARD_GOAL_0"-->
   <Entry key="GUI_ROLE_CARD_GOAL_46">处死所有罪犯和恶人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_46" has the same text as key "GUI_PLAYER_STATS_BUTTON_TOWN"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_46">Town</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_46">小镇</Entry>
   <Entry key="GUI_ROLE_46_TARGETING_X1">You have decided to protect %target% tonight.</Entry>
   <Entry key="GUI_ROLE_46_TARGETING_X2">You instead decide to protect %target% tonight.</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_47">-Track one person at night to see who they visit.</Entry>
@@ -4394,9 +4394,9 @@ If the target cannot be converted, they will be attacked by a basic attack inste
   <Entry key="GUI_ROLE_49_MENU_CANCEL">Cancel</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_50">-You sneak into a players house at night and plant a memory.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_50">-A planted memory will confuse the player.
--If there are no kill capable Mafia roles left you will become a Mafioso.</Entry>
+-如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_50" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_50">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_50">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_50" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_50">Mafia</Entry>
   <Entry key="GUI_ROLE_50_TARGETING_X1">You have decided to hypnotize %target%.</Entry>
@@ -4404,9 +4404,9 @@ If the target cannot be converted, they will be attacked by a basic attack inste
   <Entry key="GUI_ROLE_CARD_ABILITY_51">-You may choose to lie in wait outside your targets house.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_51">-You will attack one player who visits your target.
 -All players visiting your target will learn your name.
--If there are no kill capable Mafia roles left you will become a Mafioso.</Entry>
+-如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_51" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
-  <Entry key="GUI_ROLE_CARD_GOAL_51">Kill anyone that will not submit to the Mafia.</Entry>
+  <Entry key="GUI_ROLE_CARD_GOAL_51">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_51" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_51">Mafia</Entry>
   <Entry key="GUI_ROLE_51_TARGETING_X1">You have decided to ambush anyone visiting %target%.</Entry>
@@ -4586,32 +4586,32 @@ Attack</Entry>
   <Entry key="GUI_GHOUL">ghoul</Entry>
   <Entry key="GUI_ZOMBIE">zombie</Entry>
   <!--Key "GUI_ZOMBIE_ACTION_VERB" has the same text as key "GUI_MAFIA_TARGETING_DEFAULT"-->
-  <Entry key="GUI_ZOMBIE_ACTION_VERB">target</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB">目标</Entry>
   <!-- Roles that do not have an action verb below default to GUI_ACTION_VERB 'target' -->
-  <Entry key="GUI_ZOMBIE_ACTION_VERB0">guard</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB1">heal</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB2">distract</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB3">investigate</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB5">watch</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB9">interrogate</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB10">bug</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB14">shoot</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB15">blackmail</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB16">investigate</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB17">distract</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB19">forge</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB20">frame</Entry>  
+  <Entry key="GUI_ZOMBIE_ACTION_VERB0">守卫</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB1">治愈</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB2">分散注意</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB3">调查</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB5">守望</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB9">审问</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB10">窃听</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB14">射击</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB15">敲诈</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB16">调查</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB17">分散注意</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB19">伪造</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB20">诬陷</Entry>  
   <!--Key "GUI_ZOMBIE_ACTION_VERB21" has the same text as key "GUI_ACTION_VERB14"-->
-  <Entry key="GUI_ZOMBIE_ACTION_VERB21">shoot</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB22">clean</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB21">射击</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB22">清理</Entry>
   <!--Key "GUI_ZOMBIE_ACTION_VERB23" has the same text as key "GUI_ACTION_VERB14"-->
-  <Entry key="GUI_ZOMBIE_ACTION_VERB23">shoot</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB25">douse</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB28">stab</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB30">bite</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB31">rampage</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB46">protect</Entry>
-  <Entry key="GUI_ZOMBIE_ACTION_VERB47">track</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB23">射击</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB25">泼汽油</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB28">刺杀</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB30">咬</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB31">横冲直撞</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB46">保护</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB47">追踪</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB48">trap</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB50">hypnotize</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB51">stalk</Entry>
@@ -4622,7 +4622,7 @@ Attack</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB58">hex</Entry>
   <Entry key="GUI_ZOMBIE_ACTION_VERB60">poison</Entry>
   <!--Key "GUI_ZOMBIE_ACTION_VERB100" has the same text as key "GUI_ACTION_VERB53"-->
-  <Entry key="GUI_ZOMBIE_ACTION_VERB100">attack</Entry>
+  <Entry key="GUI_ZOMBIE_ACTION_VERB100">攻击</Entry>
   <Entry key="GUI_NAME_CHANGE">Name
 Change</Entry>
   <Entry key="GUI_WEB_PREMIUM_BENNIES">Unlimited Play
@@ -4692,11 +4692,11 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="MOD_39">Successfully granted Unrestricted.</Entry>
   <Entry key="MOD_40">Successfully reloaded config.</Entry>
   <Entry key="MOD_41">Failed to find filename. Ex: live_config.xml</Entry>
-  <Entry key="GAME_0" style="alert">Your target is suspicious!</Entry>
-  <Entry key="GAME_1" style="alert">You cannot find evidence of wrongdoing. Your target seems innocent.</Entry>
-  <Entry key="GAME_2" style="alert">Your target is suspicious!</Entry>
-  <Entry key="GAME_3" style="alert">Your target is suspicious!</Entry>
-  <Entry key="GAME_4" style="alert">You were executed by the Jailor!</Entry>
+  <Entry key="GAME_0" style="alert">你的目标可疑！</Entry>
+  <Entry key="GAME_1" style="alert">你找不到做坏事的证据。你的目标看起来是清白的。</Entry>
+  <Entry key="GAME_2" style="alert">你的目标可疑！</Entry>
+  <Entry key="GAME_3" style="alert">你的目标可疑！</Entry>
+  <Entry key="GAME_4" style="alert">你被狱长处死了！</Entry>
   <Entry key="GAME_5" style="alert">Someone tried to transport you but you were in jail.</Entry>
   <Entry key="GAME_6" style="alert">You were transported to another location.</Entry>
   <Entry key="GAME_SPY_RESULT_6" style="spy">Your target was transported to another location.</Entry>
@@ -4834,7 +4834,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GAME_99" style="alert">You did not select a target so one was chosen at random.</Entry>
   <Entry key="GAME_100" style="fullmoon">There is a full moon out tonight.</Entry>
   <Entry key="GAME_101" style="alert">You attacked someone.</Entry>
-  <Entry key="GAME_102" style="alert">Your target is suspicious!</Entry>
+  <Entry key="GAME_102" style="alert">你的目标可疑！</Entry>
   <Entry key="GAME_103" style="alert">You were attacked by a Werewolf!</Entry>
   <Entry key="GAME_SPY_RESULT_103" style="spy">Your target was attacked by a Werewolf!</Entry>
   <Entry key="GAME_104" style="alert">The light of the full moon has transformed you into a rampaging Werewolf!</Entry>
@@ -4923,7 +4923,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GAME_165" style="alert">You could not attack your target because they were in jail.</Entry>
   <Entry key="GAME_166" style="alert">Your target wasn't home, but you rampaged anyways.</Entry>
   <Entry key="GAME_167" style="alert">Juggernaut killed healed player.</Entry>
-  <Entry key="GAME_168" style="alert">Your target is suspicious!</Entry>
+  <Entry key="GAME_168" style="alert">你的目标可疑！</Entry>
   <Entry key="GAME_169" style="alert">You could not resurrect your target!</Entry>
   <Entry key="GAME_170" style="alert">You failed to remember your role!</Entry>
   <Entry key="GAME_171" style="alert">You were hauled off to jail so you couldn't duel your target.</Entry>
