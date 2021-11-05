@@ -3399,40 +3399,40 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_FACTION_TARGETING_60_INSTEAD">%name1% has instead decided to poison %name2% tonight.</Entry>
   <Entry key="GUI_FACTION_TARGETING_61">%name1% decided to stone gaze %name2% tonight.</Entry>
   <Entry key="GUI_FACTION_TARGETING_61_INSTEAD">%name1% has instead decided to stone gaze %name2% tonight.</Entry>
-  <Entry key="GUI_XDIED_REASON1_1" style="notice">%gender% was also executed by the %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON1_2" style="notice">%gender% was executed by the %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON2_1" style="notice">%gender% was also shot by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON2_2" style="notice">%gender% was shot by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON3_1" style="notice">%gender% was also killed by a member of the %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON3_2" style="notice">%gender% was killed by a member of the %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON4_1" style="notice">%gender% was also incinerated by an %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON4_2" style="notice">%gender% was incinerated by an %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON5_1" style="notice">%gender% was also stabbed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON5_2" style="notice">%gender% was stabbed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON6_1" style="notice">%gender% apparently committed suicide.</Entry>
-  <Entry key="GUI_XDIED_REASON6_2" style="notice">%gender% apparently committed suicide.</Entry>
-  <Entry key="GUI_XDIED_REASON7_1" style="notice">%gender% also died from guilt over lynching the %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON7_2" style="notice">%gender% died from guilt over lynching the %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON8_1" style="notice">%gender% also died guarding someone.</Entry>
-  <Entry key="GUI_XDIED_REASON8_2" style="notice">%gender% died guarding someone.</Entry>
-  <Entry key="GUI_XDIED_REASON9_1" style="notice">%gender% was also killed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON9_2" style="notice">%gender% was killed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON10_1" style="notice">%gender% was also killed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON10_2" style="notice">%gender% was killed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON11_1" style="notice">%gender% also died from guilt.</Entry>
-  <Entry key="GUI_XDIED_REASON11_2" style="notice">%gender% died from guilt.</Entry>
-  <Entry key="GUI_XDIED_REASON12_1" style="notice">%gender% was also mauled by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON12_2" style="notice">%gender% was mauled by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON13_1" style="notice">%gender% was also staked by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON13_2" style="notice">%gender% was staked by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON14_1" style="notice">%gender% was also bitten by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON14_2" style="notice">%gender% was bitten by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON15_1" style="notice">%gender% was also killed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON15_2" style="notice">%gender% was killed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON16_1" style="notice">%gender% was also killed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON16_2" style="notice">%gender% was killed by a %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON17_1" style="notice">%gender% was also killed by an %role%.</Entry>
-  <Entry key="GUI_XDIED_REASON17_2" style="notice">%gender% was killed by an %role%.</Entry>
+  <Entry key="GUI_XDIED_REASON1_1" style="notice">%gender% 同时被 %role% 处决了。</Entry>
+  <Entry key="GUI_XDIED_REASON1_2" style="notice">%gender% 被 %role% 处决了。</Entry>
+  <Entry key="GUI_XDIED_REASON2_1" style="notice">%gender% 同时被 %role% 射杀了。</Entry>
+  <Entry key="GUI_XDIED_REASON2_2" style="notice">%gender% 被 %role% 射杀了。</Entry>
+  <Entry key="GUI_XDIED_REASON3_1" style="notice">%gender% 同时被 %role% 成员杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON3_2" style="notice">%gender% 被 %role% 成员杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON4_1" style="notice">%gender% 同时被 %role% 烧为灰烬。</Entry>
+  <Entry key="GUI_XDIED_REASON4_2" style="notice">%gender% 被 %role% 烧为灰烬。</Entry>
+  <Entry key="GUI_XDIED_REASON5_1" style="notice">%gender% 同时被 %role% 刺杀了。</Entry>
+  <Entry key="GUI_XDIED_REASON5_2" style="notice">%gender% 被 %role% 刺杀了。</Entry>
+  <Entry key="GUI_XDIED_REASON6_1" style="notice">%gender% 显然死于自杀。</Entry>
+  <Entry key="GUI_XDIED_REASON6_2" style="notice">%gender% 显然死于自杀。</Entry>
+  <Entry key="GUI_XDIED_REASON7_1" style="notice">%gender% 同时死于处死 %role% 的罪恶感。</Entry>
+  <Entry key="GUI_XDIED_REASON7_2" style="notice">%gender% 死于处死 %role% 的罪恶感。</Entry>
+  <Entry key="GUI_XDIED_REASON8_1" style="notice">%gender% 同时死于守卫某人。</Entry>
+  <Entry key="GUI_XDIED_REASON8_2" style="notice">%gender% 死于守卫某人。</Entry>
+  <Entry key="GUI_XDIED_REASON9_1" style="notice">%gender% 同时被 %role% 杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON9_2" style="notice">%gender% 被 %role% 杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON10_1" style="notice">%gender% 同时被 %role% 杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON10_2" style="notice">%gender% 被 %role% 杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON11_1" style="notice">%gender% 同时死于内疚。</Entry>
+  <Entry key="GUI_XDIED_REASON11_2" style="notice">%gender% 死于内疚。</Entry>
+  <Entry key="GUI_XDIED_REASON12_1" style="notice">%gender% 同时被 %role% 袭击了。</Entry>
+  <Entry key="GUI_XDIED_REASON12_2" style="notice">%gender% 被 %role% 袭击了。</Entry>
+  <Entry key="GUI_XDIED_REASON13_1" style="notice">%gender% 同时被 %role% 钉死了。</Entry>
+  <Entry key="GUI_XDIED_REASON13_2" style="notice">%gender% 被 %role% 钉死了。</Entry>
+  <Entry key="GUI_XDIED_REASON14_1" style="notice">%gender% 同时被 %role% 咬死了。</Entry>
+  <Entry key="GUI_XDIED_REASON14_2" style="notice">%gender% 被 %role% 咬死了。</Entry>
+  <Entry key="GUI_XDIED_REASON15_1" style="notice">%gender% 同时被 %role% 杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON15_2" style="notice">%gender% 被 %role% 杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON16_1" style="notice">%gender% 同时被 %role% 杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON16_2" style="notice">%gender% 被 %role% 杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON17_1" style="notice">%gender% 同时被 %role% 杀害了。</Entry>
+  <Entry key="GUI_XDIED_REASON17_2" style="notice">%gender% 被 %role% 杀害了。</Entry>
   <Entry key="GUI_XDIED_REASON18_1" style="notice">%gender% was also obliterated by %role%.</Entry>
   <Entry key="GUI_XDIED_REASON18_2" style="notice">%gender% was obliterated by %role%.</Entry>
   <Entry key="GUI_XDIED_REASON19_1" style="notice">%gender% was also assaulted by a %role%.</Entry>
