@@ -3210,7 +3210,7 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_POTION_MASTER_KILL_REASON2">You wouldn't want to attack fellow coven members.</Entry>
   <Entry key="GUI_POTION_MASTER_KILL_REASON3">You wouldn't want to attack yourself.</Entry>
   <Entry key="GUI_TONIGHT">tonight.</Entry>
-  <Entry key="GUI_YOU_CHANGED_MIND">You have changed your mind.</Entry>
+  <Entry key="GUI_YOU_CHANGED_MIND">你改变了你的想法。</Entry>
   
   
   <Entry key="GUI_ROLE_0_TARGETING_X1">You have decided to guard %target% tonight.</Entry>
@@ -4392,26 +4392,26 @@ Your visits will not trigger any mechanic that relies on you visiting a player. 
   <Entry key="GUI_ROLE_49_MENU_OKAY">Okay</Entry>
   <!--Key "GUI_HYPNOTIST_MENU_CANCEL" has the same text as key "GUI_CANCEL"-->
   <Entry key="GUI_ROLE_49_MENU_CANCEL">Cancel</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_50">-You sneak into a players house at night and plant a memory.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_50">-A planted memory will confuse the player.
+  <Entry key="GUI_ROLE_CARD_ABILITY_50">-你在夜晚溜进别人家中，并植入一段记忆。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_50">-被植入的记忆会干扰别人。
 -如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_50" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
   <Entry key="GUI_ROLE_CARD_GOAL_50">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_50" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_50">Mafia</Entry>
-  <Entry key="GUI_ROLE_50_TARGETING_X1">You have decided to hypnotize %target%.</Entry>
-  <Entry key="GUI_ROLE_50_TARGETING_X2">You instead decide to hypnotize %target%.</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_51">-You may choose to lie in wait outside your targets house.</Entry>
-  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_51">-You will attack one player who visits your target.
--All players visiting your target will learn your name.
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_50">黑手党</Entry>
+  <Entry key="GUI_ROLE_50_TARGETING_X1">你决定催眠 %target%。</Entry>
+  <Entry key="GUI_ROLE_50_TARGETING_X2">你改变主意决定催眠 %target%。</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_51">-你可以在你目标家外等候。</Entry>
+  <Entry key="GUI_ROLE_CARD_ATTRIBUTE_51">-你会攻击访问你目标的一名玩家。
+-所有访问你目标的玩家会知道你的名字。
 -如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。</Entry>
   <!--Key "GUI_ROLE_CARD_GOAL_51" has the same text as key "GUI_ROLE_CARD_GOAL_15"-->
   <Entry key="GUI_ROLE_CARD_GOAL_51">杀死所有不服从黑手党的人。</Entry>
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_51" has the same text as key "GUI_PLAYER_STATS_BUTTON_MAFIA"-->
-  <Entry key="GUI_ROLE_CARD_ALIGNMENT_51">Mafia</Entry>
-  <Entry key="GUI_ROLE_51_TARGETING_X1">You have decided to ambush anyone visiting %target%.</Entry>
-  <Entry key="GUI_ROLE_51_TARGETING_X2">You instead decide to ambush anyone visiting %target%.</Entry>
-  <Entry key="GUI_ROLE_51_NOTIFICATION" style="ability_feedback">You saw %name% prepare an ambush while visiting your target.</Entry>
+  <Entry key="GUI_ROLE_CARD_ALIGNMENT_51">黑手党</Entry>
+  <Entry key="GUI_ROLE_51_TARGETING_X1">你决定埋伏访问 %target% 的人。</Entry>
+  <Entry key="GUI_ROLE_51_TARGETING_X2">你改变主意决定埋伏访问 %target% 的人。</Entry>
+  <Entry key="GUI_ROLE_51_NOTIFICATION" style="ability_feedback">你在访问你目标的时候，看见 %name% 在准备埋伏。</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_52">-You may choose to infect a player with the %GUI_ROLE_CARD_PLAGUE% each night.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_52">-Players will not know they have been infected.
 -When all living players are infected you become Pestilence.</Entry>
@@ -4709,156 +4709,156 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GAME_11" style="alert">有人试着朝你泼汽油，但你昨晚在监狱中！</Entry>
   <Entry key="GAME_12" style="alert">你被泼了汽油！</Entry>
   <Entry key="GAME_SPY_RESULT_12" style="spy">你的目标被泼了汽油！</Entry>
-  <Entry key="GAME_13" style="alert">Someone tried to attack you but you were in jail last night!</Entry>
-  <Entry key="GAME_14" style="alert">You were attacked but someone fought off your attacker!</Entry>
-  <Entry key="GAME_SPY_RESULT_14" style="spy">Your target was attacked but someone fought off their attacker!</Entry>
-  <Entry key="GAME_15" style="positive">You were attacked but someone nursed you back to health!</Entry>
-  <Entry key="GAME_SPY_RESULT_15" style="spy">Your target was attacked but someone nursed them back to health!</Entry>
-  <Entry key="GAME_16" style="alert">You were attacked by a member of the Mafia!</Entry>
-  <Entry key="GAME_SPY_RESULT_16" style="spy">Your target was attacked by a member of the Mafia!</Entry>
-  <Entry key="GAME_17" style="alert">You were attacked by a Serial Killer!</Entry>
-  <Entry key="GAME_SPY_RESULT_17" style="spy">Your target was attacked by a Serial Killer!</Entry>
-  <Entry key="GAME_18" style="alert">You were shot by a Vigilante!</Entry>
-  <Entry key="GAME_SPY_RESULT_18" style="spy">Your target was shot by a Vigilante!</Entry>
-  <Entry key="GAME_19" style="alert">You were set on fire by an Arsonist!</Entry>
-  <Entry key="GAME_SPY_RESULT_19" style="spy">Your target was set on fire by an Arsonist!</Entry>
-  <Entry key="GAME_20" style="alert">You were shot by the Veteran you visited!</Entry>
-  <Entry key="GAME_SPY_RESULT_20" style="spy">Your target was shot by the Veteran they visited!</Entry>
-  <Entry key="GAME_21" style="alert">You were killed protecting your target!</Entry>
-  <Entry key="GAME_SPY_RESULT_21" style="spy">Your target was killed protecting someone!</Entry>
-  <Entry key="GAME_22" style="alert">Your target was attacked last night!</Entry>
-  <Entry key="GAME_SPY_RESULT_22" style="spy">Your target's target was attacked last night!</Entry>
-  <Entry key="GAME_23" style="alert">An Arsonist tried to douse you in gas but a Bodyguard fought off your attacker!</Entry>
-  <Entry key="GAME_SPY_RESULT_23" style="spy">An Arsonist tried to douse your target but a Bodyguard fought off the attack!</Entry>
-  <Entry key="GAME_24" style="alert">You were murdered by the Serial Killer you visited!</Entry>
-  <Entry key="GAME_SPY_RESULT_24" style="spy">Your target was murdered by the Serial Killer they visited!</Entry>
-  <Entry key="GAME_25" style="alert">Your target has a desire to deceive. They must be a Framer!</Entry>
-  <Entry key="GAME_26" style="alert">Your target could be an Escort, Transporter, Consort, or Hypnotist.</Entry>
-  <Entry key="GAME_COVEN26" style="alert">Your target could be an Escort, Transporter, Consort, or Hypnotist.</Entry>
-  <Entry key="GAME_27" style="alert">Your target could be a Doctor, Disguiser, or Serial Killer.</Entry>
-  <Entry key="GAME_COVEN27" style="alert">Your target could be a Doctor, Disguiser, Serial Killer, or Potion Master.</Entry>
-  <Entry key="GAME_28" style="alert">Your target could be an Investigator, Consigliere, or Mayor.</Entry>
+  <Entry key="GAME_13" style="alert">有人试着攻击你，但你昨晚在监狱中！</Entry>
+  <Entry key="GAME_14" style="alert">你被攻击了，但有人击退了攻击者！</Entry>
+  <Entry key="GAME_SPY_RESULT_14" style="spy">你的目标被攻击了，但有人击退了攻击者！</Entry>
+  <Entry key="GAME_15" style="positive">你被攻击了，但有人治好了你的伤势！</Entry>
+  <Entry key="GAME_SPY_RESULT_15" style="spy">你的目标被攻击了，但有人治好了他的伤势！</Entry>
+  <Entry key="GAME_16" style="alert">你被黑手党成员攻击了！</Entry>
+  <Entry key="GAME_SPY_RESULT_16" style="spy">你的目标被一名黑手党成员攻击了！</Entry>
+  <Entry key="GAME_17" style="alert">你被连环杀手攻击了！</Entry>
+  <Entry key="GAME_SPY_RESULT_17" style="spy">你的目标被连环杀手攻击了！</Entry>
+  <Entry key="GAME_18" style="alert">你被民兵开枪射杀了！</Entry>
+  <Entry key="GAME_SPY_RESULT_18" style="spy">你的目标被民兵开枪射杀了！</Entry>
+  <Entry key="GAME_19" style="alert">你被纵火犯引燃了！</Entry>
+  <Entry key="GAME_SPY_RESULT_19" style="spy">你的目标被纵火犯引燃了！</Entry>
+  <Entry key="GAME_20" style="alert">你被你访问的退伍老兵射杀了！</Entry>
+  <Entry key="GAME_SPY_RESULT_20" style="spy">你的目标被其访问的退伍老兵射杀了！</Entry>
+  <Entry key="GAME_21" style="alert">你死于保护你的目标！</Entry>
+  <Entry key="GAME_SPY_RESULT_21" style="spy">你的目标死于保护他人！</Entry>
+  <Entry key="GAME_22" style="alert">你的目标昨晚被攻击了！</Entry>
+  <Entry key="GAME_SPY_RESULT_22" style="spy">你目标的目标昨晚被攻击了！</Entry>
+  <Entry key="GAME_23" style="alert">一名纵火犯试着朝你泼汽油，但被保镖击退了！</Entry>
+  <Entry key="GAME_SPY_RESULT_23" style="spy">一名纵火犯试着朝你的目标泼汽油，但被保镖击退了！</Entry>
+  <Entry key="GAME_24" style="alert">你被你访问的连环杀手谋杀了！</Entry>
+  <Entry key="GAME_SPY_RESULT_24" style="spy">你的目标被其访问的连环杀手谋杀了！</Entry>
+  <Entry key="GAME_25" style="alert">你的目标有强烈的欺骗欲，他一定是诬陷者！</Entry>
+  <Entry key="GAME_26" style="alert">你的目标可能是陪酒女郎，车夫，妖艳舞女，或催眠师。</Entry>
+  <Entry key="GAME_COVEN26" style="alert">你的目标可能是陪酒女郎，车夫，妖艳舞女，或催眠师。</Entry>
+  <Entry key="GAME_27" style="alert">你的目标可能是医生，易容师，或连环杀手。</Entry>
+  <Entry key="GAME_COVEN27" style="alert">你的目标可能是医生，易容师，连环杀手，或药剂师。</Entry>
+  <Entry key="GAME_28" style="alert">你的目标可能是调查员，参谋，或镇长。</Entry>
   <Entry key="GAME_COVEN28" style="alert">Your target could be an Investigator, Consigliere, Mayor, Tracker, or Plaguebearer.</Entry>
-  <Entry key="GAME_29" style="alert">Your target could be a Lookout, Forger, Juggernaut, or Coven Leader.</Entry>
-  <Entry key="GAME_30" style="alert">Your target could be a Bodyguard, Godfather, or Arsonist.</Entry>
+  <Entry key="GAME_29" style="alert">你的目标可能是守望者，伪造者，红坦克，或女巫首领。</Entry>
+  <Entry key="GAME_30" style="alert">你的目标可能是保镖，教父，或纵火犯。</Entry>
   <Entry key="GAME_COVEN30" style="alert">Your target could be a Bodyguard, Godfather, Arsonist, or Crusader.</Entry>
-  <Entry key="GAME_31" style="alert">Your target could be a Vigilante, Veteran, Mafioso, or Ambusher.</Entry>
+  <Entry key="GAME_31" style="alert">你的目标可能是民兵，退伍老兵，黑手党喽啰，或埋伏手。</Entry>
   <Entry key="GAME_COVEN31" style="alert">Your target could be a Vigilante, Veteran, Mafioso, Pirate or Ambusher.</Entry>
-  <Entry key="GAME_32" style="alert">Your target could be a Medium, Janitor, or Retributionist.</Entry>
+  <Entry key="GAME_32" style="alert">你的目标可能是灵媒，清道夫，或招魂师。</Entry>
   <Entry key="GAME_COVEN32" style="alert">Your target could be a Medium, Janitor, Retributionist, Necromancer or Trapper.</Entry>
-  <Entry key="GAME_33" style="alert">Your target could be a Survivor, Vampire Hunter, or Amnesiac.</Entry>
+  <Entry key="GAME_33" style="alert">你的目标可能是生存者，吸血鬼猎人，或失忆症患者。</Entry>
   <Entry key="GAME_COVEN33" style="alert">Your target could be a Survivor, Vampire Hunter, Amnesiac, Medusa or Psychic.</Entry>
-  <Entry key="GAME_34" style="alert">Your target could be a Spy, Blackmailer, or Jailor.</Entry>
+  <Entry key="GAME_34" style="alert">你的目标可能是间谍，敲诈者，或狱长。</Entry>
   <Entry key="GAME_COVEN34" style="alert">Your target could be a Spy, Blackmailer, Jailor, or Guardian Angel.</Entry>
-  <Entry key="GAME_35" style="alert">Your target could be a Sheriff, Executioner, or Werewolf.</Entry>
+  <Entry key="GAME_35" style="alert">你的目标可能是警长，处刑人，或狼人。</Entry>
   <Entry key="GAME_COVEN35" style="alert">Your target could be a Sheriff, Executioner, Werewolf, or Poisoner.</Entry>
-  <Entry key="GAME_36" style="alert">You ambushed someone who visited your target last night!</Entry>
-  <Entry key="GAME_37" style="alert">Your target could be a Framer, Vampire, or Jester.</Entry>
+  <Entry key="GAME_36" style="alert">你昨晚埋伏了某个访问你目标的人！</Entry>
+  <Entry key="GAME_37" style="alert">你的目标可能是诬陷者，吸血鬼，或小丑。</Entry>
   <Entry key="GAME_COVEN37" style="alert">Your target could be a Framer, Vampire, Jester, or Hex Master.</Entry>
-  <Entry key="GAME_38" style="alert">Your target could be a Lookout, Forger, or Witch.</Entry>
+  <Entry key="GAME_38" style="alert">你的目标可能是守望者，伪造者，或女巫。</Entry>
   <Entry key="GAME_COVEN38" style="alert">Your target could be a Lookout, Forger, Juggernaut, or Coven Leader.</Entry>
-  <Entry key="GAME_39" style="alert">A Bodyguard attacked you but someone nursed you back to health!</Entry>
-  <Entry key="GAME_SPY_RESULT_39" style="spy">A Bodyguard attacked your target but someone nursed them back to health!</Entry>
-  <Entry key="GAME_40" style="alert">A Bodyguard attacked you but someone fought off your attacker!</Entry>
-  <Entry key="GAME_SPY_RESULT_40" style="spy">A Bodyguard attacked your target but someone fought them off!</Entry>
-  <Entry key="GAME_41" style="alert">You were killed by a Bodyguard!</Entry>
-  <Entry key="GAME_SPY_RESULT_41" style="spy">Your target was killed by a Bodyguard!</Entry>
-  <Entry key="GAME_42" style="alert">Someone attacked you but your defense was too strong!</Entry>
-  <Entry key="GAME_SPY_RESULT_42" style="spy">Someone attacked your target but their defense was too strong!</Entry>
-  <Entry key="GAME_43" style="alert">One of your targets was jailed so you could not transport them!</Entry>
-  <Entry key="GAME_44" style="alert">Your target is a trained protector. They must be a Bodyguard.</Entry>
-  <Entry key="GAME_45" style="alert">Your target specializes in transportation. They must be a Transporter.</Entry>
-  <Entry key="GAME_46" style="alert">Your target is a professional surgeon. They must be a Doctor.</Entry>
-  <Entry key="GAME_47" style="alert">Your target is a beautiful person working for the town. They must be an Escort.</Entry>
-  <Entry key="GAME_48" style="alert">Your target gathers information about people. They must be an Investigator.</Entry>
-  <Entry key="GAME_49" style="alert">Your target detains people at night. They must be a Jailor.</Entry>
-  <Entry key="GAME_50" style="alert">Your target watches who visits people at night. They must be a Lookout.</Entry>
+  <Entry key="GAME_39" style="alert">一名保镖攻击了你，但有人治好了你的伤势！</Entry>
+  <Entry key="GAME_SPY_RESULT_39" style="spy">一名保镖攻击了你的目标，但有人治好了他的伤势！</Entry>
+  <Entry key="GAME_40" style="alert">一名保镖攻击了你，但有人击退了他！</Entry>
+  <Entry key="GAME_SPY_RESULT_40" style="spy">一名保镖攻击了你的目标，但有人击退了他！</Entry>
+  <Entry key="GAME_41" style="alert">你被保镖杀死了！</Entry>
+  <Entry key="GAME_SPY_RESULT_41" style="spy">你的目标被保镖杀死了！</Entry>
+  <Entry key="GAME_42" style="alert">有人攻击了你，但你的防御很强。</Entry>
+  <Entry key="GAME_SPY_RESULT_42" style="spy">有人攻击了你的目标，但你的目标防御很强！</Entry>
+  <Entry key="GAME_43" style="alert">你的其中一名目标被囚禁了，因此你无法转移他们！</Entry>
+  <Entry key="GAME_44" style="alert">你的目标是经过训练的保护者，他一定是保镖。</Entry>
+  <Entry key="GAME_45" style="alert">你的目标是运输专家，他一定是车夫。</Entry>
+  <Entry key="GAME_46" style="alert">你的目标是职业外科大夫，他一定是医生。</Entry>
+  <Entry key="GAME_47" style="alert">你的目标是一个为小镇工作的美女，他一定是陪酒女郎。</Entry>
+  <Entry key="GAME_48" style="alert">你的目标收集人们的信息，他一定是调查员。</Entry>
+  <Entry key="GAME_49" style="alert">你的目标于夜晚拘留他人，他一定是狱长。</Entry>
+  <Entry key="GAME_50" style="alert">你的目标于夜晚观察访问者，他一定是守望者。</Entry>
   <Entry key="GAME_51" style="alert">Your target is a member of a secret town organization. They must be a Mason.</Entry>
   <Entry key="GAME_52" style="alert">Your target the leader of a secret town organization. They must be a Mason Leader.</Entry>
-  <Entry key="GAME_53" style="alert">Your target is the leader of the town. They must be the Mayor.</Entry>
-  <Entry key="GAME_54" style="alert">Your target is a protector of the town. They must be a Sheriff.</Entry>
-  <Entry key="GAME_55" style="alert">Your target secretly watches who someone visits. They must be a Spy.</Entry>
-  <Entry key="GAME_56" style="alert">Your target is a paranoid war hero. They must be a Veteran.</Entry>
-  <Entry key="GAME_57" style="alert">Your target will bend the law to enact justice. They must be a Vigilante.</Entry>
-  <Entry key="GAME_58" style="alert">Your target speaks with the dead. They must be a Medium.</Entry>
-  <Entry key="GAME_59" style="alert">Your target wields mystical powers. They must be a Retributionist.</Entry>
-  <Entry key="GAME_60" style="alert">Your target uses information to silence people. They must be a Blackmailer.</Entry>
-  <Entry key="GAME_61" style="alert">Your target gathers information for the Mafia. They must be a Consigliere.</Entry>
-  <Entry key="GAME_62" style="alert">Your target is a beautiful person working for the Mafia. They must be a Consort.</Entry>
-  <Entry key="GAME_63" style="alert">Your target makes other people appear to be someone they're not. They must be a Disguiser.</Entry>
-  <Entry key="GAME_64" style="alert">Your target is good at forging documents. They must be a Forger.</Entry>
-  <Entry key="GAME_65" style="alert">Your target is the leader of the Mafia. They must be the Godfather.</Entry>
-  <Entry key="GAME_66" style="alert">Your target cleans up dead bodies. They must be a Janitor.</Entry>
-  <Entry key="GAME_67" style="alert">Your target does the Godfather's dirty work. They must be a Mafioso.</Entry>
-  <Entry key="GAME_68" style="alert">Your target does not remember their role. They must be an Amnesiac.</Entry>
-  <Entry key="GAME_69" style="alert">Your target likes to watch things burn. They must be an Arsonist.</Entry>
+  <Entry key="GAME_53" style="alert">你的目标是小镇的领袖，他一定是镇长。</Entry>
+  <Entry key="GAME_54" style="alert">你的目标是小镇的守护者，他一定是警长。</Entry>
+  <Entry key="GAME_55" style="alert">你的目标监视他人，他一定是间谍。</Entry>
+  <Entry key="GAME_56" style="alert">你的目标是一个多疑的战争英雄，他一定是退伍老兵。</Entry>
+  <Entry key="GAME_57" style="alert">你的目标会为了正义歪曲法律，他一定是民兵。</Entry>
+  <Entry key="GAME_58" style="alert">你的目标和死人对话，他一定是灵媒。</Entry>
+  <Entry key="GAME_59" style="alert">你的目标行使神秘力量，他一定是招魂师。</Entry>
+  <Entry key="GAME_60" style="alert">你的目标利用信息使人沉默，他一定是敲诈者。</Entry>
+  <Entry key="GAME_61" style="alert">你的目标为黑手党收集情报，他一定是参谋。</Entry>
+  <Entry key="GAME_62" style="alert">你的目标是一个为黑手党工作的美女，他一定是妖艳舞女。</Entry>
+  <Entry key="GAME_63" style="alert">你的目标让人看起来像别的人，他一定是易容师。</Entry>
+  <Entry key="GAME_64" style="alert">你的目标擅于伪造文件，他一定是伪造者。</Entry>
+  <Entry key="GAME_65" style="alert">你的目标是黑手党领袖，他一定是教父。</Entry>
+  <Entry key="GAME_66" style="alert">你的目标清理尸体，他一定是清道夫。</Entry>
+  <Entry key="GAME_67" style="alert">你的目标干着教父的肮脏工作，他一定是黑手党喽啰。</Entry>
+  <Entry key="GAME_68" style="alert">你的目标不记得自己的身份，他一定是失忆症患者。</Entry>
+  <Entry key="GAME_69" style="alert">你的目标喜欢看着事物燃烧，他一定是纵火犯。</Entry>
   <Entry key="GAME_70" style="alert">Your target is a member of an evil secret organization. They must be a Cultist.</Entry>
-  <Entry key="GAME_71" style="alert">Your target wants someone to be lynched at any cost. They must be an Executioner.</Entry>
-  <Entry key="GAME_72" style="alert">Your target wants to be lynched. They must be a Jester.</Entry>
-  <Entry key="GAME_73" style="alert">Your target wants to kill everyone. They must be a Serial Killer.</Entry>
-  <Entry key="GAME_74" style="alert">Your target simply wants to live. They must be a Survivor.</Entry>
-  <Entry key="GAME_75" style="alert">Your target casts spells on people. They must be a Witch.</Entry>
-  <Entry key="GAME_76" style="alert">Your target was jailed so you could not control them.</Entry>
-  <Entry key="GAME_77" style="alert">Someone tried to role block you but you are immune!</Entry>
-  <Entry key="GAME_SPY_RESULT_77" style="spy">Someone tried to role block your target but they were immune!</Entry>
-  <Entry key="GAME_78" style="alert">You feel a mystical power dominating you. You were controlled by a Witch!</Entry>
-  <Entry key="GAME_SPY_RESULT_78" style="spy">Your target was controlled by a Witch!</Entry>
-  <Entry key="GAME_79" style="alert">A Witch tried to control you but you are immune.</Entry>
-  <Entry key="GAME_SPY_RESULT_79" style="spy">A Witch tried to control your target but they were immune.</Entry>
-  <Entry key="GAME_80" style="alert">Someone tried to control you last night but you were jailed.</Entry>
+  <Entry key="GAME_71" style="alert">你的目标不计一切代价希望某人被处死，他一定是处刑人。</Entry>
+  <Entry key="GAME_72" style="alert">你的目标想要被处死，他一定是小丑。</Entry>
+  <Entry key="GAME_73" style="alert">你的目标想要杀死所有人，他一定是连环杀手。</Entry>
+  <Entry key="GAME_74" style="alert">你的目标单纯想要活着，他一定是生存者。</Entry>
+  <Entry key="GAME_75" style="alert">你的目标对人们施展咒语，他一定是女巫。</Entry>
+  <Entry key="GAME_76" style="alert">你的目标被囚禁了，因此你无法控制他。</Entry>
+  <Entry key="GAME_77" style="alert">有人试着阻止你使用能力，但你对此免疫！</Entry>
+  <Entry key="GAME_SPY_RESULT_77" style="spy">有人试着阻止你的目标使用能力，但其对此免疫！</Entry>
+  <Entry key="GAME_78" style="alert">你感到自己被一股神秘能量支配。你被女巫控制了！</Entry>
+  <Entry key="GAME_SPY_RESULT_78" style="spy">你的目标被女巫控制了！</Entry>
+  <Entry key="GAME_79" style="alert">有女巫试着控制你，但你对此免疫。</Entry>
+  <Entry key="GAME_SPY_RESULT_79" style="spy">有女巫试着控制你的目标，但其对此免疫。</Entry>
+  <Entry key="GAME_80" style="alert">有人试着控制你，但你昨晚被监禁了。</Entry>
   <Entry key="GAME_81" style="notice">加入了小镇。</Entry>
-  <Entry key="GAME_82" style="alert">You have attempted to remember who you were!</Entry>
-  <Entry key="GAME_83" style="alert">You were haunted by the Jester. You committed suicide over the guilt!</Entry>
-  <Entry key="GAME_SPY_RESULT_83" style="spy">Your target was haunted by the Jester and committed suicide!</Entry>
-  <Entry key="GAME_84" style="alert">You were attacked but your bulletproof vest saved you!</Entry>
-  <Entry key="GAME_SPY_RESULT_84" style="spy">Your target was attacked but their bulletproof vest saved them!</Entry>
-  <Entry key="GAME_85" style="alert">You shot someone who visited you last night!</Entry>
-  <Entry key="GAME_86" style="alert">Someone tried to attack you but your defense while on alert was too strong!</Entry>
-  <Entry key="GAME_SPY_RESULT_86" style="spy">Someone tried to attack your alert target and failed!</Entry>
+  <Entry key="GAME_82" style="alert">你试着回想起自己是谁！</Entry>
+  <Entry key="GAME_83" style="alert">你被小丑诅咒了。你因罪恶感而自杀了！</Entry>
+  <Entry key="GAME_SPY_RESULT_83" style="spy">你的目标被小丑诅咒并自杀了！</Entry>
+  <Entry key="GAME_84" style="alert">你被攻击了，但你的防弹衣救了你一命！</Entry>
+  <Entry key="GAME_SPY_RESULT_84" style="spy">你的目标被攻击了，但他的防弹衣救了他一命！</Entry>
+  <Entry key="GAME_85" style="alert">你昨晚射杀了某个访问你的人！</Entry>
+  <Entry key="GAME_86" style="alert">有人试着攻击你，但你在警戒时的防御太强了！</Entry>
+  <Entry key="GAME_SPY_RESULT_86" style="spy">有人试着攻击你在警戒中的目标，但失败了！</Entry>
   <Entry key="GAME_87">UNUSED</Entry>
-  <Entry key="GAME_88" style="alert">You could not get over the guilt of killing a town member. You shot yourself!</Entry>
-  <Entry key="GAME_SPY_RESULT_88" style="spy">Your target shot themselves over the guilt of killing a town member!</Entry>
-  <Entry key="GAME_89" style="alert">Someone role blocked you, so you attacked them!</Entry>
-  <Entry key="GAME_SPY_RESULT_89" style="spy">Someone role blocked your target, so your target attacked them!</Entry>
-  <Entry key="GAME_90" style="alert">The Godfather has ordered you to kill his target.</Entry>
-  <Entry key="GAME_91" style="alert">You cannot resurrect a player who has left the game.</Entry>
-  <Entry key="GAME_92" style="alert">You have cleaned the gasoline off of yourself.</Entry>
-  <Entry key="GAME_SPY_RESULT_92" style="spy">Your target has cleaned the gasoline off of themself.</Entry>
-  <Entry key="GAME_93" style="alert">The jailor has decided to execute you.</Entry>
-  <Entry key="GAME_94" style="alert">The jailor has changed his mind.</Entry>
-  <Entry key="GAME_95" style="alert">You were killed by the Serial Killer you jailed.</Entry>
-  <Entry key="GAME_SPY_RESULT_95" style="spy">Your target was killed by the Serial Killer they jailed.</Entry>
-  <Entry key="GAME_96" style="alert">You attacked the jailor!</Entry>
-  <Entry key="GAME_97" style="alert">Your target's defense was too strong to kill.</Entry>
-  <Entry key="GAME_98" style="alert">The jester will get his revenge from the grave!</Entry>
-  <Entry key="GAME_99" style="alert">You did not select a target so one was chosen at random.</Entry>
-  <Entry key="GAME_100" style="fullmoon">There is a full moon out tonight.</Entry>
-  <Entry key="GAME_101" style="alert">You attacked someone.</Entry>
+  <Entry key="GAME_88" style="alert">你无法摆脱杀害小镇成员的负罪感。你开枪自尽了！</Entry>
+  <Entry key="GAME_SPY_RESULT_88" style="spy">你的目标因杀害小镇成员的负罪感，开枪自尽了！</Entry>
+  <Entry key="GAME_89" style="alert">有人试着阻止你使用能力，你因此攻击了他！</Entry>
+  <Entry key="GAME_SPY_RESULT_89" style="spy">有人阻止你的目标使用能力，你的目标因此攻击了他！</Entry>
+  <Entry key="GAME_90" style="alert">教父命令你杀害他的目标。</Entry>
+  <Entry key="GAME_91" style="alert">你不能复活一个已经离开游戏的玩家。</Entry>
+  <Entry key="GAME_92" style="alert">你已经清洗掉了自己身上的汽油。</Entry>
+  <Entry key="GAME_SPY_RESULT_92" style="spy">你的目标清洗掉了自己身上的汽油。</Entry>
+  <Entry key="GAME_93" style="alert">狱长已决定要处决你。</Entry>
+  <Entry key="GAME_94" style="alert">狱长改变了他的想法。</Entry>
+  <Entry key="GAME_95" style="alert">你被你囚禁的连环杀手杀害了。</Entry>
+  <Entry key="GAME_SPY_RESULT_95" style="spy">你的目标被他所囚禁的连环杀手杀害了。</Entry>
+  <Entry key="GAME_96" style="alert">你攻击了狱长！</Entry>
+  <Entry key="GAME_97" style="alert">你的目标防御太强，无法被杀死。</Entry>
+  <Entry key="GAME_98" style="alert">小丑会从他的墓中爬出来复仇！</Entry>
+  <Entry key="GAME_99" style="alert">你未选择一个目标，随机一人将被选中。</Entry>
+  <Entry key="GAME_100" style="fullmoon">今晚是满月。</Entry>
+  <Entry key="GAME_101" style="alert">你攻击了某个人。</Entry>
   <Entry key="GAME_102" style="alert">你的目标可疑！</Entry>
-  <Entry key="GAME_103" style="alert">You were attacked by a Werewolf!</Entry>
-  <Entry key="GAME_SPY_RESULT_103" style="spy">Your target was attacked by a Werewolf!</Entry>
-  <Entry key="GAME_104" style="alert">The light of the full moon has transformed you into a rampaging Werewolf!</Entry>
-  <Entry key="GAME_105" style="alert">Someone role blocked you so you stayed at home tonight.</Entry>
-  <Entry key="GAME_SPY_RESULT_105" style="spy">Someone role blocked your target so they stayed at home.</Entry>
-  <Entry key="GAME_106" style="alert">Your target howls at the moon. They must be a Werewolf.</Entry>
-  <Entry key="GAME_107" style="alert">You did not perform your day ability.</Entry>
-  <Entry key="GAME_108" style="alert">You did not perform your night ability.</Entry>
-  <Entry key="GAME_109" style="alert">You were staked by a Vampire Hunter!</Entry>
-  <Entry key="GAME_SPY_RESULT_109" style="spy">Your target was staked by a Vampire Hunter!</Entry>
-  <Entry key="GAME_110" style="alert">You were staked by the Vampire Hunter you visited!</Entry>
-  <Entry key="GAME_SPY_RESULT_110" style="spy">Your target was staked by the Vampire Hunter they visited!</Entry>
-  <Entry key="GAME_111" style="alert">You staked the Vampire who attacked you!</Entry>
-  <Entry key="GAME_SPY_RESULT_111" style="spy">Your target staked the Vampire that attacked them!</Entry>
-  <Entry key="GAME_112" style="alert">Your target tracks Vampires. They must be a Vampire Hunter!</Entry>
-  <Entry key="GAME_113" style="alert">Your target drinks blood. They must be a Vampire!</Entry>
-  <Entry key="GAME_114" style="alert">You were attacked by a Vampire!</Entry>
-  <Entry key="GAME_SPY_RESULT_114" style="spy">Your target was attacked by a Vampire!</Entry>
-  <Entry key="GAME_115" style="alert">You can't whisper to a revealed Mayor.</Entry>
-  <Entry key="GAME_116" style="alert">You can't whisper once you have revealed as the Mayor!</Entry>
+  <Entry key="GAME_103" style="alert">你被狼人攻击了！</Entry>
+  <Entry key="GAME_SPY_RESULT_103" style="spy">你的目标被狼人攻击了！</Entry>
+  <Entry key="GAME_104" style="alert">满月的月光将你变成了一只狂暴的狼人！</Entry>
+  <Entry key="GAME_105" style="alert">有人阻止了你的能力，因此你今晚待在了家中。</Entry>
+  <Entry key="GAME_SPY_RESULT_105" style="spy">有人阻止了你目标的能力，因此他待在了家中。</Entry>
+  <Entry key="GAME_106" style="alert">你的目标朝着月亮吼叫。他一定是狼人。</Entry>
+  <Entry key="GAME_107" style="alert">你未施展你的白天能力。</Entry>
+  <Entry key="GAME_108" style="alert">你未施展你的夜晚能力。</Entry>
+  <Entry key="GAME_109" style="alert">你被吸血鬼猎人钉死了！</Entry>
+  <Entry key="GAME_SPY_RESULT_109" style="spy">你的目标被吸血鬼猎人钉死了！</Entry>
+  <Entry key="GAME_110" style="alert">你被你访问的吸血鬼猎人钉死了！</Entry>
+  <Entry key="GAME_SPY_RESULT_110" style="spy">你的目标被其访问的吸血鬼猎人钉死了！</Entry>
+  <Entry key="GAME_111" style="alert">你钉死了攻击你的吸血鬼！</Entry>
+  <Entry key="GAME_SPY_RESULT_111" style="spy">你的目标钉死了攻击他的吸血鬼！</Entry>
+  <Entry key="GAME_112" style="alert">你的目标追踪吸血鬼。他一定是吸血鬼猎人！</Entry>
+  <Entry key="GAME_113" style="alert">你的目标嗜血如命。他一定是吸血鬼！</Entry>
+  <Entry key="GAME_114" style="alert">你被吸血鬼攻击了！</Entry>
+  <Entry key="GAME_SPY_RESULT_114" style="spy">你的目标被吸血鬼攻击了！</Entry>
+  <Entry key="GAME_115" style="alert">你不能和一个已展示身份的镇长私聊。</Entry>
+  <Entry key="GAME_116" style="alert">一旦你展示镇长身份，你就无法私聊。</Entry>
   <Entry key="GAME_117" style="alert">You feel that someone can hear your conversations.</Entry>
   <Entry key="GAME_118" style="alert">You feel like you can speak privately.</Entry>
-  <Entry key="GAME_120" style="alert">You were attacked but someone protected you!</Entry>
-  <Entry key="GAME_SPY_RESULT_120" style="spy">Your target was attacked but someone protected them!</Entry>
+  <Entry key="GAME_120" style="alert">你被攻击了，但有人保护了你！</Entry>
+  <Entry key="GAME_SPY_RESULT_120" style="spy">你的目标被攻击了，但有人保护了他！</Entry>
   <Entry key="GAME_121" style="alert">You were attacked by a Crusader!</Entry>
   <Entry key="GAME_SPY_RESULT_121" style="spy">Your target was attacked by a Crusader!</Entry>
   <Entry key="GAME_122" style="alert">You were attacked by Pestilence!</Entry>
@@ -5145,7 +5145,7 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_14">民兵</Entry>
   <Entry key="GUI_ROLE_15">敲诈者</Entry>
   <Entry key="GUI_ROLE_16">参谋</Entry>
-  <Entry key="GUI_ROLE_17">不良青年</Entry>
+  <Entry key="GUI_ROLE_17">妖艳舞女</Entry>
   <Entry key="GUI_ROLE_18">易容师</Entry>
   <Entry key="GUI_ROLE_19">伪造者</Entry>
   <Entry key="GUI_ROLE_20">诬陷者</Entry>
