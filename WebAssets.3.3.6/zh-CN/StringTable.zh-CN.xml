@@ -3373,10 +3373,10 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_FACTION_TARGETING_48_SPECIAL_INSTEAD">%name1% instead decided to destroy and rebuild their trap.</Entry>
   <!-- role 49 is psychic and doesnt target -->
   
-  <Entry key="GUI_FACTION_TARGETING_50">%name1% decided to hypnotize %name2% tonight.</Entry>
-  <Entry key="GUI_FACTION_TARGETING_50_INSTEAD">%name1% has instead decided to hypnotize %name2% tonight.</Entry>
-  <Entry key="GUI_FACTION_TARGETING_51">%name1% decided to ambush someone visiting %name2% tonight.</Entry>
-  <Entry key="GUI_FACTION_TARGETING_51_INSTEAD">%name1% instead will ambush someone visiting %name2% tonight.</Entry>
+  <Entry key="GUI_FACTION_TARGETING_50">%name1% 决定今晚催眠 %name2% 。</Entry>
+  <Entry key="GUI_FACTION_TARGETING_50_INSTEAD">%name1% 改变主意决定今晚催眠 %name2% 。</Entry>
+  <Entry key="GUI_FACTION_TARGETING_51">%name1% 决定今晚埋伏访问 %name2% 的某个人。</Entry>
+  <Entry key="GUI_FACTION_TARGETING_51_INSTEAD">%name1% 改变主意决定今晚埋伏访问 %name2% 的某个人。</Entry>
   <Entry key="GUI_FACTION_TARGETING_56">%name1% decided to control %name2% tonight.</Entry>
   <Entry key="GUI_FACTION_TARGETING_56_INSTEAD">%name1% has instead decided to control %name2% tonight.</Entry>
   <Entry key="GUI_FACTION_TARGETING_56_VICTIM">%name1% decided to make their victim target %name2% tonight.</Entry>
@@ -4387,11 +4387,11 @@ Your visits will not trigger any mechanic that relies on you visiting a player. 
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_49">Town</Entry>
   <Entry key="GUI_ROLE_49_FEEDBACK1" style="ability_feedback">A vision revealed that %name1%, %name2% or %name3% is evil!</Entry>
   <Entry key="GUI_ROLE_49_FEEDBACK2" style="ability_feedback">A vision revealed that %name1% or %name2% is good!</Entry>
-  <Entry key="GUI_ROLE_49_MENU_HEADER">Hypnotize your target!</Entry>
+  <Entry key="GUI_ROLE_49_MENU_HEADER">催眠你的目标！</Entry>
   <!--Key "GUI_HYPNOTIST_MENU_OKAY" has the same text as key "GUI_ACCOUNT_NAME_CHANGE_OK"-->
-  <Entry key="GUI_ROLE_49_MENU_OKAY">Okay</Entry>
+  <Entry key="GUI_ROLE_49_MENU_OKAY">确认</Entry>
   <!--Key "GUI_HYPNOTIST_MENU_CANCEL" has the same text as key "GUI_CANCEL"-->
-  <Entry key="GUI_ROLE_49_MENU_CANCEL">Cancel</Entry>
+  <Entry key="GUI_ROLE_49_MENU_CANCEL">取消</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_50">-你在夜晚溜进别人家中，并植入一段记忆。</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_50">-被植入的记忆会干扰别人。
 -如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。</Entry>
@@ -4431,9 +4431,9 @@ Your visits will not trigger any mechanic that relies on you visiting a player. 
   <!--Key "GUI_ROLE_CARD_ALIGNMENT_PESTILENCE" has the same text as key "GUI_PLAYER_STATS_BUTTON_NEUTRAL"-->
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_100">Neutral</Entry>
   <!--Key "GUI_PESTILENCE_TARGETING1" has the same text as key "GUI_WEREWOLF_TARGETING_X1"-->
-  <Entry key="GUI_ROLE_100_TARGETING_X1">You have decided to rampage at %target%'s house tonight.</Entry>
+  <Entry key="GUI_ROLE_100_TARGETING_X1">你决定今晚在 %target% 家中横冲直撞。</Entry>
   <!--Key "GUI_PESTILENCE_TARGETING2" has the same text as key "GUI_WEREWOLF_TARGETING_X2"-->
-  <Entry key="GUI_ROLE_100_TARGETING_X2">You instead decide to rampage at %target%'s house tonight.</Entry>
+  <Entry key="GUI_ROLE_100_TARGETING_X2">你改变主意决定今晚在 %target% 家中横冲直撞。</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_53">-You may choose to attack a player on full moon nights.</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_53">-With each kill your powers grow.</Entry>
   <Entry key="GUI_ROLE_CARD_ABILITY_53_1">-You may choose to attack a player each night.</Entry>
