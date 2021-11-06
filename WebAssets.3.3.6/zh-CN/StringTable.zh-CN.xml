@@ -4401,7 +4401,7 @@ Your visits will not trigger any mechanic that relies on you visiting a player. 
   <Entry key="GUI_ROLE_CARD_ALIGNMENT_50">黑手党</Entry>
   <Entry key="GUI_ROLE_50_TARGETING_X1">你决定催眠 %target%。</Entry>
   <Entry key="GUI_ROLE_50_TARGETING_X2">你改变主意决定催眠 %target%。</Entry>
-  <Entry key="GUI_ROLE_CARD_ABILITY_51">-你可以在你目标家外等候。</Entry>
+  <Entry key="GUI_ROLE_CARD_ABILITY_51">-你可以在你目标家外伺机等待。</Entry>
   <Entry key="GUI_ROLE_CARD_ATTRIBUTE_51">-你会攻击访问你目标的一名玩家。
 -所有访问你目标的玩家会知道你的名字。
 -如果没有可杀伐的黑手党成员，你会成为黑手党喽啰。</Entry>
@@ -4915,8 +4915,8 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GAME_157" style="alert">Your target uses the deceased to do their dirty work. They must be the Necromancer.</Entry>
   <Entry key="GAME_158" style="alert">Your target uses herbs and plants to kill their victims. They must be the Poisoner.</Entry>
   <Entry key="GAME_159" style="alert">Your target has a gaze of stone. They must be Medusa.</Entry>
-  <Entry key="GAME_160" style="alert">Your target lies in wait. They must be an Ambusher.</Entry>
-  <Entry key="GAME_161" style="alert">Your target is skilled at disrupting others. They must be a Hypnotist.</Entry>
+  <Entry key="GAME_160" style="alert">你的目标潜伏以待。他一定是埋伏手。</Entry>
+  <Entry key="GAME_161" style="alert">你的目标擅长扰乱他人。他一定是催眠师。</Entry>
   <Entry key="GAME_162" style="alert">Your trap attacked someone!</Entry>
   <Entry key="GAME_163" style="alert">Your target was hauled off to jail so you couldn't duel them.</Entry>
   <Entry key="GAME_164" style="alert">Your ability failed because your target was in jail.</Entry>
@@ -5238,9 +5238,9 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="CHAT_SOURCE_75">吸血鬼</Entry>
   <Entry key="GUI_DAY_ABILITY">Day Ability</Entry>
   <Entry key="GUI_NIGHT_ABILITY">Night Ability</Entry>
-  <Entry key="GUI_ROLE_11_SECOND_TARGET_TITLE">Transport %player% with ....</Entry><!--Transporter-->
-  <Entry key="GUI_ROLE_32_SECOND_TARGET_TITLE">Control %player% into ....</Entry><!--Witch-->
-  <Entry key="GUI_ROLE_56_SECOND_TARGET_TITLE">Control %player% into ....</Entry><!--Coven Leader-->
+  <Entry key="GUI_ROLE_11_SECOND_TARGET_TITLE">转移 %player% 至 ....</Entry><!--Transporter-->
+  <Entry key="GUI_ROLE_32_SECOND_TARGET_TITLE">控制 %player% 访问 ....</Entry><!--Witch-->
+  <Entry key="GUI_ROLE_56_SECOND_TARGET_TITLE">控制 %player% 访问 ....</Entry><!--Coven Leader-->
   <Entry key="GUI_ROLE_59_SECOND_TARGET_TITLE">Send %player% into ....</Entry><!--Necromancer-->
   <Entry key="GUI_ROLE_ABILITY_VERB">访问</Entry>
   <Entry key="GUI_ROLE_ABILITY_VERB_0">守卫</Entry>
