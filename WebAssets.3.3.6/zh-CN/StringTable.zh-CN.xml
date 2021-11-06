@@ -3554,7 +3554,7 @@ Cancel - 不关闭。</Entry>
   <Entry key="GUI_XSTART_DEFENSE_P1">%name%, you are on trial for conspiracy against the town.</Entry>
   <Entry key="GUI_LYNCH_USER_MAY_GOD_HAVE_MERCY">愿上帝宽恕你的灵魂</Entry>
   <Entry key="GUI_START_DEFENSE_P1">, you are on trial for conspiracy against the town.</Entry>
-  <Entry key="GUI_START_DEFENSE_P2">请发表你的辩解？</Entry>
+  <Entry key="GUI_START_DEFENSE_P2">请发表你的辩解</Entry>
   <Entry key="GUI_XIS_WHISPERING_TO_Y" style="whisper_notice">%name1% 正和 %name2% 窃窃私语。</Entry>
   <Entry key="GUI_PRIVATE_MESSAGE_FROM_X" style="whisper">来自 %name%：</Entry>
   <Entry key="GUI_PRIVATE_MESSAGE_TO_X" style="whisper">致 %name%：</Entry>
@@ -5214,30 +5214,30 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_ROLE_66_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>杀伐系</color>]]></Entry>
   <Entry key="GUI_ROLE_67">小镇 支援系</Entry>
   <Entry key="GUI_ROLE_67_COLORED"><![CDATA[<color=#7FFF00>小镇</color> <color=#1D7CF2>支援系</color>]]></Entry>
-  <Entry key="GUI_ROLE_68">Random Mafia</Entry>
-  <Entry key="GUI_ROLE_68_COLORED"><![CDATA[<color=#1D7CF2>Random</color> <color=#DD0000>Mafia</color>]]></Entry>
-  <Entry key="GUI_ROLE_69">Mafia Support</Entry>
-  <Entry key="GUI_ROLE_69_COLORED"><![CDATA[<color=#DD0000>Mafia</color> <color=#1D7CF2>Support</color>]]></Entry>
-  <Entry key="GUI_ROLE_70">Mafia Deception</Entry>
-  <Entry key="GUI_ROLE_70_COLORED"><![CDATA[<color=#DD0000>Mafia</color> <color=#1D7CF2>Deception</color>]]></Entry>
-  <Entry key="GUI_ROLE_71">Random Neutral</Entry>
-  <Entry key="GUI_ROLE_71_COLORED"><![CDATA[<color=#1D7CF2>Random</color> <color=#CCCCCC>Neutral</color>]]></Entry>
-  <Entry key="GUI_ROLE_72">Neutral Benign</Entry>
-  <Entry key="GUI_ROLE_72_COLORED"><![CDATA[<color=#CCCCCC>Neutral</color> <color=#1D7CF2>Benign</color>]]></Entry>
-  <Entry key="GUI_ROLE_73">Neutral Evil</Entry>
-  <Entry key="GUI_ROLE_73_COLORED"><![CDATA[<color=#CCCCCC>Neutral</color> <color=#1D7CF2>Evil</color>]]></Entry>
-  <Entry key="GUI_ROLE_74">Neutral Killing</Entry>
-  <Entry key="GUI_ROLE_74_COLORED"><![CDATA[<color=#CCCCCC>Neutral</color> <color=#1D7CF2>Killing</color>]]></Entry>
-  <Entry key="GUI_ROLE_75">Any</Entry>
-  <Entry key="GUI_ROLE_76">Neutral Chaos</Entry>
-  <Entry key="GUI_ROLE_76_COLORED"><![CDATA[<color=#CCCCCC>Neutral</color> <color=#1D7CF2>Chaos</color>]]></Entry>
+  <Entry key="GUI_ROLE_68">随机 黑手党</Entry>
+  <Entry key="GUI_ROLE_68_COLORED"><![CDATA[<color=#1D7CF2>随机</color> <color=#DD0000>黑手党</color>]]></Entry>
+  <Entry key="GUI_ROLE_69">黑手党 支援系</Entry>
+  <Entry key="GUI_ROLE_69_COLORED"><![CDATA[<color=#DD0000>黑手党</color> <color=#1D7CF2>支援系</color>]]></Entry>
+  <Entry key="GUI_ROLE_70">黑手党 诡诈系</Entry>
+  <Entry key="GUI_ROLE_70_COLORED"><![CDATA[<color=#DD0000>黑手党</color> <color=#1D7CF2>诡诈系</color>]]></Entry>
+  <Entry key="GUI_ROLE_71">随机 中立</Entry>
+  <Entry key="GUI_ROLE_71_COLORED"><![CDATA[<color=#1D7CF2>随机</color> <color=#CCCCCC>中立</color>]]></Entry>
+  <Entry key="GUI_ROLE_72">中立 温和系</Entry>
+  <Entry key="GUI_ROLE_72_COLORED"><![CDATA[<color=#CCCCCC>中立</color> <color=#1D7CF2>温和系</color>]]></Entry>
+  <Entry key="GUI_ROLE_73">中立 邪恶系</Entry>
+  <Entry key="GUI_ROLE_73_COLORED"><![CDATA[<color=#CCCCCC>中立</color> <color=#1D7CF2>邪恶系</color>]]></Entry>
+  <Entry key="GUI_ROLE_74">中立 杀伐系</Entry>
+  <Entry key="GUI_ROLE_74_COLORED"><![CDATA[<color=#CCCCCC>中立</color> <color=#1D7CF2>杀伐系</color>]]></Entry>
+  <Entry key="GUI_ROLE_75">任意</Entry>
+  <Entry key="GUI_ROLE_76">中立 混沌系</Entry>
+  <Entry key="GUI_ROLE_76_COLORED"><![CDATA[<color=#CCCCCC>中立</color> <color=#1D7CF2>混沌系</color>]]></Entry>
   <Entry key="GUI_ROLE_100">Pestilence</Entry>
   <Entry key="GUI_TAUNT">Taunt</Entry>
   <Entry key="CHAT_SOURCE_30">狱长</Entry>
   <Entry key="CHAT_SOURCE_45">灵媒</Entry>
   <Entry key="CHAT_SOURCE_75">吸血鬼</Entry>
-  <Entry key="GUI_DAY_ABILITY">Day Ability</Entry>
-  <Entry key="GUI_NIGHT_ABILITY">Night Ability</Entry>
+  <Entry key="GUI_DAY_ABILITY">白天能力</Entry>
+  <Entry key="GUI_NIGHT_ABILITY">夜晚能力</Entry>
   <Entry key="GUI_ROLE_11_SECOND_TARGET_TITLE">转移 %player% 至 ....</Entry><!--Transporter-->
   <Entry key="GUI_ROLE_32_SECOND_TARGET_TITLE">控制 %player% 访问 ....</Entry><!--Witch-->
   <Entry key="GUI_ROLE_56_SECOND_TARGET_TITLE">控制 %player% 访问 ....</Entry><!--Coven Leader-->
@@ -5602,15 +5602,15 @@ Continued use of vulgar language may result in automatic suspension.</Entry>
   <Entry key="GUI_TOOLTIP_DISCONNECTED">Disconnected</Entry>
   <Entry key="GUI_TOOLTIP_VIP">VIP</Entry>
   <Entry key="GUI_TOOLTIP_LOVER">Your Lover</Entry>
-  <Entry key="GUI_TOOLTIP_YOUNGEST">Youngest</Entry>
+  <Entry key="GUI_TOOLTIP_YOUNGEST">最年轻</Entry>
   <Entry key="GUI_TOOLTIP_GUARDED">Guarded</Entry>
-  <Entry key="GUI_TOOLTIP_TARGET">Your Target</Entry>
-  <Entry key="GUI_TOOLTIP_NECRONOMICON">Has Necronomicon</Entry>
-  <Entry key="GUI_TOOLTIP_INFECTED">Infected</Entry>
-  <Entry key="GUI_TOOLTIP_ROTTEN">Rotten</Entry>
+  <Entry key="GUI_TOOLTIP_TARGET">你的目标</Entry>
+  <Entry key="GUI_TOOLTIP_NECRONOMICON">持有死灵之书</Entry>
+  <Entry key="GUI_TOOLTIP_INFECTED">被感染</Entry>
+  <Entry key="GUI_TOOLTIP_ROTTEN">已腐烂</Entry>
   <Entry key="GUI_TOOLTIP_HEXED">Hexed</Entry>
-  <Entry key="GUI_TOOLTIP_DOUSED">Doused</Entry>
-  <Entry key="GUI_TOOLTIP_POISONED">Poisoned</Entry>
+  <Entry key="GUI_TOOLTIP_DOUSED">被泼汽油</Entry>
+  <Entry key="GUI_TOOLTIP_POISONED">中毒</Entry>
   <Entry key="GUI_TOOLTIP_TRAPBEINGBUILT">Building Trap</Entry>
   <Entry key="GUI_TOOLTIP_TRAPREADY">Trap Ready</Entry>
   <Entry key="GUI_TOOLTIP_TRAPSET">Trap Set</Entry>
