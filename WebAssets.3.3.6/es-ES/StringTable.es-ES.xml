@@ -1,4 +1,4 @@
-<StringTable hash='nD50Ivf8a88ZPgxIYo5ympaUiDOaQqQBc0D2HqucyRjihaEpIPqTT1igBMp9VDouOmGMBvPAjaH/CDX6NKwkYb5wq/u25qeeaGPbMXL7ZzuA9KbB+oSKEcYxsb3pCSPTrBuMfwAkDoA0PVXuucp5gmDmJXrL0sQ/YSs6S/2Pgo9sMc7VM4dVRxSa8G5HR2rHQejoOXTO5S25bmClCiTldYyDCUVarGd6zz9zGEhq0oBjgsdicVEg83Z86xDh01l8rO7tr8aDI/AJ6rY8AOuIfDZFWeoyyJ1JJ6j6CjYKfK2RrpXOci4hnXO0CsESV0Ch2djvOc0RYApMFUaHG+6kCw=='>
+<StringTable hash='K05kuNqZUsOBK9JpHdsIUMpmgLxeWfREHgwd7SQYVjUzsRh/CbJGj8B5OHV/4XhM4I+n2mjxmMPX/5IiLjqsmOXPBZrLzCPdQxK80HVNLENfizsK4RC/99LgpFiUAlqII3ACBzP5NH/YafDAhLsYSyu6kLEhm0ChGjh1iJHI3vxlX3v2mg3VT+kywMCdYRT0zbUa2dSL8BTwkXkwbH8bPDfIeqMMX+wunyQyV9xU0yfwa1K4CboKE4MVdC0WUkgdoJiQcYIFByWNON4B6GuYyyqEqLq3VTens7JLTtjPn+ayyGuVrgj7qO/C/8vSsurQ0Hc/DoET8hv4AjnF65J9Zw=='>
   <!--ITEM NUMBER TYPES ARE DEFINED IN ProductItem.ItemType enum-->
   <Entry key="ITEM_1_-3">Townie Al Azar</Entry>
   <Entry key="ITEM_1_0">John Hathorne</Entry>
@@ -5681,6 +5681,14 @@ El Aquelarre puso sus manos sobre el personal de Jack y comenzó a canalizar su 
   </Entry>
   <!--NOTE: also be sure to update PatchNotes.xml and BigPatchNotes.xml-->
   <Entry key="GUI_PATCH_NOTES_CONTENT"><![CDATA[
+<b>25/10/2021</b>
+Hola Townies, hoy lanzamos Town of Salem 3.3.6. Este parche actualiza nuestro marco de compras de Unity para mantenerlo actualizado y en funcionamiento. ¡Feliz colgando!
+
+<b><u>Cambios</u></b>
+• <indent=3%><b>Integración de Unity In-App Purchasing:</b> Actualizado a Unity IAP 3.2.3.</indent>
+
+<align=center><b><size=110%>• • •</size></b></align>
+
 <b>13/9/2021</b>
 Hola Townies, hoy lanzamos Town of Salem 3.3.6. Este parche actualiza nuestra integración de Facebook para mantenerla actualizada. También pisamos un par de bichos. ¡Feliz colgando!
 

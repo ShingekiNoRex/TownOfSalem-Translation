@@ -1,4 +1,4 @@
-<StringTable hash='mYSSjrC1I04ReQPLPI65ifyb3t05RH+E4U2/ezRS+7stusaTb65fedbijCy5COQJGwdkcoFdS95LnkcX6YjKxHl6cfyYcUhijpVX1X+ypfutSzRcqzz7lgJEyPPyM+LR3L6QeM01orgQ4SqqW6UIG4qyOReCf8c2huwptiiRSCbe2u3t5S2Qs4tVeT2TqYrO/M0sutEXrI9fDnnkKVI/ViPmfJmTz9rxe2T2929dxYzamLLAUE8T4tbfzbn6+XZEC6AbJqfkfbqrqhrft6zK3+YK7Tu0EODpSwi7LuVWa6xnzSYxSRPccMgsYD/koT/F/+OVJkimE7GO5h/SWHnZnQ=='>
+<StringTable hash='RK7LEzBjS2O2Z0V9o8XCsVIVOM3hdre/5QAzlz5lvqWZUIPvwBesReDIXFSwV/bDL+8fckm/qgeuAWnIkVxsR0WREhDotQbdkqJF7gtW6gdeasfRCOzyBGylJbckl9QsJp415xUFBebdspL6V7ATYPwU5e+qvpLbxvcrT00V4npcpJiBCCi2jQpPjPnM2hzUmV9XFdoHxWMImLPPBIIwaPgGA0C0F0MfNl5v/GGWb9UZOoAAPgnCDgfimy2AqR+brTNSlVhiJRvo2aSoQHzFQDnvJTCEdvbPouUj8oYNtwf3zOiAlZ/6X+CmWX4R3Q9u7/XZKc00zrTM9w8XOOwDHg=='>
   <!--ITEM NUMBER TYPES ARE DEFINED IN ProductItem.ItemType enum-->
   <Entry key="ITEM_1_-3">Random Townie</Entry>
   <Entry key="ITEM_1_0">John Hathorne</Entry>
@@ -5681,6 +5681,14 @@ The Coven placed their hands on Jack’s staff and began to channel their magic.
   </Entry>
   <!--NOTE: also be sure to update PatchNotes.xml and BigPatchNotes.xml-->
   <Entry key="GUI_PATCH_NOTES_CONTENT"><![CDATA[
+<b>10/25/2021</b>
+Hey Townies, today we are releasing Town of Salem 3.3.7. This patch updates our Unity Purchasing framework to keep it current and functioning. Happy hanging!
+
+<b><u>Changes</u></b>
+• <indent=3%><b>Unity In-App Purchasing Integration:</b> Upgraded to Unity IAP 3.2.3.</indent>
+
+<align=center><b><size=110%>• • •</size></b></align>
+      
 <b>9/13/2021</b>
 Hey Townies, today we are releasing Town of Salem 3.3.6. This patch updates our Facebook integration to keep it current. We also stomped a couple of bugs. Happy hanging!
 
