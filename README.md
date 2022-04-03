@@ -8,7 +8,7 @@ Please feel free to give your advice or submit pull requests.
 欢迎提供建议或者提交修改。
 
 # How to install the translation replacer patch （如何安装）
-**Note: Only Chinese is supported for now. （目前仅支持简体中文）**
+**Note: Currently Simplified Chinese is the only supported language. （目前仅支持简体中文）**
 
 ## Method #1:
 
