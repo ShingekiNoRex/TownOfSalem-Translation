@@ -1,4 +1,4 @@
-<StringTable hash='RK7LEzBjS2O2Z0V9o8XCsVIVOM3hdre/5QAzlz5lvqWZUIPvwBesReDIXFSwV/bDL+8fckm/qgeuAWnIkVxsR0WREhDotQbdkqJF7gtW6gdeasfRCOzyBGylJbckl9QsJp415xUFBebdspL6V7ATYPwU5e+qvpLbxvcrT00V4npcpJiBCCi2jQpPjPnM2hzUmV9XFdoHxWMImLPPBIIwaPgGA0C0F0MfNl5v/GGWb9UZOoAAPgnCDgfimy2AqR+brTNSlVhiJRvo2aSoQHzFQDnvJTCEdvbPouUj8oYNtwf3zOiAlZ/6X+CmWX4R3Q9u7/XZKc00zrTM9w8XOOwDHg=='>
+<StringTable hash='WcITkEfPnBKzDEn5FI6Nm/k+ecD9GsR5f1yoR4f8P0BwDo3hDoZdRcELL1Zhfc1moV8X0EEfoZsfQs+VghY50DJ7iwvhcmaOM5XqDnrNgfx/t1d/cIzvwMxP3D9rbqHKoGG9l5vqZyANugdljuMwRDpkaDRYyyoSwlRy8nCGsoVZbbf8ugzXT1KzNHRxZr+ubULb2uvTzk90EQFNrVvTjKf+JgiLyRS66otPBOEdS4bjWyYpRlaC4eNY/1hVOp5Yz6OT4m1SN0mKtTawYjw2jEfv2f2S3p+HTzLmHmHT7BdOIj1ans6NupGLVbmpM9hfwsGQtUVcOcy4jjkI5agYow=='>
   <!--ITEM NUMBER TYPES ARE DEFINED IN ProductItem.ItemType enum-->
   <Entry key="ITEM_1_-3">Random Townie</Entry>
   <Entry key="ITEM_1_0">John Hathorne</Entry>
@@ -761,7 +761,7 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_HOME_SOCIAL_MEDIA">Social Media</Entry>
   <Entry key="GUI_HOME_FOLLOW_US">Follow Us</Entry>
   <Entry key="GUI_HOME_ANNOUNCEMENTS">Latest Forum Announcements</Entry>
-  <Entry key="GUI_HOME_YOU_TUBE_VIDEO">Latest YouTube Video</Entry>
+  <Entry key="GUI_HOME_YOU_TUBE_VIDEO">Community Video Content</Entry>
   <Entry key="GUI_HOME_FEATURED_ITEM">Featured Item</Entry>
   <Entry key="GUI_HOME_NO_ITEMS">No Items</Entry>
   
@@ -1340,6 +1340,10 @@ Premium Account</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB4">&#8226; Better support for modern devices</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB5">&#8226; Flexibility for future development</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB6">&#8226; More to come...</Entry>
+  
+  <Entry key="GUI_LIVETILE_TRAITORS_TITLE">Announcing <![CDATA[<color=#c360fe><size=120%>]]>Traitors in Salem<![CDATA[<size=100%></color>]]> launch date!</Entry>
+  <Entry key="GUI_LIVETILE_TRAITORS_READ_MORE">Read More</Entry>
+  <Entry key="GUI_LIVETILE_TRAITORS_BLURB1">The Next Evolution of Salem!</Entry>
   
   <Entry key="GUI_POPUP_AFK_TITLE">AFK</Entry>
   <Entry key="GUI_POPUP_AFK_BLURB">You are now AFK. Click anywhere to prevent automatic logout.</Entry>
@@ -5681,8 +5685,13 @@ The Coven placed their hands on Jack’s staff and began to channel their magic.
   </Entry>
   <!--NOTE: also be sure to update PatchNotes.xml and BigPatchNotes.xml-->
   <Entry key="GUI_PATCH_NOTES_CONTENT"><![CDATA[
+<b>02/28/2022</b>
+Hey Townies, today we are releasing Town of Salem 3.3.7 for Steam. This patch addresses an issue that recently arose with Steam authentication tickets. Happy hanging!
+
+<align=center><b><size=110%>• • •</size></b></align>
+
 <b>10/25/2021</b>
-Hey Townies, today we are releasing Town of Salem 3.3.7. This patch updates our Unity Purchasing framework to keep it current and functioning. Happy hanging!
+Hey Townies, today we are releasing Town of Salem 3.3.7 for mobile. This patch updates our Unity Purchasing framework to keep it current and functioning. Happy hanging!
 
 <b><u>Changes</u></b>
 • <indent=3%><b>Unity In-App Purchasing Integration:</b> Upgraded to Unity IAP 3.2.3.</indent>

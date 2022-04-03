@@ -1,4 +1,4 @@
-<StringTable hash='K05kuNqZUsOBK9JpHdsIUMpmgLxeWfREHgwd7SQYVjUzsRh/CbJGj8B5OHV/4XhM4I+n2mjxmMPX/5IiLjqsmOXPBZrLzCPdQxK80HVNLENfizsK4RC/99LgpFiUAlqII3ACBzP5NH/YafDAhLsYSyu6kLEhm0ChGjh1iJHI3vxlX3v2mg3VT+kywMCdYRT0zbUa2dSL8BTwkXkwbH8bPDfIeqMMX+wunyQyV9xU0yfwa1K4CboKE4MVdC0WUkgdoJiQcYIFByWNON4B6GuYyyqEqLq3VTens7JLTtjPn+ayyGuVrgj7qO/C/8vSsurQ0Hc/DoET8hv4AjnF65J9Zw=='>
+<StringTable hash='BCHcY/P6IEi0ngQWKx+RUx1CLEkLfALmnW7DieDaHVO7HMmqk8mBJ9rDc4jCcHjc/Hj4NVrjDjNr6CXACqR3nbsqm4aJmu8yrzilUCwn3rAutEZ/BaFgoKVZkg+Xhgo7njaEbKA+Ge2lDbNMRP/lKFDHIKF2ALO0tnsJssTLFqjJ/bVibr3GmZG5WrmnOx2n0HJZ2IqNu99KVQX/vxJdp+5D1VCiDOGlTJufTNYQDfi79Y/hDN123P+Kn3rpxDjVV6bAIG581no3ZTA1hJJAsYgx9PrkXO7kBiehF1Oagd2Om21GpAmDu8h2mma0xkWHmgLTxi+59KdWY87CxEusFQ=='>
   <!--ITEM NUMBER TYPES ARE DEFINED IN ProductItem.ItemType enum-->
   <Entry key="ITEM_1_-3">Townie Al Azar</Entry>
   <Entry key="ITEM_1_0">John Hathorne</Entry>
@@ -1340,6 +1340,10 @@ Cuenta privilegiada</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB4">&#8226; Mejor soporte para dispositivos modernos</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB5">&#8226; Flexibilidad para el desarrollo futuro</Entry>
   <Entry key="GUI_LIVETILE_NEW_TOWN2_BLURB6">&#8226; Más por venir ... </Entry>
+  
+  <Entry key="GUI_LIVETILE_TRAITORS_TITLE">Announcing <![CDATA[<color=#c360fe><size=120%>]]>Traitors in Salem<![CDATA[<size=100%></color>]]> launch date!</Entry>
+  <Entry key="GUI_LIVETILE_TRAITORS_READ_MORE">Read More</Entry>
+  <Entry key="GUI_LIVETILE_TRAITORS_BLURB1">The Next Evolution of Salem!</Entry>
   
   <Entry key="GUI_POPUP_AFK_TITLE">AFK</Entry>
   <Entry key="GUI_POPUP_AFK_BLURB">Ahora estás AFK. Haga clic en cualquier lugar para evitar el cierre de sesión automático.</Entry>
@@ -5681,6 +5685,11 @@ El Aquelarre puso sus manos sobre el personal de Jack y comenzó a canalizar su 
   </Entry>
   <!--NOTE: also be sure to update PatchNotes.xml and BigPatchNotes.xml-->
   <Entry key="GUI_PATCH_NOTES_CONTENT"><![CDATA[
+<b>28/02/2022</b>
+Hola Townies, hoy lanzamos Town of Salem 3.3.7 para Steam. Este parche soluciona un problema que surgió recientemente con los vales de autenticación de Steam. ¡Feliz colgando!
+
+<align=center><b><size=110%>• • •</size></b></align>
+
 <b>25/10/2021</b>
 Hola Townies, hoy lanzamos Town of Salem 3.3.6. Este parche actualiza nuestro marco de compras de Unity para mantenerlo actualizado y en funcionamiento. ¡Feliz colgando!
 
