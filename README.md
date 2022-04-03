@@ -12,7 +12,7 @@ Please feel free to give your advice or submit pull requests.
 
 ## Method #1:
 
-1. Download `TownOfSalem-zh-CN-v1.0.rar` from [here](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)
+1. Download `TownOfSalem-zh-CN-v1.x.rar` from [here](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)
 
 2. Extract to `steamapps\common\Town of Salem\`
 
@@ -33,7 +33,7 @@ Please feel free to give your advice or submit pull requests.
 ---------------------------------------------------------------------------------
 
 ## 方法 #1：
-1. [点击此处](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)下载 `TownOfSalem-zh-CN-v1.0.rar`
+1. [点击此处](https://github.com/ShingekiNoRex/TownOfSalem-Translation/releases)下载 `TownOfSalem-zh-CN-v1.x.rar`
 
 2. 解压至 `steamapps\common\Town of Salem\`
 
