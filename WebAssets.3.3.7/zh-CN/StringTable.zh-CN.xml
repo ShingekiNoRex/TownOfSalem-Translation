@@ -987,9 +987,9 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_NORMAL_TYPE_SUMMARY">Normal games are games with a pre-set role list. These games include a game mode usually for beginners, Ranked Practice which 10 games are needed to unlocked ranked, and Ranked which requires you to have played 50 games with 10 of those being Ranked Practice games.</Entry>
   <Entry key="GUI_CUSTOM_TYPE_SUMMARY">Custom games allows the host to pick and choose their own role list.</Entry>
   <Entry key="GUI_CHAOS_TYPE_SUMMARY">Chaos games include pre-set role lists that are meant to be fun!</Entry>
-  <Entry key="GUI_CLASSIC_SUMMARY">Classic mode has a smaller variety of roles and less random roles. </Entry>
-  <Entry key="GUI_CUSTOM_SUMMARY">Custom mode has access to all roles. </Entry>
-  <Entry key="GUI_ALL_ANY_SUMMARY">All Any mode has a role list of Any roles. </Entry>
+  <Entry key="GUI_CLASSIC_SUMMARY">标准模式的身份列表较为固定，只拥有少量的随机身份。</Entry>
+  <Entry key="GUI_CUSTOM_SUMMARY">自定义模式能选择所有身份。</Entry>
+  <Entry key="GUI_ALL_ANY_SUMMARY">全部任意模式的身份都是随机的。</Entry>
   <Entry key="GUI_RAPID_MODE_SUMMARY">快速模式有更快的讨论和夜晚阶段。</Entry>
   <Entry key="GUI_VIGILANTICS_SUMMARY">民兵 vs 女巫。 </Entry>
   <Entry key="GUI_RANKED_SUMMARY">For experienced, competitive players. You must have at least 50 games played, with 10 of those being ranked practice games, before you can play Ranked.</Entry>
@@ -997,15 +997,15 @@ Let's create a new Town of Salem account and link it to your Steam account.</Ent
   <Entry key="GUI_COVEN_RANKED_SUMMARY">For experienced, competitive players. You must have at least 50 games played, with 10 of those being Coven games and 10 of those being ranked practice games, before you can play Ranked.</Entry>
   <Entry key="GUI_COVEN_RANKED_PRACTICE_SUMMARY">A practice mode for ranked competitive play with its own unique role list.</Entry>
   <Entry key="GUI_COVEN_MAFIA_SUMMARY">The mafia is back and stronger than ever, with two new members!</Entry>
-  <Entry key="GUI_DRACULAS_PALACE_SUMMARY">Vampires have taken over the Town. Trust no one.</Entry>
+  <Entry key="GUI_DRACULAS_PALACE_SUMMARY">吸血鬼已经占领了小镇，不要相信任何人。</Entry>
   <Entry key="GUI_RAINBOW_SUMMARY">A little bit of everything. </Entry>
   <Entry key="GUI_TUTORIAL_SUMMARY">How to play Town of Salem. </Entry>
   <Entry key="GUI_COVEN_CUSTOM_SUMMARY">Choose from any of the Classic or Coven roles.</Entry>
   <!--Key "GUI_COVEN_CLASSIC_SUMMARY" has the same text as key "GUI_CLASSIC_SUMMARY"-->
-  <Entry key="GUI_COVEN_CLASSIC_SUMMARY">Classic mode has a smaller variety of roles and less random roles. </Entry>
+  <Entry key="GUI_COVEN_CLASSIC_SUMMARY">标准模式的身份列表较为固定，只拥有少量的随机身份。</Entry>
   <Entry key="GUI_COVEN_VIP_SUMMARY">This mode is a Town vs Coven mode that will have a Town member randomly selected to be the VIP. If the VIP dies the town loses. </Entry>
   <!--Key "GUI_COVEN_ALL_ANY_SUMMARY" has the same text as key "GUI_ALL_ANY_SUMMARY"-->
-  <Entry key="GUI_COVEN_ALL_ANY_SUMMARY">All Any mode has a role list of Any roles. </Entry>
+  <Entry key="GUI_COVEN_ALL_ANY_SUMMARY">全部任意模式的身份都是随机的。</Entry>
   <Entry key="GUI_DEV_ROOM_SUMMARY">Devs are the best!</Entry>
   <Entry key="GUI_COVEN_LOVERS_SUMMARY">This mode is a Town vs Killers mode that will randomly pair people as Lovers. Keep your lover alive, regardless of their faction!</Entry>
   <Entry key="GUI_COVEN_RIVALS_SUMMARY">This mode is a Town vs Killers mode that will randomly pair people as Rivals. Kill your rival at any cost, regardless of their faction!</Entry>
@@ -1563,7 +1563,7 @@ Premium Account</Entry>
   <Entry key="GUI_SETTINGS_TAKE_EFFECT_NEXT_GAME">The following settings will take effect on your next game:</Entry>
   <Entry key="GUI_SETTINGS_MUSIC_CHECKBOX">音乐</Entry>
   <Entry key="GUI_SETTINGS_EFFECTS_CHECKBOX">音效</Entry>
-  <Entry key="GUI_SETTINGS_QUEUE_LABEL">Preferred Chat Language</Entry>
+  <Entry key="GUI_SETTINGS_QUEUE_LABEL">偏好聊天语言</Entry>
   <Entry key="GUI_SETTINGS_TUTORIAL_TIP_LABEL">Tutorial Tips:</Entry>
   <Entry key="GUI_SETTINGS_GRAPHICS_LEVEL_LABEL">Graphics Level:</Entry>
   <Entry key="GUI_SETTINGS_QUEUE_LANGUAGE_0">选择语言</Entry>
@@ -1576,7 +1576,7 @@ Premium Account</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_SEND_CHAT_ON_LOST_FOCUS_CHECKBOX">Send Chat on Lost Focus</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_SEND_CHAT_ON_LOST_FOCUS_TOOLTIP">Enable "Send Chat on Lost Focus" to always send chat messages when the chatbox loses focus, rather than just on pressing Enter or Return key.</Entry>
   <Entry key="GUI_SETTINGS_CHAT_ENABLE_EXT_PLAYER_NUMBERS_CHECKBOX">显示拓展玩家编号</Entry>
-  <Entry key="GUI_SETTINGS_CHAT_ENABLE_EXT_PLAYER_NUMBERS_TOOLTIP">Enable "Show Extended Player Numbers" to show the position number of players referenced in game messages.</Entry>
+  <Entry key="GUI_SETTINGS_CHAT_ENABLE_EXT_PLAYER_NUMBERS_TOOLTIP">启用以在游戏消息中显示玩家的位置编号。</Entry>
   <Entry key="GUI_SETTINGS_CHAT_FILTER_CHECKBOX">启用聊天过滤</Entry>
   <Entry key="GUI_SETTINGS_CHAT_FILTER_TOOLTIP">启用以过滤侮辱性文字。</Entry>
   <Entry key="GUI_SETTINGS_FULLSCREEN_BUTTON">切换全屏</Entry>
